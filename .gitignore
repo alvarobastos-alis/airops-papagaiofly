@@ -1,0 +1,71 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Build
+dist/
+build/
+.vite/
+*.tsbuildinfo
+
+# Environment — NEVER commit
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE
+.vscode/settings.json
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Testing
+coverage/
+security/garak/reports/*.json
+security/garak/reports/*.html
+security/garak/reports/*.jsonl
+playwright-report/
+test-results/
+
+# Database
+*.sqlite
+*.db
+
+# Cache
+.turbo
+.cache
+.eslintcache
+
+# Runtime
+*.pid
+*.seed
+*.pid.lock
+
+# Python
+__pycache__/
+*.pyc
+venv/
+server_python/venv/
+
+# Large support documents (>100MB)
+docs/docs_suportes/*.pdf
+
+# Misc
+.vercel
+.netlify

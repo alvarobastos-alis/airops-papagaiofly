@@ -1,0 +1,529 @@
+[
+  {
+    "document_id": "politica_papagaio_fly",
+    "nome": "Política Interna Papagaio Fly",
+    "tipo": "politica_interna",
+    "autoridade": "Papagaio Fly",
+    "tema_principal": "politica_companhia",
+    "subtemas": [
+      "reembolso",
+      "remarcacao",
+      "cancelamento",
+      "assistencia_material",
+      "bagagem",
+      "overbooking",
+      "atendimento",
+      "tarifas",
+      "programa_fidelidade",
+      "compensacoes"
+    ],
+    "jurisdicao": "Brasil",
+    "vigencia_inicio": "2026-01-01",
+    "vigencia_fim": null,
+    "versao": "v1_2026_04",
+    "arquivo_pdf": "../../docs/docs_suportes/politica_papagaio_fly.pdf",
+    "prioridade": 0,
+    "legal_weight": "politica_interna",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro",
+      "carga"
+    ],
+    "notas": "DOCUMENTO PRIMÁRIO. Política oficial da Papagaio Fly. Deve ser consultada ANTES de qualquer norma externa. Define regras de negócio, tarifas, compensações e procedimentos internos da companhia."
+  },
+  {
+    "document_id": "anac_res_400",
+    "nome": "Resolução ANAC nº 400/2016",
+    "tipo": "norma_publica",
+    "autoridade": "ANAC",
+    "tema_principal": "direitos_passageiro",
+    "subtemas": [
+      "atraso",
+      "cancelamento",
+      "reembolso",
+      "remarcacao",
+      "assistencia_material",
+      "pretericao",
+      "bagagem"
+    ],
+    "jurisdicao": "Brasil",
+    "vigencia_inicio": "2017-03-14",
+    "vigencia_fim": null,
+    "versao": "compilada_2026_04",
+    "arquivo_pdf": "../../docs/docs_suportes/resolucao-400-anac.pdf",
+    "prioridade": 1,
+    "legal_weight": "regulacao_anac",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "notas": "Principal norma de proteção ao passageiro. Base para quase todas as decisões de SAC."
+  },
+  {
+    "document_id": "anac_res_280",
+    "nome": "Resolução ANAC nº 280/2013",
+    "tipo": "norma_publica",
+    "autoridade": "ANAC",
+    "tema_principal": "acessibilidade",
+    "subtemas": [
+      "pnae",
+      "acessibilidade",
+      "embarque_prioritario"
+    ],
+    "jurisdicao": "Brasil",
+    "vigencia_inicio": "2014-01-01",
+    "vigencia_fim": null,
+    "versao": "compilada_2026_04",
+    "arquivo_pdf": "../../docs/docs_suportes/RESOLUÇÃO No- 280, DE 11 DE JULHO DE 2013.pdf",
+    "prioridade": 1,
+    "legal_weight": "regulacao_anac",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "notas": "Acessibilidade no transporte aéreo. PNAE e atendimento prioritário."
+  },
+  {
+    "document_id": "anac_port_12307_animais",
+    "nome": "Portaria ANAC nº 12.307/2023",
+    "tipo": "norma_publica",
+    "autoridade": "ANAC",
+    "tema_principal": "transporte_animais",
+    "subtemas": [
+      "pet_cabine",
+      "animal_carga",
+      "animal_apoio_emocional"
+    ],
+    "jurisdicao": "Brasil",
+    "vigencia_inicio": "2023-07-01",
+    "vigencia_fim": null,
+    "versao": "original",
+    "arquivo_pdf": "../../docs/docs_suportes/Portaria ANAC 12.307-2023 — animais.pdf",
+    "prioridade": 2,
+    "legal_weight": "regulacao_anac",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "notas": "Regras para transporte de animais em aeronaves. Diferencia pet em cabine vs carga."
+  },
+  {
+    "document_id": "cba",
+    "nome": "Código Brasileiro de Aeronáutica (Lei 7.565/1986)",
+    "tipo": "norma_publica",
+    "autoridade": "Planalto",
+    "tema_principal": "legislacao_aeronautica",
+    "subtemas": [
+      "contrato_transporte",
+      "responsabilidade",
+      "bagagem",
+      "carga"
+    ],
+    "jurisdicao": "Brasil",
+    "vigencia_inicio": "1986-12-19",
+    "vigencia_fim": null,
+    "versao": "compilada_2026_04",
+    "arquivo_pdf": "../../docs/docs_suportes/CBA.pdf",
+    "prioridade": 2,
+    "legal_weight": "lei_federal",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro",
+      "carga"
+    ],
+    "notas": "Lei federal que regulamenta a aviação civil. Complementar às resoluções ANAC."
+  },
+  {
+    "document_id": "cdc",
+    "nome": "Código de Defesa do Consumidor (Lei 8.078/1990)",
+    "tipo": "norma_publica",
+    "autoridade": "Planalto",
+    "tema_principal": "direitos_consumidor",
+    "subtemas": [
+      "responsabilidade",
+      "praticas_abusivas",
+      "publicidade",
+      "contratos"
+    ],
+    "jurisdicao": "Brasil",
+    "vigencia_inicio": "1991-03-11",
+    "vigencia_fim": null,
+    "versao": "compilada_2026_04",
+    "arquivo_pdf": "../../docs/docs_suportes/CDC.pdf",
+    "prioridade": 2,
+    "legal_weight": "lei_federal",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "notas": "Aplicável a todos os serviços de transporte aéreo ao consumidor."
+  },
+  {
+    "document_id": "lgpd",
+    "nome": "Lei Geral de Proteção de Dados (Lei 13.709/2018)",
+    "tipo": "norma_publica",
+    "autoridade": "Planalto",
+    "tema_principal": "protecao_dados",
+    "subtemas": [
+      "consentimento",
+      "dados_pessoais",
+      "dados_sensiveis",
+      "direitos_titular"
+    ],
+    "jurisdicao": "Brasil",
+    "vigencia_inicio": "2020-09-18",
+    "vigencia_fim": null,
+    "versao": "compilada_2026_04",
+    "arquivo_pdf": "../../docs/docs_suportes/LGPD.pdf",
+    "prioridade": 3,
+    "legal_weight": "lei_federal",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro",
+      "carga"
+    ],
+    "notas": "Relevante para tratamento de dados de passageiros (PNR, CPF, etc)."
+  },
+  {
+    "document_id": "decreto_sac_11034",
+    "nome": "Decreto SAC nº 11.034/2022",
+    "tipo": "norma_publica",
+    "autoridade": "Planalto",
+    "tema_principal": "atendimento_consumidor",
+    "subtemas": [
+      "sac",
+      "ouvidoria",
+      "prazos",
+      "canais"
+    ],
+    "jurisdicao": "Brasil",
+    "vigencia_inicio": "2022-04-05",
+    "vigencia_fim": null,
+    "versao": "original",
+    "arquivo_pdf": "../../docs/docs_suportes/Decreto SAC 11.034-2022.pdf",
+    "prioridade": 2,
+    "legal_weight": "decreto_federal",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "notas": "Regras do SAC (Serviço de Atendimento ao Consumidor) para empresas reguladas."
+  },
+  {
+    "document_id": "decreto_ecommerce_7962",
+    "nome": "Decreto E-commerce nº 7.962/2013",
+    "tipo": "norma_publica",
+    "autoridade": "Planalto",
+    "tema_principal": "comercio_eletronico",
+    "subtemas": [
+      "direito_arrependimento",
+      "informacao_clara",
+      "atendimento_facilitado"
+    ],
+    "jurisdicao": "Brasil",
+    "vigencia_inicio": "2013-03-15",
+    "vigencia_fim": null,
+    "versao": "original",
+    "arquivo_pdf": "../../docs/docs_suportes/Decreto e-commerce 7.962-2013.pdf",
+    "prioridade": 3,
+    "legal_weight": "decreto_federal",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "notas": "Aplicável a vendas online de passagens. Direito de arrependimento em 7 dias."
+  },
+  {
+    "document_id": "conv_montreal",
+    "nome": "Convenção de Montreal (Decreto 5.910/2006)",
+    "tipo": "norma_publica",
+    "autoridade": "ICAO",
+    "tema_principal": "transporte_aereo_internacional",
+    "subtemas": [
+      "responsabilidade",
+      "bagagem_internacional",
+      "atraso_internacional",
+      "limites_indenizacao"
+    ],
+    "jurisdicao": "Internacional",
+    "vigencia_inicio": "2006-09-27",
+    "vigencia_fim": null,
+    "versao": "compilada",
+    "arquivo_pdf": "../../docs/docs_suportes/Convenção de Montreal.pdf",
+    "prioridade": 1,
+    "legal_weight": "tratado_internacional",
+    "flight_scope": [
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro",
+      "carga"
+    ],
+    "notas": "Limites de responsabilidade em voos internacionais. Prevalece sobre lei local para bagagem."
+  },
+  {
+    "document_id": "rbac_91",
+    "nome": "RBAC nº 91 — Regras Gerais de Operação",
+    "tipo": "norma_publica",
+    "autoridade": "ANAC",
+    "tema_principal": "operacao_aeronaves",
+    "subtemas": [
+      "regras_operacao",
+      "equipamentos",
+      "manuais"
+    ],
+    "jurisdicao": "Brasil",
+    "vigencia_inicio": null,
+    "vigencia_fim": null,
+    "versao": "vigente",
+    "arquivo_pdf": "../../docs/docs_suportes/RBAC Nº 91.pdf",
+    "prioridade": 3,
+    "legal_weight": "regulacao_anac",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "operacional"
+    ],
+    "notas": "Regulamento operacional. Referência indireta para SAC."
+  },
+  {
+    "document_id": "rbac_119",
+    "nome": "RBAC nº 119 — Certificação de Operadores",
+    "tipo": "norma_publica",
+    "autoridade": "ANAC",
+    "tema_principal": "certificacao_operadores",
+    "subtemas": [
+      "certificacao",
+      "autorizacao"
+    ],
+    "jurisdicao": "Brasil",
+    "vigencia_inicio": null,
+    "vigencia_fim": null,
+    "versao": "vigente",
+    "arquivo_pdf": "../../docs/docs_suportes/RBAC Nº 119.pdf",
+    "prioridade": 3,
+    "legal_weight": "regulacao_anac",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "operacional"
+    ],
+    "notas": "Certificação de operadores aéreos."
+  },
+  {
+    "document_id": "rbac_121",
+    "nome": "RBAC nº 121 — Requisitos Operacionais (Grandes Aeronaves)",
+    "tipo": "norma_publica",
+    "autoridade": "ANAC",
+    "tema_principal": "operacao_grandes_aeronaves",
+    "subtemas": [
+      "tripulacao",
+      "seguranca_operacional",
+      "manuais"
+    ],
+    "jurisdicao": "Brasil",
+    "vigencia_inicio": null,
+    "vigencia_fim": null,
+    "versao": "vigente",
+    "arquivo_pdf": "../../docs/docs_suportes/RBAC Nº 121.pdf",
+    "prioridade": 3,
+    "legal_weight": "regulacao_anac",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "operacional"
+    ],
+    "notas": "Operações de transporte aéreo regular."
+  },
+  {
+    "document_id": "rbac_129",
+    "nome": "RBAC nº 129 — Operações de Empresas Estrangeiras",
+    "tipo": "norma_publica",
+    "autoridade": "ANAC",
+    "tema_principal": "operacoes_estrangeiras",
+    "subtemas": [
+      "codeshare",
+      "operacao_estrangeira"
+    ],
+    "jurisdicao": "Brasil",
+    "vigencia_inicio": null,
+    "vigencia_fim": null,
+    "versao": "vigente",
+    "arquivo_pdf": "../../docs/docs_suportes/RBAC Nº 129.pdf",
+    "prioridade": 3,
+    "legal_weight": "regulacao_anac",
+    "flight_scope": [
+      "internacional"
+    ],
+    "business_scope": [
+      "operacional"
+    ],
+    "notas": "Regras para operadoras estrangeiras no Brasil."
+  },
+  {
+    "document_id": "rbac_135",
+    "nome": "RBAC nº 135 — Operações Complementares e Sob Demanda",
+    "tipo": "norma_publica",
+    "autoridade": "ANAC",
+    "tema_principal": "operacoes_complementares",
+    "subtemas": [
+      "taxi_aereo",
+      "fretamento"
+    ],
+    "jurisdicao": "Brasil",
+    "vigencia_inicio": null,
+    "vigencia_fim": null,
+    "versao": "vigente",
+    "arquivo_pdf": "../../docs/docs_suportes/RBAC Nº 135.pdf",
+    "prioridade": 3,
+    "legal_weight": "regulacao_anac",
+    "flight_scope": [
+      "domestico"
+    ],
+    "business_scope": [
+      "operacional"
+    ],
+    "notas": "Taxi aéreo e voos fretados."
+  },
+  {
+    "document_id": "rbac_175",
+    "nome": "RBAC nº 175 — Transporte de Artigos Perigosos",
+    "tipo": "norma_publica",
+    "autoridade": "ANAC",
+    "tema_principal": "artigos_perigosos",
+    "subtemas": [
+      "artigos_perigosos",
+      "bateria_litio",
+      "power_bank",
+      "liquidos"
+    ],
+    "jurisdicao": "Brasil",
+    "vigencia_inicio": null,
+    "vigencia_fim": null,
+    "versao": "vigente",
+    "arquivo_pdf": "../../docs/docs_suportes/RBAC Nº 175.pdf",
+    "prioridade": 2,
+    "legal_weight": "regulacao_anac",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro",
+      "carga"
+    ],
+    "notas": "Regras para power bank, baterias de lítio, líquidos, etc. Impacto direto no SAC."
+  },
+  {
+    "document_id": "emenda_rbac_107",
+    "nome": "Emenda RBAC nº 107 — Segurança da Aviação Civil",
+    "tipo": "norma_publica",
+    "autoridade": "ANAC",
+    "tema_principal": "seguranca_aviacao",
+    "subtemas": [
+      "seguranca",
+      "inspecao",
+      "controle_acesso"
+    ],
+    "jurisdicao": "Brasil",
+    "vigencia_inicio": null,
+    "vigencia_fim": null,
+    "versao": "vigente",
+    "arquivo_pdf": "../../docs/docs_suportes/Emenda ao Compêndio de Elementos de Fiscalização - RBAC 107.pdf",
+    "prioridade": 3,
+    "legal_weight": "regulacao_anac",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "operacional"
+    ],
+    "notas": "Segurança AVSEC."
+  },
+  {
+    "document_id": "emenda_rbac_108",
+    "nome": "Emenda RBAC nº 108 — Segurança em Aeródromos",
+    "tipo": "norma_publica",
+    "autoridade": "ANAC",
+    "tema_principal": "seguranca_aerodromos",
+    "subtemas": [
+      "seguranca",
+      "aeroporto"
+    ],
+    "jurisdicao": "Brasil",
+    "vigencia_inicio": null,
+    "vigencia_fim": null,
+    "versao": "vigente",
+    "arquivo_pdf": "../../docs/docs_suportes/Emenda ao Compêndio de Elementos de Fiscalização - RBAC 108.pdf",
+    "prioridade": 3,
+    "legal_weight": "regulacao_anac",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "operacional"
+    ],
+    "notas": "Segurança em aeródromos."
+  },
+  {
+    "document_id": "emenda_rbac_110",
+    "nome": "Emenda RBAC nº 110 — Requisitos de Segurança para Operadores",
+    "tipo": "norma_publica",
+    "autoridade": "ANAC",
+    "tema_principal": "seguranca_operadores",
+    "subtemas": [
+      "seguranca",
+      "operadores"
+    ],
+    "jurisdicao": "Brasil",
+    "vigencia_inicio": null,
+    "vigencia_fim": null,
+    "versao": "vigente",
+    "arquivo_pdf": "../../docs/docs_suportes/Emenda ao Compêndio de Elementos de Fiscalização - RBAC 110.pdf",
+    "prioridade": 3,
+    "legal_weight": "regulacao_anac",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "operacional"
+    ],
+    "notas": "Requisitos de segurança para operadores aéreos."
+  }
+]

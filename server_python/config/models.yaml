@@ -1,0 +1,78 @@
+# ==========================================
+# AirOps AI — Model Catalog
+# Central registry of all LLM/AI model configs
+# Change behavior without touching code
+# ==========================================
+
+models:
+  # --- Text Models ---
+  text_safe:
+    provider: openai
+    model: gpt-5.5
+    temperature: 0.2
+    top_p: 1.0
+    max_output_tokens: 800
+    response_format: json_schema
+    description: "Modelo principal para SAC. Equilíbrio entre criatividade e segurança."
+
+  text_precise:
+    provider: openai
+    model: gpt-5.5
+    temperature: 0.0
+    top_p: 0.9
+    max_output_tokens: 1200
+    response_format: json_schema
+    description: "Modelo para RAG/normas. Determinístico, zero criatividade."
+
+  text_fast:
+    provider: openai
+    model: gpt-4o-mini
+    temperature: 0.1
+    top_p: 1.0
+    max_output_tokens: 500
+    description: "Modelo leve para classificação, enrichment e groundedness."
+
+  # --- Embedding Model ---
+  embedding:
+    provider: openai
+    model: text-embedding-3-large
+    dimensions: 1536
+    description: "Modelo de embeddings para busca vetorial no Qdrant."
+
+  # --- Voice Models ---
+  voice_realtime:
+    provider: openai
+    model: gpt-realtime
+    voice: alloy
+    speed: 1.0
+    max_response_output_tokens: 500
+    turn_detection:
+      type: server_vad
+      silence_duration_ms: 700
+    description: "Modelo Realtime API (legado relay). Manter como fallback."
+
+  voice_stt:
+    provider: openai
+    model: gpt-4o-transcribe
+    language: pt
+    prompt: "Transcrição de atendimento ao cliente de companhia aérea brasileira."
+    description: "Speech-to-Text para pipeline de voz server-side."
+
+  voice_tts:
+    provider: openai
+    model: gpt-5.4-mini-tts
+    voice: alloy
+    speed: 1.0
+    instructions: "Voz profissional, empática e clara. Português brasileiro."
+    description: "Text-to-Speech para pipeline de voz server-side."
+
+  # --- Image Models ---
+  image_brand:
+    provider: openai
+    model: gpt-image-1
+    size: 1024x1024
+    quality: high
+    output_format: png
+    background: auto
+    moderation: auto
+    description: "Geração de imagens com identidade visual da marca."

@@ -1,0 +1,3108 @@
+[
+  {
+    "id": "704dac1e-0799-414f-8a7a-345bfafa3a5a",
+    "flightNumber": "AO1146",
+    "airline": "AirOps",
+    "origin": {
+      "code": "GIG",
+      "name": "Galeão",
+      "city": "Rio de Janeiro",
+      "terminal": "2"
+    },
+    "destination": {
+      "code": "BSB",
+      "name": "Brasília",
+      "city": "Brasília"
+    },
+    "scheduledDeparture": "2026-04-24T12:49:17.282Z",
+    "status": "on-time",
+    "gate": "A12",
+    "aircraft": "Embraer E195-E2",
+    "fareClass": "economy"
+  },
+  {
+    "id": "25e27011-4660-4de7-93f6-12a0cb0fc1ed",
+    "flightNumber": "AO5113",
+    "airline": "AirOps",
+    "origin": {
+      "code": "FOR",
+      "name": "Pinto Martins",
+      "city": "Fortaleza"
+    },
+    "destination": {
+      "code": "SDU",
+      "name": "Santos Dumont",
+      "city": "Rio de Janeiro"
+    },
+    "scheduledDeparture": "2026-04-25T13:45:31.585Z",
+    "status": "on-time",
+    "gate": "D9",
+    "aircraft": "Embraer E195-E2",
+    "fareClass": "business"
+  },
+  {
+    "id": "5709f139-794b-4016-a746-855901e0caa2",
+    "flightNumber": "AO4644",
+    "airline": "AirOps",
+    "origin": {
+      "code": "GIG",
+      "name": "Galeão",
+      "city": "Rio de Janeiro",
+      "terminal": "2"
+    },
+    "destination": {
+      "code": "VCP",
+      "name": "Viracopos",
+      "city": "Campinas"
+    },
+    "scheduledDeparture": "2026-04-24T14:13:23.816Z",
+    "status": "cancelled",
+    "gate": "A12",
+    "aircraft": "Airbus A320neo",
+    "fareClass": "business"
+  },
+  {
+    "id": "4760a9f3-4cd1-4531-ad1f-95e659a704ae",
+    "flightNumber": "AO4130",
+    "airline": "AirOps",
+    "origin": {
+      "code": "REC",
+      "name": "Guararapes",
+      "city": "Recife"
+    },
+    "destination": {
+      "code": "GIG",
+      "name": "Galeão",
+      "city": "Rio de Janeiro",
+      "terminal": "2"
+    },
+    "scheduledDeparture": "2026-04-24T02:43:30.014Z",
+    "status": "on-time",
+    "gate": "A1",
+    "aircraft": "Airbus A320neo",
+    "fareClass": "business"
+  },
+  {
+    "id": "8a432e36-11f9-4bbc-a0b9-dc4bfc90a240",
+    "flightNumber": "AO8032",
+    "airline": "AirOps",
+    "origin": {
+      "code": "GIG",
+      "name": "Galeão",
+      "city": "Rio de Janeiro",
+      "terminal": "2"
+    },
+    "destination": {
+      "code": "REC",
+      "name": "Guararapes",
+      "city": "Recife"
+    },
+    "scheduledDeparture": "2026-04-25T20:29:24.716Z",
+    "status": "on-time",
+    "gate": "C14",
+    "aircraft": "Embraer E195-E2",
+    "fareClass": "business"
+  },
+  {
+    "id": "0d948a63-1f05-4511-9039-e3c829b57e7a",
+    "flightNumber": "AO1839",
+    "airline": "AirOps",
+    "origin": {
+      "code": "FOR",
+      "name": "Pinto Martins",
+      "city": "Fortaleza"
+    },
+    "destination": {
+      "code": "GRU",
+      "name": "Guarulhos",
+      "city": "São Paulo",
+      "terminal": "2"
+    },
+    "scheduledDeparture": "2026-04-25T05:50:48.137Z",
+    "status": "on-time",
+    "gate": "A12",
+    "aircraft": "Airbus A320neo",
+    "fareClass": "business"
+  },
+  {
+    "id": "ec3280a9-e6e1-4100-949a-1bee2a3ffbea",
+    "flightNumber": "AO7938",
+    "airline": "AirOps",
+    "origin": {
+      "code": "CGH",
+      "name": "Congonhas",
+      "city": "São Paulo"
+    },
+    "destination": {
+      "code": "FOR",
+      "name": "Pinto Martins",
+      "city": "Fortaleza"
+    },
+    "scheduledDeparture": "2026-04-25T07:49:50.274Z",
+    "status": "boarding",
+    "gate": "D9",
+    "aircraft": "Boeing 737-800",
+    "fareClass": "economy"
+  },
+  {
+    "id": "64835c5f-a1c7-4c37-b1d8-8f2a475d79ca",
+    "flightNumber": "AO7984",
+    "airline": "AirOps",
+    "origin": {
+      "code": "BSB",
+      "name": "Brasília",
+      "city": "Brasília"
+    },
+    "destination": {
+      "code": "CGH",
+      "name": "Congonhas",
+      "city": "São Paulo"
+    },
+    "scheduledDeparture": "2026-04-25T01:40:11.959Z",
+    "status": "landed",
+    "gate": "A1",
+    "aircraft": "Embraer E195-E2",
+    "fareClass": "business"
+  },
+  {
+    "id": "1a5f4e66-796e-4157-a032-d22f1467bec5",
+    "flightNumber": "AO7068",
+    "airline": "AirOps",
+    "origin": {
+      "code": "CGH",
+      "name": "Congonhas",
+      "city": "São Paulo"
+    },
+    "destination": {
+      "code": "REC",
+      "name": "Guararapes",
+      "city": "Recife"
+    },
+    "scheduledDeparture": "2026-04-24T18:59:34.421Z",
+    "status": "on-time",
+    "gate": "A12",
+    "aircraft": "Embraer E195-E2",
+    "fareClass": "economy"
+  },
+  {
+    "id": "4f76a3e7-878e-46c9-b83a-472d0a4dc0db",
+    "flightNumber": "AO6383",
+    "airline": "AirOps",
+    "origin": {
+      "code": "BSB",
+      "name": "Brasília",
+      "city": "Brasília"
+    },
+    "destination": {
+      "code": "SDU",
+      "name": "Santos Dumont",
+      "city": "Rio de Janeiro"
+    },
+    "scheduledDeparture": "2026-04-25T13:07:07.187Z",
+    "status": "on-time",
+    "gate": "C14",
+    "aircraft": "Boeing 737-800",
+    "fareClass": "business"
+  },
+  {
+    "id": "8e70512e-1e2d-4d49-8b2f-dae21983abd9",
+    "flightNumber": "AO8346",
+    "airline": "AirOps",
+    "origin": {
+      "code": "GIG",
+      "name": "Galeão",
+      "city": "Rio de Janeiro",
+      "terminal": "2"
+    },
+    "destination": {
+      "code": "SDU",
+      "name": "Santos Dumont",
+      "city": "Rio de Janeiro"
+    },
+    "scheduledDeparture": "2026-04-25T01:56:17.048Z",
+    "status": "on-time",
+    "gate": "D9",
+    "aircraft": "Airbus A320neo",
+    "fareClass": "business"
+  },
+  {
+    "id": "e9c49dab-1a07-4217-9fd6-6ab65a1ec395",
+    "flightNumber": "AO8093",
+    "airline": "AirOps",
+    "origin": {
+      "code": "BSB",
+      "name": "Brasília",
+      "city": "Brasília"
+    },
+    "destination": {
+      "code": "REC",
+      "name": "Guararapes",
+      "city": "Recife"
+    },
+    "scheduledDeparture": "2026-04-25T06:17:34.682Z",
+    "status": "landed",
+    "gate": "C14",
+    "aircraft": "Embraer E195-E2",
+    "fareClass": "economy"
+  },
+  {
+    "id": "134a1a96-fbd7-46c4-ad5a-74b9a8e33e28",
+    "flightNumber": "AO7623",
+    "airline": "AirOps",
+    "origin": {
+      "code": "FOR",
+      "name": "Pinto Martins",
+      "city": "Fortaleza"
+    },
+    "destination": {
+      "code": "REC",
+      "name": "Guararapes",
+      "city": "Recife"
+    },
+    "scheduledDeparture": "2026-04-24T17:46:14.770Z",
+    "status": "on-time",
+    "gate": "C14",
+    "aircraft": "Airbus A320neo",
+    "fareClass": "business"
+  },
+  {
+    "id": "3dbc2e24-4ab0-4d5b-b33d-1518d0abf8da",
+    "flightNumber": "AO5655",
+    "airline": "AirOps",
+    "origin": {
+      "code": "CNF",
+      "name": "Confins",
+      "city": "Belo Horizonte"
+    },
+    "destination": {
+      "code": "GIG",
+      "name": "Galeão",
+      "city": "Rio de Janeiro",
+      "terminal": "2"
+    },
+    "scheduledDeparture": "2026-04-24T05:55:43.746Z",
+    "status": "on-time",
+    "gate": "B3",
+    "aircraft": "Embraer E195-E2",
+    "fareClass": "business"
+  },
+  {
+    "id": "a2f131bb-53e6-4197-9f3b-8be4e859fab3",
+    "flightNumber": "AO9188",
+    "airline": "AirOps",
+    "origin": {
+      "code": "GIG",
+      "name": "Galeão",
+      "city": "Rio de Janeiro",
+      "terminal": "2"
+    },
+    "destination": {
+      "code": "GRU",
+      "name": "Guarulhos",
+      "city": "São Paulo",
+      "terminal": "2"
+    },
+    "scheduledDeparture": "2026-04-25T12:13:48.501Z",
+    "status": "on-time",
+    "gate": "A12",
+    "aircraft": "Boeing 737-800",
+    "fareClass": "business"
+  },
+  {
+    "id": "a48dda49-3da5-400f-a9a0-0e778ce03920",
+    "flightNumber": "AO2822",
+    "airline": "AirOps",
+    "origin": {
+      "code": "BSB",
+      "name": "Brasília",
+      "city": "Brasília"
+    },
+    "destination": {
+      "code": "REC",
+      "name": "Guararapes",
+      "city": "Recife"
+    },
+    "scheduledDeparture": "2026-04-25T00:58:45.178Z",
+    "status": "landed",
+    "gate": "A12",
+    "aircraft": "Airbus A320neo",
+    "fareClass": "business"
+  },
+  {
+    "id": "420d0b65-180c-4f35-8330-0c17bce4e94a",
+    "flightNumber": "AO5075",
+    "airline": "AirOps",
+    "origin": {
+      "code": "GRU",
+      "name": "Guarulhos",
+      "city": "São Paulo",
+      "terminal": "2"
+    },
+    "destination": {
+      "code": "SDU",
+      "name": "Santos Dumont",
+      "city": "Rio de Janeiro"
+    },
+    "scheduledDeparture": "2026-04-25T02:35:39.472Z",
+    "status": "on-time",
+    "gate": "A1",
+    "aircraft": "Boeing 737-800",
+    "fareClass": "business"
+  },
+  {
+    "id": "0265a825-f6f3-42ac-a6d8-591f4adf6d08",
+    "flightNumber": "AO8353",
+    "airline": "AirOps",
+    "origin": {
+      "code": "FOR",
+      "name": "Pinto Martins",
+      "city": "Fortaleza"
+    },
+    "destination": {
+      "code": "CNF",
+      "name": "Confins",
+      "city": "Belo Horizonte"
+    },
+    "scheduledDeparture": "2026-04-25T08:38:22.242Z",
+    "status": "cancelled",
+    "gate": "A12",
+    "aircraft": "Airbus A320neo",
+    "fareClass": "business"
+  },
+  {
+    "id": "bba26c2a-5db0-4845-a014-4bbbe9a31f51",
+    "flightNumber": "AO5432",
+    "airline": "AirOps",
+    "origin": {
+      "code": "VCP",
+      "name": "Viracopos",
+      "city": "Campinas"
+    },
+    "destination": {
+      "code": "CGH",
+      "name": "Congonhas",
+      "city": "São Paulo"
+    },
+    "scheduledDeparture": "2026-04-23T22:29:44.717Z",
+    "status": "boarding",
+    "gate": "D9",
+    "aircraft": "Airbus A320neo",
+    "fareClass": "business"
+  },
+  {
+    "id": "c91b2d85-5f0d-40c0-a700-4b79d624df8e",
+    "flightNumber": "AO9395",
+    "airline": "AirOps",
+    "origin": {
+      "code": "BSB",
+      "name": "Brasília",
+      "city": "Brasília"
+    },
+    "destination": {
+      "code": "GIG",
+      "name": "Galeão",
+      "city": "Rio de Janeiro",
+      "terminal": "2"
+    },
+    "scheduledDeparture": "2026-04-25T08:52:03.771Z",
+    "status": "on-time",
+    "gate": "A1",
+    "aircraft": "Embraer E195-E2",
+    "fareClass": "business"
+  },
+  {
+    "id": "40851bdc-13fd-436b-b9e0-555397927ad3",
+    "flightNumber": "AO8600",
+    "airline": "AirOps",
+    "origin": {
+      "code": "SSA",
+      "name": "Dep. Luís Eduardo Magalhães",
+      "city": "Salvador"
+    },
+    "destination": {
+      "code": "CNF",
+      "name": "Confins",
+      "city": "Belo Horizonte"
+    },
+    "scheduledDeparture": "2026-04-25T00:41:17.994Z",
+    "status": "on-time",
+    "gate": "A1",
+    "aircraft": "Boeing 737-800",
+    "fareClass": "business"
+  },
+  {
+    "id": "edae9cf9-4571-4b6b-aab7-5df0125ff591",
+    "flightNumber": "AO2669",
+    "airline": "AirOps",
+    "origin": {
+      "code": "FOR",
+      "name": "Pinto Martins",
+      "city": "Fortaleza"
+    },
+    "destination": {
+      "code": "GIG",
+      "name": "Galeão",
+      "city": "Rio de Janeiro",
+      "terminal": "2"
+    },
+    "scheduledDeparture": "2026-04-24T08:38:14.635Z",
+    "status": "on-time",
+    "gate": "B3",
+    "aircraft": "Airbus A320neo",
+    "fareClass": "business"
+  },
+  {
+    "id": "783c65f7-e2b1-420b-a5a7-c50faefdaccc",
+    "flightNumber": "AO3106",
+    "airline": "AirOps",
+    "origin": {
+      "code": "SSA",
+      "name": "Dep. Luís Eduardo Magalhães",
+      "city": "Salvador"
+    },
+    "destination": {
+      "code": "BSB",
+      "name": "Brasília",
+      "city": "Brasília"
+    },
+    "scheduledDeparture": "2026-04-24T02:40:29.869Z",
+    "status": "on-time",
+    "gate": "D9",
+    "aircraft": "Airbus A320neo",
+    "fareClass": "business"
+  },
+  {
+    "id": "b076b7db-8203-4925-94eb-881e5e7332b8",
+    "flightNumber": "AO4334",
+    "airline": "AirOps",
+    "origin": {
+      "code": "REC",
+      "name": "Guararapes",
+      "city": "Recife"
+    },
+    "destination": {
+      "code": "GRU",
+      "name": "Guarulhos",
+      "city": "São Paulo",
+      "terminal": "2"
+    },
+    "scheduledDeparture": "2026-04-24T15:38:13.278Z",
+    "status": "landed",
+    "gate": "C14",
+    "aircraft": "Embraer E195-E2",
+    "fareClass": "business"
+  },
+  {
+    "id": "7e422e59-ea9c-479b-ae26-be2e97c9c2fe",
+    "flightNumber": "AO4222",
+    "airline": "AirOps",
+    "origin": {
+      "code": "GIG",
+      "name": "Galeão",
+      "city": "Rio de Janeiro",
+      "terminal": "2"
+    },
+    "destination": {
+      "code": "VCP",
+      "name": "Viracopos",
+      "city": "Campinas"
+    },
+    "scheduledDeparture": "2026-04-25T02:02:53.244Z",
+    "status": "boarding",
+    "gate": "B3",
+    "aircraft": "Embraer E195-E2",
+    "fareClass": "economy"
+  },
+  {
+    "id": "fe520c2a-63f6-412c-bb61-5976a871f531",
+    "flightNumber": "AO1185",
+    "airline": "AirOps",
+    "origin": {
+      "code": "GIG",
+      "name": "Galeão",
+      "city": "Rio de Janeiro",
+      "terminal": "2"
+    },
+    "destination": {
+      "code": "BSB",
+      "name": "Brasília",
+      "city": "Brasília"
+    },
+    "scheduledDeparture": "2026-04-25T09:34:46.851Z",
+    "status": "landed",
+    "gate": "D9",
+    "aircraft": "Airbus A320neo",
+    "fareClass": "business"
+  },
+  {
+    "id": "17430b74-8e37-408e-8eaa-0d6f04b60cff",
+    "flightNumber": "AO6531",
+    "airline": "AirOps",
+    "origin": {
+      "code": "GIG",
+      "name": "Galeão",
+      "city": "Rio de Janeiro",
+      "terminal": "2"
+    },
+    "destination": {
+      "code": "GRU",
+      "name": "Guarulhos",
+      "city": "São Paulo",
+      "terminal": "2"
+    },
+    "scheduledDeparture": "2026-04-24T15:02:15.107Z",
+    "status": "cancelled",
+    "gate": "C14",
+    "aircraft": "Airbus A320neo",
+    "fareClass": "business"
+  },
+  {
+    "id": "0369646d-52e9-417f-a3e5-6ce15cdf8638",
+    "flightNumber": "AO9135",
+    "airline": "AirOps",
+    "origin": {
+      "code": "GRU",
+      "name": "Guarulhos",
+      "city": "São Paulo",
+      "terminal": "2"
+    },
+    "destination": {
+      "code": "FOR",
+      "name": "Pinto Martins",
+      "city": "Fortaleza"
+    },
+    "scheduledDeparture": "2026-04-25T08:23:37.703Z",
+    "status": "boarding",
+    "gate": "C14",
+    "aircraft": "Boeing 737-800",
+    "fareClass": "business"
+  },
+  {
+    "id": "0e742011-7e43-49b3-ba5f-338cb3ebe72b",
+    "flightNumber": "AO6235",
+    "airline": "AirOps",
+    "origin": {
+      "code": "GRU",
+      "name": "Guarulhos",
+      "city": "São Paulo",
+      "terminal": "2"
+    },
+    "destination": {
+      "code": "CNF",
+      "name": "Confins",
+      "city": "Belo Horizonte"
+    },
+    "scheduledDeparture": "2026-04-24T23:45:20.472Z",
+    "status": "on-time",
+    "gate": "D9",
+    "aircraft": "Embraer E195-E2",
+    "fareClass": "economy"
+  },
+  {
+    "id": "443835e1-fb80-4fd6-8047-bc74a8f07248",
+    "flightNumber": "AO6449",
+    "airline": "AirOps",
+    "origin": {
+      "code": "REC",
+      "name": "Guararapes",
+      "city": "Recife"
+    },
+    "destination": {
+      "code": "CNF",
+      "name": "Confins",
+      "city": "Belo Horizonte"
+    },
+    "scheduledDeparture": "2026-04-24T08:33:30.244Z",
+    "status": "boarding",
+    "gate": "B3",
+    "aircraft": "Embraer E195-E2",
+    "fareClass": "economy"
+  },
+  {
+    "id": "69dc9d9f-98cc-4f14-9ae4-31a6a1eb5c6a",
+    "flightNumber": "AO4080",
+    "airline": "AirOps",
+    "origin": {
+      "code": "VCP",
+      "name": "Viracopos",
+      "city": "Campinas"
+    },
+    "destination": {
+      "code": "FOR",
+      "name": "Pinto Martins",
+      "city": "Fortaleza"
+    },
+    "scheduledDeparture": "2026-04-24T06:17:09.349Z",
+    "status": "on-time",
+    "gate": "A1",
+    "aircraft": "Airbus A320neo",
+    "fareClass": "business"
+  },
+  {
+    "id": "2f157155-11a4-49d0-bf57-68b67c7836b5",
+    "flightNumber": "AO3341",
+    "airline": "AirOps",
+    "origin": {
+      "code": "BSB",
+      "name": "Brasília",
+      "city": "Brasília"
+    },
+    "destination": {
+      "code": "CGH",
+      "name": "Congonhas",
+      "city": "São Paulo"
+    },
+    "scheduledDeparture": "2026-04-25T11:04:06.013Z",
+    "status": "on-time",
+    "gate": "C14",
+    "aircraft": "Airbus A320neo",
+    "fareClass": "business"
+  },
+  {
+    "id": "52db222a-2f94-4c86-8644-befa70a5a300",
+    "flightNumber": "AO4019",
+    "airline": "AirOps",
+    "origin": {
+      "code": "CGH",
+      "name": "Congonhas",
+      "city": "São Paulo"
+    },
+    "destination": {
+      "code": "REC",
+      "name": "Guararapes",
+      "city": "Recife"
+    },
+    "scheduledDeparture": "2026-04-24T22:11:44.951Z",
+    "status": "boarding",
+    "gate": "B3",
+    "aircraft": "Embraer E195-E2",
+    "fareClass": "business"
+  },
+  {
+    "id": "195d3d31-ab75-4887-8a3d-0c36f810a196",
+    "flightNumber": "AO8856",
+    "airline": "AirOps",
+    "origin": {
+      "code": "CGH",
+      "name": "Congonhas",
+      "city": "São Paulo"
+    },
+    "destination": {
+      "code": "CNF",
+      "name": "Confins",
+      "city": "Belo Horizonte"
+    },
+    "scheduledDeparture": "2026-04-25T17:41:23.477Z",
+    "status": "on-time",
+    "gate": "A12",
+    "aircraft": "Boeing 737-800",
+    "fareClass": "business"
+  },
+  {
+    "id": "fb4fcf79-3ed4-4410-a9c1-be7df1848bd3",
+    "flightNumber": "AO8167",
+    "airline": "AirOps",
+    "origin": {
+      "code": "CNF",
+      "name": "Confins",
+      "city": "Belo Horizonte"
+    },
+    "destination": {
+      "code": "VCP",
+      "name": "Viracopos",
+      "city": "Campinas"
+    },
+    "scheduledDeparture": "2026-04-24T08:36:11.970Z",
+    "status": "cancelled",
+    "gate": "A12",
+    "aircraft": "Boeing 737-800",
+    "fareClass": "business"
+  },
+  {
+    "id": "aa17b851-a622-4e4f-b4bb-3a87948b8916",
+    "flightNumber": "AO4332",
+    "airline": "AirOps",
+    "origin": {
+      "code": "BSB",
+      "name": "Brasília",
+      "city": "Brasília"
+    },
+    "destination": {
+      "code": "GRU",
+      "name": "Guarulhos",
+      "city": "São Paulo",
+      "terminal": "2"
+    },
+    "scheduledDeparture": "2026-04-24T19:43:45.859Z",
+    "status": "on-time",
+    "gate": "A12",
+    "aircraft": "Embraer E195-E2",
+    "fareClass": "economy"
+  },
+  {
+    "id": "1241a030-916e-47b2-b195-25dd41e0f0ca",
+    "flightNumber": "AO5938",
+    "airline": "AirOps",
+    "origin": {
+      "code": "GRU",
+      "name": "Guarulhos",
+      "city": "São Paulo",
+      "terminal": "2"
+    },
+    "destination": {
+      "code": "GIG",
+      "name": "Galeão",
+      "city": "Rio de Janeiro",
+      "terminal": "2"
+    },
+    "scheduledDeparture": "2026-04-25T19:46:58.063Z",
+    "status": "on-time",
+    "gate": "C14",
+    "aircraft": "Boeing 737-800",
+    "fareClass": "economy"
+  },
+  {
+    "id": "52a261fc-124d-469a-a124-ab2a509b8f1d",
+    "flightNumber": "AO5566",
+    "airline": "AirOps",
+    "origin": {
+      "code": "SSA",
+      "name": "Dep. Luís Eduardo Magalhães",
+      "city": "Salvador"
+    },
+    "destination": {
+      "code": "GIG",
+      "name": "Galeão",
+      "city": "Rio de Janeiro",
+      "terminal": "2"
+    },
+    "scheduledDeparture": "2026-04-24T06:29:40.264Z",
+    "status": "on-time",
+    "gate": "C14",
+    "aircraft": "Boeing 737-800",
+    "fareClass": "economy"
+  },
+  {
+    "id": "2a6e9544-790b-42ee-a22c-b8ac5b9c6278",
+    "flightNumber": "AO2963",
+    "airline": "AirOps",
+    "origin": {
+      "code": "FOR",
+      "name": "Pinto Martins",
+      "city": "Fortaleza"
+    },
+    "destination": {
+      "code": "CNF",
+      "name": "Confins",
+      "city": "Belo Horizonte"
+    },
+    "scheduledDeparture": "2026-04-25T08:03:19.651Z",
+    "status": "on-time",
+    "gate": "A12",
+    "aircraft": "Embraer E195-E2",
+    "fareClass": "business"
+  },
+  {
+    "id": "5ab32a88-c2c3-4e4d-ba5f-1e4c6db48c26",
+    "flightNumber": "AO9929",
+    "airline": "AirOps",
+    "origin": {
+      "code": "GIG",
+      "name": "Galeão",
+      "city": "Rio de Janeiro",
+      "terminal": "2"
+    },
+    "destination": {
+      "code": "REC",
+      "name": "Guararapes",
+      "city": "Recife"
+    },
+    "scheduledDeparture": "2026-04-25T02:08:06.951Z",
+    "status": "on-time",
+    "gate": "D9",
+    "aircraft": "Boeing 737-800",
+    "fareClass": "economy"
+  },
+  {
+    "id": "cefcf7cf-9ebc-4f74-8fcf-8dd208d8cdf2",
+    "flightNumber": "AO1410",
+    "airline": "AirOps",
+    "origin": {
+      "code": "CNF",
+      "name": "Confins",
+      "city": "Belo Horizonte"
+    },
+    "destination": {
+      "code": "GRU",
+      "name": "Guarulhos",
+      "city": "São Paulo",
+      "terminal": "2"
+    },
+    "scheduledDeparture": "2026-04-24T12:38:19.358Z",
+    "status": "on-time",
+    "gate": "D9",
+    "aircraft": "Airbus A320neo",
+    "fareClass": "business"
+  },
+  {
+    "id": "7676f749-37cc-49ad-af84-183cffeea203",
+    "flightNumber": "AO9433",
+    "airline": "AirOps",
+    "origin": {
+      "code": "SDU",
+      "name": "Santos Dumont",
+      "city": "Rio de Janeiro"
+    },
+    "destination": {
+      "code": "VCP",
+      "name": "Viracopos",
+      "city": "Campinas"
+    },
+    "scheduledDeparture": "2026-04-24T01:05:46.196Z",
+    "status": "on-time",
+    "gate": "B3",
+    "aircraft": "Embraer E195-E2",
+    "fareClass": "business"
+  },
+  {
+    "id": "e591fd13-5385-4c7f-98a7-e923a22eb4e0",
+    "flightNumber": "AO3929",
+    "airline": "AirOps",
+    "origin": {
+      "code": "BSB",
+      "name": "Brasília",
+      "city": "Brasília"
+    },
+    "destination": {
+      "code": "CNF",
+      "name": "Confins",
+      "city": "Belo Horizonte"
+    },
+    "scheduledDeparture": "2026-04-25T07:31:18.448Z",
+    "status": "cancelled",
+    "gate": "C14",
+    "aircraft": "Boeing 737-800",
+    "fareClass": "economy"
+  },
+  {
+    "id": "90098a7d-0ec6-4215-891b-4ac8cc543f26",
+    "flightNumber": "AO9730",
+    "airline": "AirOps",
+    "origin": {
+      "code": "GRU",
+      "name": "Guarulhos",
+      "city": "São Paulo",
+      "terminal": "2"
+    },
+    "destination": {
+      "code": "CGH",
+      "name": "Congonhas",
+      "city": "São Paulo"
+    },
+    "scheduledDeparture": "2026-04-25T18:27:12.551Z",
+    "status": "delayed",
+    "delayMinutes": 134,
+    "delayReason": "Atendimento médico",
+    "gate": "A12",
+    "aircraft": "Boeing 737-800",
+    "fareClass": "economy"
+  },
+  {
+    "id": "0b26b228-e1a8-4800-9ae6-80a2941f8f35",
+    "flightNumber": "AO6627",
+    "airline": "AirOps",
+    "origin": {
+      "code": "CNF",
+      "name": "Confins",
+      "city": "Belo Horizonte"
+    },
+    "destination": {
+      "code": "GRU",
+      "name": "Guarulhos",
+      "city": "São Paulo",
+      "terminal": "2"
+    },
+    "scheduledDeparture": "2026-04-25T14:12:12.818Z",
+    "status": "on-time",
+    "gate": "C14",
+    "aircraft": "Embraer E195-E2",
+    "fareClass": "business"
+  },
+  {
+    "id": "7f553b26-7a9f-4359-9b31-368808ed314d",
+    "flightNumber": "AO5570",
+    "airline": "AirOps",
+    "origin": {
+      "code": "SSA",
+      "name": "Dep. Luís Eduardo Magalhães",
+      "city": "Salvador"
+    },
+    "destination": {
+      "code": "GIG",
+      "name": "Galeão",
+      "city": "Rio de Janeiro",
+      "terminal": "2"
+    },
+    "scheduledDeparture": "2026-04-24T10:11:38.227Z",
+    "status": "on-time",
+    "gate": "D9",
+    "aircraft": "Airbus A320neo",
+    "fareClass": "business"
+  },
+  {
+    "id": "78939b98-afeb-48bb-9121-c054e1b55f0e",
+    "flightNumber": "AO9349",
+    "airline": "AirOps",
+    "origin": {
+      "code": "VCP",
+      "name": "Viracopos",
+      "city": "Campinas"
+    },
+    "destination": {
+      "code": "FOR",
+      "name": "Pinto Martins",
+      "city": "Fortaleza"
+    },
+    "scheduledDeparture": "2026-04-24T22:31:33.707Z",
+    "status": "on-time",
+    "gate": "A12",
+    "aircraft": "Boeing 737-800",
+    "fareClass": "economy"
+  },
+  {
+    "id": "68318223-0f60-43e4-9bcf-546fcfe102e9",
+    "flightNumber": "AO8187",
+    "airline": "AirOps",
+    "origin": {
+      "code": "CGH",
+      "name": "Congonhas",
+      "city": "São Paulo"
+    },
+    "destination": {
+      "code": "CNF",
+      "name": "Confins",
+      "city": "Belo Horizonte"
+    },
+    "scheduledDeparture": "2026-04-25T17:50:08.155Z",
+    "status": "landed",
+    "gate": "A1",
+    "aircraft": "Embraer E195-E2",
+    "fareClass": "business"
+  },
+  {
+    "id": "ce9c48f2-b7a1-49fa-adc7-148c90a71134",
+    "flightNumber": "AO9574",
+    "airline": "AirOps",
+    "origin": {
+      "code": "VCP",
+      "name": "Viracopos",
+      "city": "Campinas"
+    },
+    "destination": {
+      "code": "CGH",
+      "name": "Congonhas",
+      "city": "São Paulo"
+    },
+    "scheduledDeparture": "2026-04-24T13:52:58.563Z",
+    "status": "landed",
+    "gate": "D9",
+    "aircraft": "Airbus A320neo",
+    "fareClass": "economy"
+  },
+  {
+    "id": "076eb521-c3bd-48b7-a7fa-872c9e800ea9",
+    "flightNumber": "AO9681",
+    "airline": "AirOps",
+    "origin": {
+      "code": "CNF",
+      "name": "Confins",
+      "city": "Belo Horizonte"
+    },
+    "destination": {
+      "code": "SDU",
+      "name": "Santos Dumont",
+      "city": "Rio de Janeiro"
+    },
+    "scheduledDeparture": "2026-04-24T22:16:07.776Z",
+    "status": "on-time",
+    "gate": "D9",
+    "aircraft": "Boeing 737-800",
+    "fareClass": "economy"
+  },
+  {
+    "id": "388b137b-3d48-4318-9e3a-80ece2703742",
+    "flightNumber": "AO1592",
+    "airline": "AirOps",
+    "origin": {
+      "code": "REC",
+      "name": "Guararapes",
+      "city": "Recife"
+    },
+    "destination": {
+      "code": "VCP",
+      "name": "Viracopos",
+      "city": "Campinas"
+    },
+    "scheduledDeparture": "2026-04-24T06:49:17.313Z",
+    "status": "landed",
+    "gate": "C14",
+    "aircraft": "Embraer E195-E2",
+    "fareClass": "business"
+  },
+  {
+    "id": "9251d18e-42fa-4f24-a024-7a4c264f9f77",
+    "flightNumber": "AO1012",
+    "airline": "AirOps",
+    "origin": {
+      "code": "GIG",
+      "name": "Galeão",
+      "city": "Rio de Janeiro",
+      "terminal": "2"
+    },
+    "destination": {
+      "code": "REC",
+      "name": "Guararapes",
+      "city": "Recife"
+    },
+    "scheduledDeparture": "2026-04-24T18:26:15.013Z",
+    "status": "delayed",
+    "delayMinutes": 206,
+    "delayReason": "Atendimento médico",
+    "gate": "A12",
+    "aircraft": "Embraer E195-E2",
+    "fareClass": "business"
+  },
+  {
+    "id": "4801d552-780f-495f-8de9-38359ca38ccb",
+    "flightNumber": "AO3587",
+    "airline": "AirOps",
+    "origin": {
+      "code": "FOR",
+      "name": "Pinto Martins",
+      "city": "Fortaleza"
+    },
+    "destination": {
+      "code": "GRU",
+      "name": "Guarulhos",
+      "city": "São Paulo",
+      "terminal": "2"
+    },
+    "scheduledDeparture": "2026-04-25T09:10:18.013Z",
+    "status": "cancelled",
+    "gate": "D9",
+    "aircraft": "Airbus A320neo",
+    "fareClass": "economy"
+  },
+  {
+    "id": "30d9b333-5853-4141-aae2-0282ff052478",
+    "flightNumber": "AO8047",
+    "airline": "AirOps",
+    "origin": {
+      "code": "FOR",
+      "name": "Pinto Martins",
+      "city": "Fortaleza"
+    },
+    "destination": {
+      "code": "CGH",
+      "name": "Congonhas",
+      "city": "São Paulo"
+    },
+    "scheduledDeparture": "2026-04-25T07:45:08.825Z",
+    "status": "on-time",
+    "gate": "B3",
+    "aircraft": "Airbus A320neo",
+    "fareClass": "business"
+  },
+  {
+    "id": "2e654fe6-f4d4-42a7-9dfe-a9d03e438b58",
+    "flightNumber": "AO5307",
+    "airline": "AirOps",
+    "origin": {
+      "code": "FOR",
+      "name": "Pinto Martins",
+      "city": "Fortaleza"
+    },
+    "destination": {
+      "code": "GRU",
+      "name": "Guarulhos",
+      "city": "São Paulo",
+      "terminal": "2"
+    },
+    "scheduledDeparture": "2026-04-25T03:05:55.273Z",
+    "status": "on-time",
+    "gate": "C14",
+    "aircraft": "Boeing 737-800",
+    "fareClass": "business"
+  },
+  {
+    "id": "dd9709e2-c7ac-4a4d-985e-c77e5bfc4774",
+    "flightNumber": "AO8651",
+    "airline": "AirOps",
+    "origin": {
+      "code": "SDU",
+      "name": "Santos Dumont",
+      "city": "Rio de Janeiro"
+    },
+    "destination": {
+      "code": "VCP",
+      "name": "Viracopos",
+      "city": "Campinas"
+    },
+    "scheduledDeparture": "2026-04-24T04:42:35.052Z",
+    "status": "cancelled",
+    "gate": "D9",
+    "aircraft": "Airbus A320neo",
+    "fareClass": "economy"
+  },
+  {
+    "id": "1b8a1d5a-8e50-4a2c-8d94-fd4b08455535",
+    "flightNumber": "AO4261",
+    "airline": "AirOps",
+    "origin": {
+      "code": "GRU",
+      "name": "Guarulhos",
+      "city": "São Paulo",
+      "terminal": "2"
+    },
+    "destination": {
+      "code": "CGH",
+      "name": "Congonhas",
+      "city": "São Paulo"
+    },
+    "scheduledDeparture": "2026-04-24T04:26:12.891Z",
+    "status": "on-time",
+    "gate": "A12",
+    "aircraft": "Boeing 737-800",
+    "fareClass": "economy"
+  },
+  {
+    "id": "6c6343e8-3d18-4463-816f-518ccdc56d8f",
+    "flightNumber": "AO1418",
+    "airline": "AirOps",
+    "origin": {
+      "code": "REC",
+      "name": "Guararapes",
+      "city": "Recife"
+    },
+    "destination": {
+      "code": "GIG",
+      "name": "Galeão",
+      "city": "Rio de Janeiro",
+      "terminal": "2"
+    },
+    "scheduledDeparture": "2026-04-24T03:59:50.267Z",
+    "status": "on-time",
+    "gate": "D9",
+    "aircraft": "Embraer E195-E2",
+    "fareClass": "business"
+  },
+  {
+    "id": "fd104e1a-cb0c-4940-aefe-15d64e13de96",
+    "flightNumber": "AO6016",
+    "airline": "AirOps",
+    "origin": {
+      "code": "GIG",
+      "name": "Galeão",
+      "city": "Rio de Janeiro",
+      "terminal": "2"
+    },
+    "destination": {
+      "code": "SDU",
+      "name": "Santos Dumont",
+      "city": "Rio de Janeiro"
+    },
+    "scheduledDeparture": "2026-04-25T02:53:17.780Z",
+    "status": "boarding",
+    "gate": "C14",
+    "aircraft": "Embraer E195-E2",
+    "fareClass": "business"
+  },
+  {
+    "id": "46091f12-327a-406e-a3d2-bd5cdf23c103",
+    "flightNumber": "AO5915",
+    "airline": "AirOps",
+    "origin": {
+      "code": "VCP",
+      "name": "Viracopos",
+      "city": "Campinas"
+    },
+    "destination": {
+      "code": "BSB",
+      "name": "Brasília",
+      "city": "Brasília"
+    },
+    "scheduledDeparture": "2026-04-24T19:51:37.761Z",
+    "status": "on-time",
+    "gate": "C14",
+    "aircraft": "Airbus A320neo",
+    "fareClass": "economy"
+  },
+  {
+    "id": "5a92b0ff-fa57-428f-a48f-6a5ade4885b2",
+    "flightNumber": "AO7073",
+    "airline": "AirOps",
+    "origin": {
+      "code": "SDU",
+      "name": "Santos Dumont",
+      "city": "Rio de Janeiro"
+    },
+    "destination": {
+      "code": "REC",
+      "name": "Guararapes",
+      "city": "Recife"
+    },
+    "scheduledDeparture": "2026-04-24T22:22:09.067Z",
+    "status": "on-time",
+    "gate": "C14",
+    "aircraft": "Boeing 737-800",
+    "fareClass": "business"
+  },
+  {
+    "id": "f75ee827-1f61-4292-90bf-18e907fe7470",
+    "flightNumber": "AO6564",
+    "airline": "AirOps",
+    "origin": {
+      "code": "BSB",
+      "name": "Brasília",
+      "city": "Brasília"
+    },
+    "destination": {
+      "code": "REC",
+      "name": "Guararapes",
+      "city": "Recife"
+    },
+    "scheduledDeparture": "2026-04-25T14:33:07.214Z",
+    "status": "on-time",
+    "gate": "D9",
+    "aircraft": "Embraer E195-E2",
+    "fareClass": "economy"
+  },
+  {
+    "id": "a5968ffe-583f-421e-98b0-6a4917ae0692",
+    "flightNumber": "AO4442",
+    "airline": "AirOps",
+    "origin": {
+      "code": "CNF",
+      "name": "Confins",
+      "city": "Belo Horizonte"
+    },
+    "destination": {
+      "code": "GRU",
+      "name": "Guarulhos",
+      "city": "São Paulo",
+      "terminal": "2"
+    },
+    "scheduledDeparture": "2026-04-25T12:27:22.979Z",
+    "status": "on-time",
+    "gate": "B3",
+    "aircraft": "Boeing 737-800",
+    "fareClass": "economy"
+  },
+  {
+    "id": "ba30c9ad-1ddc-4d4e-bc3e-5eda21dab3c4",
+    "flightNumber": "AO2252",
+    "airline": "AirOps",
+    "origin": {
+      "code": "SSA",
+      "name": "Dep. Luís Eduardo Magalhães",
+      "city": "Salvador"
+    },
+    "destination": {
+      "code": "BSB",
+      "name": "Brasília",
+      "city": "Brasília"
+    },
+    "scheduledDeparture": "2026-04-25T08:29:26.813Z",
+    "status": "on-time",
+    "gate": "A1",
+    "aircraft": "Boeing 737-800",
+    "fareClass": "business"
+  },
+  {
+    "id": "cc16f055-c138-4783-b8a9-854af628f80f",
+    "flightNumber": "AO3146",
+    "airline": "AirOps",
+    "origin": {
+      "code": "REC",
+      "name": "Guararapes",
+      "city": "Recife"
+    },
+    "destination": {
+      "code": "GRU",
+      "name": "Guarulhos",
+      "city": "São Paulo",
+      "terminal": "2"
+    },
+    "scheduledDeparture": "2026-04-24T19:31:29.911Z",
+    "status": "on-time",
+    "gate": "C14",
+    "aircraft": "Boeing 737-800",
+    "fareClass": "business"
+  },
+  {
+    "id": "399b1dea-74cc-4a32-b2d8-5ee7bab9f5c2",
+    "flightNumber": "AO4152",
+    "airline": "AirOps",
+    "origin": {
+      "code": "GRU",
+      "name": "Guarulhos",
+      "city": "São Paulo",
+      "terminal": "2"
+    },
+    "destination": {
+      "code": "GIG",
+      "name": "Galeão",
+      "city": "Rio de Janeiro",
+      "terminal": "2"
+    },
+    "scheduledDeparture": "2026-04-24T18:34:38.426Z",
+    "status": "on-time",
+    "gate": "B3",
+    "aircraft": "Airbus A320neo",
+    "fareClass": "economy"
+  },
+  {
+    "id": "120601e3-d968-44f7-9211-f5878e73d708",
+    "flightNumber": "AO1545",
+    "airline": "AirOps",
+    "origin": {
+      "code": "REC",
+      "name": "Guararapes",
+      "city": "Recife"
+    },
+    "destination": {
+      "code": "BSB",
+      "name": "Brasília",
+      "city": "Brasília"
+    },
+    "scheduledDeparture": "2026-04-25T01:16:50.470Z",
+    "status": "boarding",
+    "gate": "B3",
+    "aircraft": "Airbus A320neo",
+    "fareClass": "business"
+  },
+  {
+    "id": "db450072-7bbb-4d0a-a89a-4eb18686685b",
+    "flightNumber": "AO7772",
+    "airline": "AirOps",
+    "origin": {
+      "code": "BSB",
+      "name": "Brasília",
+      "city": "Brasília"
+    },
+    "destination": {
+      "code": "CNF",
+      "name": "Confins",
+      "city": "Belo Horizonte"
+    },
+    "scheduledDeparture": "2026-04-25T10:27:45.696Z",
+    "status": "delayed",
+    "delayMinutes": 85,
+    "delayReason": "Tráfego aéreo",
+    "gate": "B3",
+    "aircraft": "Embraer E195-E2",
+    "fareClass": "economy"
+  },
+  {
+    "id": "df62ce35-30fe-4799-adcd-b4e5dae3342d",
+    "flightNumber": "AO2940",
+    "airline": "AirOps",
+    "origin": {
+      "code": "GIG",
+      "name": "Galeão",
+      "city": "Rio de Janeiro",
+      "terminal": "2"
+    },
+    "destination": {
+      "code": "CGH",
+      "name": "Congonhas",
+      "city": "São Paulo"
+    },
+    "scheduledDeparture": "2026-04-25T06:45:15.356Z",
+    "status": "on-time",
+    "gate": "B3",
+    "aircraft": "Airbus A320neo",
+    "fareClass": "business"
+  },
+  {
+    "id": "7ddfbdf8-fbfb-4873-a857-230e937ee286",
+    "flightNumber": "AO5167",
+    "airline": "AirOps",
+    "origin": {
+      "code": "BSB",
+      "name": "Brasília",
+      "city": "Brasília"
+    },
+    "destination": {
+      "code": "GRU",
+      "name": "Guarulhos",
+      "city": "São Paulo",
+      "terminal": "2"
+    },
+    "scheduledDeparture": "2026-04-25T16:35:59.718Z",
+    "status": "delayed",
+    "delayMinutes": 105,
+    "delayReason": "Condições climáticas",
+    "gate": "C14",
+    "aircraft": "Boeing 737-800",
+    "fareClass": "business"
+  },
+  {
+    "id": "68360ba4-19fc-43a2-8d22-c3d97911ba1d",
+    "flightNumber": "AO6145",
+    "airline": "AirOps",
+    "origin": {
+      "code": "SDU",
+      "name": "Santos Dumont",
+      "city": "Rio de Janeiro"
+    },
+    "destination": {
+      "code": "CNF",
+      "name": "Confins",
+      "city": "Belo Horizonte"
+    },
+    "scheduledDeparture": "2026-04-23T21:16:40.610Z",
+    "status": "on-time",
+    "gate": "B3",
+    "aircraft": "Boeing 737-800",
+    "fareClass": "economy"
+  },
+  {
+    "id": "a03062f4-3c54-4fae-ad77-62408a445175",
+    "flightNumber": "AO3430",
+    "airline": "AirOps",
+    "origin": {
+      "code": "SSA",
+      "name": "Dep. Luís Eduardo Magalhães",
+      "city": "Salvador"
+    },
+    "destination": {
+      "code": "GIG",
+      "name": "Galeão",
+      "city": "Rio de Janeiro",
+      "terminal": "2"
+    },
+    "scheduledDeparture": "2026-04-25T09:06:54.220Z",
+    "status": "on-time",
+    "gate": "B3",
+    "aircraft": "Boeing 737-800",
+    "fareClass": "economy"
+  },
+  {
+    "id": "ee9cf87e-c2d2-4366-b93b-cd21499a7a00",
+    "flightNumber": "AO4175",
+    "airline": "AirOps",
+    "origin": {
+      "code": "SSA",
+      "name": "Dep. Luís Eduardo Magalhães",
+      "city": "Salvador"
+    },
+    "destination": {
+      "code": "BSB",
+      "name": "Brasília",
+      "city": "Brasília"
+    },
+    "scheduledDeparture": "2026-04-25T00:11:07.524Z",
+    "status": "delayed",
+    "delayMinutes": 175,
+    "delayReason": "Tráfego aéreo",
+    "gate": "D9",
+    "aircraft": "Boeing 737-800",
+    "fareClass": "economy"
+  },
+  {
+    "id": "5cc57ced-e070-4f48-ab37-b0accfcf38d3",
+    "flightNumber": "AO8980",
+    "airline": "AirOps",
+    "origin": {
+      "code": "SSA",
+      "name": "Dep. Luís Eduardo Magalhães",
+      "city": "Salvador"
+    },
+    "destination": {
+      "code": "CNF",
+      "name": "Confins",
+      "city": "Belo Horizonte"
+    },
+    "scheduledDeparture": "2026-04-25T13:32:07.878Z",
+    "status": "on-time",
+    "gate": "D9",
+    "aircraft": "Boeing 737-800",
+    "fareClass": "business"
+  },
+  {
+    "id": "1eb396f1-de9e-4ff2-b0b0-248f8bb416f0",
+    "flightNumber": "AO7289",
+    "airline": "AirOps",
+    "origin": {
+      "code": "BSB",
+      "name": "Brasília",
+      "city": "Brasília"
+    },
+    "destination": {
+      "code": "CNF",
+      "name": "Confins",
+      "city": "Belo Horizonte"
+    },
+    "scheduledDeparture": "2026-04-24T05:38:33.873Z",
+    "status": "boarding",
+    "gate": "A12",
+    "aircraft": "Embraer E195-E2",
+    "fareClass": "business"
+  },
+  {
+    "id": "1c79aebd-99b8-4e0e-901e-daf4a3e09518",
+    "flightNumber": "AO6631",
+    "airline": "AirOps",
+    "origin": {
+      "code": "CNF",
+      "name": "Confins",
+      "city": "Belo Horizonte"
+    },
+    "destination": {
+      "code": "SDU",
+      "name": "Santos Dumont",
+      "city": "Rio de Janeiro"
+    },
+    "scheduledDeparture": "2026-04-25T09:32:25.837Z",
+    "status": "delayed",
+    "delayMinutes": 41,
+    "delayReason": "Manutenção programada",
+    "gate": "D9",
+    "aircraft": "Airbus A320neo",
+    "fareClass": "economy"
+  },
+  {
+    "id": "ca2289d7-0331-4d60-b4be-ae006856c603",
+    "flightNumber": "AO5890",
+    "airline": "AirOps",
+    "origin": {
+      "code": "BSB",
+      "name": "Brasília",
+      "city": "Brasília"
+    },
+    "destination": {
+      "code": "VCP",
+      "name": "Viracopos",
+      "city": "Campinas"
+    },
+    "scheduledDeparture": "2026-04-25T11:16:51.725Z",
+    "status": "landed",
+    "gate": "C14",
+    "aircraft": "Embraer E195-E2",
+    "fareClass": "business"
+  },
+  {
+    "id": "5411d913-5d1f-4d19-9618-0076ccd8477f",
+    "flightNumber": "AO6038",
+    "airline": "AirOps",
+    "origin": {
+      "code": "CNF",
+      "name": "Confins",
+      "city": "Belo Horizonte"
+    },
+    "destination": {
+      "code": "FOR",
+      "name": "Pinto Martins",
+      "city": "Fortaleza"
+    },
+    "scheduledDeparture": "2026-04-24T17:00:34.610Z",
+    "status": "on-time",
+    "gate": "A1",
+    "aircraft": "Embraer E195-E2",
+    "fareClass": "economy"
+  },
+  {
+    "id": "6f5bbf9e-6505-45ab-9292-85e5313ffcec",
+    "flightNumber": "AO3077",
+    "airline": "AirOps",
+    "origin": {
+      "code": "FOR",
+      "name": "Pinto Martins",
+      "city": "Fortaleza"
+    },
+    "destination": {
+      "code": "VCP",
+      "name": "Viracopos",
+      "city": "Campinas"
+    },
+    "scheduledDeparture": "2026-04-23T22:01:18.692Z",
+    "status": "cancelled",
+    "gate": "C14",
+    "aircraft": "Boeing 737-800",
+    "fareClass": "business"
+  },
+  {
+    "id": "a8ec53df-2c9f-4eca-a816-1d7c82fc981e",
+    "flightNumber": "AO3298",
+    "airline": "AirOps",
+    "origin": {
+      "code": "BSB",
+      "name": "Brasília",
+      "city": "Brasília"
+    },
+    "destination": {
+      "code": "REC",
+      "name": "Guararapes",
+      "city": "Recife"
+    },
+    "scheduledDeparture": "2026-04-25T04:35:45.607Z",
+    "status": "boarding",
+    "gate": "A1",
+    "aircraft": "Airbus A320neo",
+    "fareClass": "economy"
+  },
+  {
+    "id": "a7450bb4-c744-478b-8eff-8e37d0ab1cd2",
+    "flightNumber": "AO5632",
+    "airline": "AirOps",
+    "origin": {
+      "code": "CGH",
+      "name": "Congonhas",
+      "city": "São Paulo"
+    },
+    "destination": {
+      "code": "FOR",
+      "name": "Pinto Martins",
+      "city": "Fortaleza"
+    },
+    "scheduledDeparture": "2026-04-24T16:32:26.577Z",
+    "status": "on-time",
+    "gate": "C14",
+    "aircraft": "Embraer E195-E2",
+    "fareClass": "business"
+  },
+  {
+    "id": "126925fa-405d-4a96-a957-1c791cdd618d",
+    "flightNumber": "AO3849",
+    "airline": "AirOps",
+    "origin": {
+      "code": "SSA",
+      "name": "Dep. Luís Eduardo Magalhães",
+      "city": "Salvador"
+    },
+    "destination": {
+      "code": "FOR",
+      "name": "Pinto Martins",
+      "city": "Fortaleza"
+    },
+    "scheduledDeparture": "2026-04-25T18:21:19.813Z",
+    "status": "landed",
+    "gate": "A12",
+    "aircraft": "Embraer E195-E2",
+    "fareClass": "business"
+  },
+  {
+    "id": "b2dabdc1-5ac7-448e-8421-f4175a7c48c2",
+    "flightNumber": "AO8580",
+    "airline": "AirOps",
+    "origin": {
+      "code": "SDU",
+      "name": "Santos Dumont",
+      "city": "Rio de Janeiro"
+    },
+    "destination": {
+      "code": "GIG",
+      "name": "Galeão",
+      "city": "Rio de Janeiro",
+      "terminal": "2"
+    },
+    "scheduledDeparture": "2026-04-24T22:11:00.106Z",
+    "status": "boarding",
+    "gate": "D9",
+    "aircraft": "Boeing 737-800",
+    "fareClass": "economy"
+  },
+  {
+    "id": "5d3e2ada-0a2d-4439-8a3a-4d7136c10424",
+    "flightNumber": "AO6634",
+    "airline": "AirOps",
+    "origin": {
+      "code": "VCP",
+      "name": "Viracopos",
+      "city": "Campinas"
+    },
+    "destination": {
+      "code": "FOR",
+      "name": "Pinto Martins",
+      "city": "Fortaleza"
+    },
+    "scheduledDeparture": "2026-04-25T10:40:36.461Z",
+    "status": "delayed",
+    "delayMinutes": 174,
+    "delayReason": "Condições climáticas",
+    "gate": "D9",
+    "aircraft": "Airbus A320neo",
+    "fareClass": "business"
+  },
+  {
+    "id": "911064b8-5c19-4ef9-b81a-6a085ca05daa",
+    "flightNumber": "AO6958",
+    "airline": "AirOps",
+    "origin": {
+      "code": "SDU",
+      "name": "Santos Dumont",
+      "city": "Rio de Janeiro"
+    },
+    "destination": {
+      "code": "CGH",
+      "name": "Congonhas",
+      "city": "São Paulo"
+    },
+    "scheduledDeparture": "2026-04-24T21:38:35.090Z",
+    "status": "cancelled",
+    "gate": "D9",
+    "aircraft": "Airbus A320neo",
+    "fareClass": "business"
+  },
+  {
+    "id": "68bffd28-61cb-463a-84c6-9a421ae7a3b5",
+    "flightNumber": "AO9365",
+    "airline": "AirOps",
+    "origin": {
+      "code": "GRU",
+      "name": "Guarulhos",
+      "city": "São Paulo",
+      "terminal": "2"
+    },
+    "destination": {
+      "code": "REC",
+      "name": "Guararapes",
+      "city": "Recife"
+    },
+    "scheduledDeparture": "2026-04-24T20:09:16.995Z",
+    "status": "boarding",
+    "gate": "D9",
+    "aircraft": "Airbus A320neo",
+    "fareClass": "business"
+  },
+  {
+    "id": "d40e4cd4-2cad-4a7a-8831-aeaeece96dbc",
+    "flightNumber": "AO1840",
+    "airline": "AirOps",
+    "origin": {
+      "code": "FOR",
+      "name": "Pinto Martins",
+      "city": "Fortaleza"
+    },
+    "destination": {
+      "code": "SSA",
+      "name": "Dep. Luís Eduardo Magalhães",
+      "city": "Salvador"
+    },
+    "scheduledDeparture": "2026-04-24T10:26:53.488Z",
+    "status": "boarding",
+    "gate": "A1",
+    "aircraft": "Boeing 737-800",
+    "fareClass": "business"
+  },
+  {
+    "id": "cc4bc2d2-d044-4ddc-a27c-6047f2228316",
+    "flightNumber": "AO6483",
+    "airline": "AirOps",
+    "origin": {
+      "code": "REC",
+      "name": "Guararapes",
+      "city": "Recife"
+    },
+    "destination": {
+      "code": "GIG",
+      "name": "Galeão",
+      "city": "Rio de Janeiro",
+      "terminal": "2"
+    },
+    "scheduledDeparture": "2026-04-24T18:40:53.398Z",
+    "status": "boarding",
+    "gate": "D9",
+    "aircraft": "Airbus A320neo",
+    "fareClass": "business"
+  },
+  {
+    "id": "822fd9a1-48cc-4700-a33d-ac170fe3daea",
+    "flightNumber": "AO9051",
+    "airline": "AirOps",
+    "origin": {
+      "code": "FOR",
+      "name": "Pinto Martins",
+      "city": "Fortaleza"
+    },
+    "destination": {
+      "code": "SDU",
+      "name": "Santos Dumont",
+      "city": "Rio de Janeiro"
+    },
+    "scheduledDeparture": "2026-04-25T12:15:23.144Z",
+    "status": "delayed",
+    "delayMinutes": 237,
+    "delayReason": "Tráfego aéreo",
+    "gate": "C14",
+    "aircraft": "Embraer E195-E2",
+    "fareClass": "business"
+  },
+  {
+    "id": "74086e46-4755-462d-969d-d8b7c4096156",
+    "flightNumber": "AO9812",
+    "airline": "AirOps",
+    "origin": {
+      "code": "CGH",
+      "name": "Congonhas",
+      "city": "São Paulo"
+    },
+    "destination": {
+      "code": "CNF",
+      "name": "Confins",
+      "city": "Belo Horizonte"
+    },
+    "scheduledDeparture": "2026-04-24T23:25:36.548Z",
+    "status": "boarding",
+    "gate": "A1",
+    "aircraft": "Embraer E195-E2",
+    "fareClass": "economy"
+  },
+  {
+    "id": "1acdc572-f154-4a0f-9679-0ffcabc447a3",
+    "flightNumber": "AO5392",
+    "airline": "AirOps",
+    "origin": {
+      "code": "GRU",
+      "name": "Guarulhos",
+      "city": "São Paulo",
+      "terminal": "2"
+    },
+    "destination": {
+      "code": "FOR",
+      "name": "Pinto Martins",
+      "city": "Fortaleza"
+    },
+    "scheduledDeparture": "2026-04-24T15:28:35.392Z",
+    "status": "on-time",
+    "gate": "D9",
+    "aircraft": "Embraer E195-E2",
+    "fareClass": "business"
+  },
+  {
+    "id": "70bf6c5d-4086-47bc-861c-3e4df1ba4089",
+    "flightNumber": "AO9543",
+    "airline": "AirOps",
+    "origin": {
+      "code": "CGH",
+      "name": "Congonhas",
+      "city": "São Paulo"
+    },
+    "destination": {
+      "code": "FOR",
+      "name": "Pinto Martins",
+      "city": "Fortaleza"
+    },
+    "scheduledDeparture": "2026-04-25T14:26:56.474Z",
+    "status": "on-time",
+    "gate": "C14",
+    "aircraft": "Boeing 737-800",
+    "fareClass": "business"
+  },
+  {
+    "id": "17a5c7c4-b7ee-4bad-826d-dd7da3829fb5",
+    "flightNumber": "AO3601",
+    "airline": "AirOps",
+    "origin": {
+      "code": "SSA",
+      "name": "Dep. Luís Eduardo Magalhães",
+      "city": "Salvador"
+    },
+    "destination": {
+      "code": "GRU",
+      "name": "Guarulhos",
+      "city": "São Paulo",
+      "terminal": "2"
+    },
+    "scheduledDeparture": "2026-04-25T04:34:03.477Z",
+    "status": "landed",
+    "gate": "B3",
+    "aircraft": "Embraer E195-E2",
+    "fareClass": "business"
+  },
+  {
+    "id": "ecde9778-2316-41f8-930a-f88b63bd3a13",
+    "flightNumber": "AO5977",
+    "airline": "AirOps",
+    "origin": {
+      "code": "BSB",
+      "name": "Brasília",
+      "city": "Brasília"
+    },
+    "destination": {
+      "code": "SDU",
+      "name": "Santos Dumont",
+      "city": "Rio de Janeiro"
+    },
+    "scheduledDeparture": "2026-04-24T22:53:42.929Z",
+    "status": "on-time",
+    "gate": "C14",
+    "aircraft": "Boeing 737-800",
+    "fareClass": "economy"
+  },
+  {
+    "id": "6279a2b3-5db6-43df-bbd6-2b9b0f04d849",
+    "flightNumber": "AO7171",
+    "airline": "AirOps",
+    "origin": {
+      "code": "GIG",
+      "name": "Galeão",
+      "city": "Rio de Janeiro",
+      "terminal": "2"
+    },
+    "destination": {
+      "code": "VCP",
+      "name": "Viracopos",
+      "city": "Campinas"
+    },
+    "scheduledDeparture": "2026-04-24T01:02:43.382Z",
+    "status": "cancelled",
+    "gate": "D9",
+    "aircraft": "Boeing 737-800",
+    "fareClass": "economy"
+  },
+  {
+    "id": "89101e41-a947-416a-8f9c-590ee284b5bb",
+    "flightNumber": "AO6178",
+    "airline": "AirOps",
+    "origin": {
+      "code": "SSA",
+      "name": "Dep. Luís Eduardo Magalhães",
+      "city": "Salvador"
+    },
+    "destination": {
+      "code": "REC",
+      "name": "Guararapes",
+      "city": "Recife"
+    },
+    "scheduledDeparture": "2026-04-24T01:21:21.626Z",
+    "status": "delayed",
+    "delayMinutes": 161,
+    "delayReason": "Condições climáticas",
+    "gate": "C14",
+    "aircraft": "Embraer E195-E2",
+    "fareClass": "business"
+  },
+  {
+    "id": "dee64129-b81e-4d28-bc17-886ba4f60f80",
+    "flightNumber": "AO7870",
+    "airline": "AirOps",
+    "origin": {
+      "code": "SSA",
+      "name": "Dep. Luís Eduardo Magalhães",
+      "city": "Salvador"
+    },
+    "destination": {
+      "code": "CGH",
+      "name": "Congonhas",
+      "city": "São Paulo"
+    },
+    "scheduledDeparture": "2026-04-25T19:21:26.282Z",
+    "status": "landed",
+    "gate": "B3",
+    "aircraft": "Boeing 737-800",
+    "fareClass": "economy"
+  },
+  {
+    "id": "91e00a32-9fc9-4a91-b45a-929a72982410",
+    "flightNumber": "AO7228",
+    "airline": "AirOps",
+    "origin": {
+      "code": "FOR",
+      "name": "Pinto Martins",
+      "city": "Fortaleza"
+    },
+    "destination": {
+      "code": "GRU",
+      "name": "Guarulhos",
+      "city": "São Paulo",
+      "terminal": "2"
+    },
+    "scheduledDeparture": "2026-04-25T01:25:06.131Z",
+    "status": "delayed",
+    "delayMinutes": 221,
+    "delayReason": "Manutenção programada",
+    "gate": "D9",
+    "aircraft": "Boeing 737-800",
+    "fareClass": "economy"
+  },
+  {
+    "id": "7cfdbe31-7532-414c-9b07-b4ab693de266",
+    "flightNumber": "AO7107",
+    "airline": "AirOps",
+    "origin": {
+      "code": "SSA",
+      "name": "Dep. Luís Eduardo Magalhães",
+      "city": "Salvador"
+    },
+    "destination": {
+      "code": "GRU",
+      "name": "Guarulhos",
+      "city": "São Paulo",
+      "terminal": "2"
+    },
+    "scheduledDeparture": "2026-04-25T07:23:56.384Z",
+    "status": "on-time",
+    "gate": "C14",
+    "aircraft": "Boeing 737-800",
+    "fareClass": "business"
+  },
+  {
+    "id": "213cbe16-12ac-479e-8201-e0fe03fbac27",
+    "flightNumber": "AO5822",
+    "airline": "AirOps",
+    "origin": {
+      "code": "GIG",
+      "name": "Galeão",
+      "city": "Rio de Janeiro",
+      "terminal": "2"
+    },
+    "destination": {
+      "code": "CNF",
+      "name": "Confins",
+      "city": "Belo Horizonte"
+    },
+    "scheduledDeparture": "2026-04-25T13:06:43.653Z",
+    "status": "cancelled",
+    "gate": "D9",
+    "aircraft": "Boeing 737-800",
+    "fareClass": "economy"
+  },
+  {
+    "id": "40d0a874-9248-4222-8cbf-78f32b4c7985",
+    "flightNumber": "AO8473",
+    "airline": "AirOps",
+    "origin": {
+      "code": "BSB",
+      "name": "Brasília",
+      "city": "Brasília"
+    },
+    "destination": {
+      "code": "CGH",
+      "name": "Congonhas",
+      "city": "São Paulo"
+    },
+    "scheduledDeparture": "2026-04-24T05:36:36.533Z",
+    "status": "on-time",
+    "gate": "A1",
+    "aircraft": "Boeing 737-800",
+    "fareClass": "business"
+  },
+  {
+    "id": "7800e57b-df41-4924-abdf-4f65c3b907b2",
+    "flightNumber": "AO3032",
+    "airline": "AirOps",
+    "origin": {
+      "code": "VCP",
+      "name": "Viracopos",
+      "city": "Campinas"
+    },
+    "destination": {
+      "code": "CGH",
+      "name": "Congonhas",
+      "city": "São Paulo"
+    },
+    "scheduledDeparture": "2026-04-25T02:12:00.558Z",
+    "status": "landed",
+    "gate": "D9",
+    "aircraft": "Boeing 737-800",
+    "fareClass": "business"
+  },
+  {
+    "id": "2f96a7c8-dbdd-4dfe-8256-5595d993f187",
+    "flightNumber": "AO7875",
+    "airline": "AirOps",
+    "origin": {
+      "code": "GIG",
+      "name": "Galeão",
+      "city": "Rio de Janeiro",
+      "terminal": "2"
+    },
+    "destination": {
+      "code": "CGH",
+      "name": "Congonhas",
+      "city": "São Paulo"
+    },
+    "scheduledDeparture": "2026-04-24T08:55:51.251Z",
+    "status": "on-time",
+    "gate": "C14",
+    "aircraft": "Boeing 737-800",
+    "fareClass": "economy"
+  },
+  {
+    "id": "3ad51776-b2d8-4e9c-83b9-0efe8be867f2",
+    "flightNumber": "AO2360",
+    "airline": "AirOps",
+    "origin": {
+      "code": "FOR",
+      "name": "Pinto Martins",
+      "city": "Fortaleza"
+    },
+    "destination": {
+      "code": "REC",
+      "name": "Guararapes",
+      "city": "Recife"
+    },
+    "scheduledDeparture": "2026-04-25T06:06:36.123Z",
+    "status": "on-time",
+    "gate": "A1",
+    "aircraft": "Airbus A320neo",
+    "fareClass": "economy"
+  },
+  {
+    "id": "8e31be03-7d87-4135-b17a-4f709a83c4f6",
+    "flightNumber": "AO7752",
+    "airline": "AirOps",
+    "origin": {
+      "code": "FOR",
+      "name": "Pinto Martins",
+      "city": "Fortaleza"
+    },
+    "destination": {
+      "code": "CNF",
+      "name": "Confins",
+      "city": "Belo Horizonte"
+    },
+    "scheduledDeparture": "2026-04-25T11:09:18.592Z",
+    "status": "boarding",
+    "gate": "C14",
+    "aircraft": "Boeing 737-800",
+    "fareClass": "business"
+  },
+  {
+    "id": "a18573a7-2372-48fa-9b59-f2b90490305a",
+    "flightNumber": "AO8506",
+    "airline": "AirOps",
+    "origin": {
+      "code": "CNF",
+      "name": "Confins",
+      "city": "Belo Horizonte"
+    },
+    "destination": {
+      "code": "VCP",
+      "name": "Viracopos",
+      "city": "Campinas"
+    },
+    "scheduledDeparture": "2026-04-25T19:54:59.588Z",
+    "status": "delayed",
+    "delayMinutes": 184,
+    "delayReason": "Atendimento médico",
+    "gate": "A1",
+    "aircraft": "Boeing 737-800",
+    "fareClass": "economy"
+  },
+  {
+    "id": "8f7ae4e9-cdbd-4954-be74-27ee1a525ad1",
+    "flightNumber": "AO3725",
+    "airline": "AirOps",
+    "origin": {
+      "code": "GRU",
+      "name": "Guarulhos",
+      "city": "São Paulo",
+      "terminal": "2"
+    },
+    "destination": {
+      "code": "CGH",
+      "name": "Congonhas",
+      "city": "São Paulo"
+    },
+    "scheduledDeparture": "2026-04-24T22:56:58.999Z",
+    "status": "on-time",
+    "gate": "A12",
+    "aircraft": "Embraer E195-E2",
+    "fareClass": "business"
+  },
+  {
+    "id": "35bc6da7-3530-4e2b-ada3-4a5b2561c994",
+    "flightNumber": "AO1183",
+    "airline": "AirOps",
+    "origin": {
+      "code": "GIG",
+      "name": "Galeão",
+      "city": "Rio de Janeiro",
+      "terminal": "2"
+    },
+    "destination": {
+      "code": "CNF",
+      "name": "Confins",
+      "city": "Belo Horizonte"
+    },
+    "scheduledDeparture": "2026-04-25T18:35:43.877Z",
+    "status": "on-time",
+    "gate": "D9",
+    "aircraft": "Embraer E195-E2",
+    "fareClass": "economy"
+  },
+  {
+    "id": "9f113da0-f423-47d6-ae16-13238d9afd77",
+    "flightNumber": "AO7855",
+    "airline": "AirOps",
+    "origin": {
+      "code": "GIG",
+      "name": "Galeão",
+      "city": "Rio de Janeiro",
+      "terminal": "2"
+    },
+    "destination": {
+      "code": "CNF",
+      "name": "Confins",
+      "city": "Belo Horizonte"
+    },
+    "scheduledDeparture": "2026-04-24T06:48:59.675Z",
+    "status": "on-time",
+    "gate": "A1",
+    "aircraft": "Airbus A320neo",
+    "fareClass": "economy"
+  },
+  {
+    "id": "ec577413-66b7-4449-83e1-c351f27f91cc",
+    "flightNumber": "AO3472",
+    "airline": "AirOps",
+    "origin": {
+      "code": "FOR",
+      "name": "Pinto Martins",
+      "city": "Fortaleza"
+    },
+    "destination": {
+      "code": "BSB",
+      "name": "Brasília",
+      "city": "Brasília"
+    },
+    "scheduledDeparture": "2026-04-24T07:24:24.162Z",
+    "status": "on-time",
+    "gate": "A1",
+    "aircraft": "Boeing 737-800",
+    "fareClass": "economy"
+  },
+  {
+    "id": "4b8ecbb8-8f3c-4ff7-8e2b-e5d72c91f21c",
+    "flightNumber": "AO8353",
+    "airline": "AirOps",
+    "origin": {
+      "code": "REC",
+      "name": "Guararapes",
+      "city": "Recife"
+    },
+    "destination": {
+      "code": "CNF",
+      "name": "Confins",
+      "city": "Belo Horizonte"
+    },
+    "scheduledDeparture": "2026-04-25T19:00:20.311Z",
+    "status": "on-time",
+    "gate": "C14",
+    "aircraft": "Airbus A320neo",
+    "fareClass": "economy"
+  },
+  {
+    "id": "839aff8b-8e3b-47d9-9605-ecba28099c4b",
+    "flightNumber": "AO4818",
+    "airline": "AirOps",
+    "origin": {
+      "code": "CGH",
+      "name": "Congonhas",
+      "city": "São Paulo"
+    },
+    "destination": {
+      "code": "SDU",
+      "name": "Santos Dumont",
+      "city": "Rio de Janeiro"
+    },
+    "scheduledDeparture": "2026-04-24T23:27:50.529Z",
+    "status": "on-time",
+    "gate": "B3",
+    "aircraft": "Airbus A320neo",
+    "fareClass": "business"
+  },
+  {
+    "id": "490709a5-c91d-4a4f-9573-88d05873831c",
+    "flightNumber": "AO1130",
+    "airline": "AirOps",
+    "origin": {
+      "code": "SDU",
+      "name": "Santos Dumont",
+      "city": "Rio de Janeiro"
+    },
+    "destination": {
+      "code": "REC",
+      "name": "Guararapes",
+      "city": "Recife"
+    },
+    "scheduledDeparture": "2026-04-24T02:58:34.501Z",
+    "status": "on-time",
+    "gate": "B3",
+    "aircraft": "Embraer E195-E2",
+    "fareClass": "economy"
+  },
+  {
+    "id": "8b0def62-d8e0-40e2-a568-33e54330bd90",
+    "flightNumber": "AO7457",
+    "airline": "AirOps",
+    "origin": {
+      "code": "GRU",
+      "name": "Guarulhos",
+      "city": "São Paulo",
+      "terminal": "2"
+    },
+    "destination": {
+      "code": "REC",
+      "name": "Guararapes",
+      "city": "Recife"
+    },
+    "scheduledDeparture": "2026-04-24T02:34:09.409Z",
+    "status": "landed",
+    "gate": "D9",
+    "aircraft": "Airbus A320neo",
+    "fareClass": "economy"
+  },
+  {
+    "id": "89892755-e557-4ca0-8088-a3e325f17493",
+    "flightNumber": "AO4871",
+    "airline": "AirOps",
+    "origin": {
+      "code": "BSB",
+      "name": "Brasília",
+      "city": "Brasília"
+    },
+    "destination": {
+      "code": "FOR",
+      "name": "Pinto Martins",
+      "city": "Fortaleza"
+    },
+    "scheduledDeparture": "2026-04-24T07:42:28.104Z",
+    "status": "delayed",
+    "delayMinutes": 97,
+    "delayReason": "Tráfego aéreo",
+    "gate": "D9",
+    "aircraft": "Embraer E195-E2",
+    "fareClass": "business"
+  },
+  {
+    "id": "6bd724e5-652b-487b-bed6-dbf362c87d6d",
+    "flightNumber": "AO5518",
+    "airline": "AirOps",
+    "origin": {
+      "code": "GRU",
+      "name": "Guarulhos",
+      "city": "São Paulo",
+      "terminal": "2"
+    },
+    "destination": {
+      "code": "REC",
+      "name": "Guararapes",
+      "city": "Recife"
+    },
+    "scheduledDeparture": "2026-04-25T11:42:12.936Z",
+    "status": "delayed",
+    "delayMinutes": 143,
+    "delayReason": "Atendimento médico",
+    "gate": "A12",
+    "aircraft": "Embraer E195-E2",
+    "fareClass": "economy"
+  },
+  {
+    "id": "4d791982-62ef-419d-9ace-1c00b9c597d1",
+    "flightNumber": "AO4081",
+    "airline": "AirOps",
+    "origin": {
+      "code": "CNF",
+      "name": "Confins",
+      "city": "Belo Horizonte"
+    },
+    "destination": {
+      "code": "CGH",
+      "name": "Congonhas",
+      "city": "São Paulo"
+    },
+    "scheduledDeparture": "2026-04-24T07:54:31.580Z",
+    "status": "on-time",
+    "gate": "C14",
+    "aircraft": "Boeing 737-800",
+    "fareClass": "business"
+  },
+  {
+    "id": "730a9434-5e3a-4f34-b3ec-51fb0e5d77a4",
+    "flightNumber": "AO9628",
+    "airline": "AirOps",
+    "origin": {
+      "code": "VCP",
+      "name": "Viracopos",
+      "city": "Campinas"
+    },
+    "destination": {
+      "code": "GIG",
+      "name": "Galeão",
+      "city": "Rio de Janeiro",
+      "terminal": "2"
+    },
+    "scheduledDeparture": "2026-04-25T17:24:14.754Z",
+    "status": "on-time",
+    "gate": "C14",
+    "aircraft": "Airbus A320neo",
+    "fareClass": "business"
+  },
+  {
+    "id": "656ceb89-8206-4d6d-9ccf-698698775324",
+    "flightNumber": "AO5878",
+    "airline": "AirOps",
+    "origin": {
+      "code": "CGH",
+      "name": "Congonhas",
+      "city": "São Paulo"
+    },
+    "destination": {
+      "code": "SSA",
+      "name": "Dep. Luís Eduardo Magalhães",
+      "city": "Salvador"
+    },
+    "scheduledDeparture": "2026-04-25T18:58:06.218Z",
+    "status": "delayed",
+    "delayMinutes": 63,
+    "delayReason": "Atendimento médico",
+    "gate": "A12",
+    "aircraft": "Embraer E195-E2",
+    "fareClass": "business"
+  },
+  {
+    "id": "c67d2f52-92b9-42a9-af41-e1ffee609972",
+    "flightNumber": "AO3176",
+    "airline": "AirOps",
+    "origin": {
+      "code": "CNF",
+      "name": "Confins",
+      "city": "Belo Horizonte"
+    },
+    "destination": {
+      "code": "CGH",
+      "name": "Congonhas",
+      "city": "São Paulo"
+    },
+    "scheduledDeparture": "2026-04-23T21:34:53.965Z",
+    "status": "on-time",
+    "gate": "A1",
+    "aircraft": "Boeing 737-800",
+    "fareClass": "economy"
+  },
+  {
+    "id": "2dd7ed25-0a45-4fc0-b34f-49b5c66b33f2",
+    "flightNumber": "AO4733",
+    "airline": "AirOps",
+    "origin": {
+      "code": "CNF",
+      "name": "Confins",
+      "city": "Belo Horizonte"
+    },
+    "destination": {
+      "code": "FOR",
+      "name": "Pinto Martins",
+      "city": "Fortaleza"
+    },
+    "scheduledDeparture": "2026-04-23T21:07:07.863Z",
+    "status": "boarding",
+    "gate": "A12",
+    "aircraft": "Embraer E195-E2",
+    "fareClass": "economy"
+  },
+  {
+    "id": "ae9595ef-937f-4bb8-baeb-e491b20d4cdb",
+    "flightNumber": "AO2541",
+    "airline": "AirOps",
+    "origin": {
+      "code": "VCP",
+      "name": "Viracopos",
+      "city": "Campinas"
+    },
+    "destination": {
+      "code": "SSA",
+      "name": "Dep. Luís Eduardo Magalhães",
+      "city": "Salvador"
+    },
+    "scheduledDeparture": "2026-04-24T06:08:24.015Z",
+    "status": "delayed",
+    "delayMinutes": 188,
+    "delayReason": "Atendimento médico",
+    "gate": "C14",
+    "aircraft": "Airbus A320neo",
+    "fareClass": "economy"
+  },
+  {
+    "id": "1a5780aa-ecf7-42d1-9b37-ade5c040c64e",
+    "flightNumber": "AO2539",
+    "airline": "AirOps",
+    "origin": {
+      "code": "GRU",
+      "name": "Guarulhos",
+      "city": "São Paulo",
+      "terminal": "2"
+    },
+    "destination": {
+      "code": "REC",
+      "name": "Guararapes",
+      "city": "Recife"
+    },
+    "scheduledDeparture": "2026-04-25T10:54:58.225Z",
+    "status": "on-time",
+    "gate": "A1",
+    "aircraft": "Boeing 737-800",
+    "fareClass": "business"
+  },
+  {
+    "id": "ec9bfbb8-2275-493a-8226-93a111b884c8",
+    "flightNumber": "AO5997",
+    "airline": "AirOps",
+    "origin": {
+      "code": "FOR",
+      "name": "Pinto Martins",
+      "city": "Fortaleza"
+    },
+    "destination": {
+      "code": "CGH",
+      "name": "Congonhas",
+      "city": "São Paulo"
+    },
+    "scheduledDeparture": "2026-04-24T12:17:14.160Z",
+    "status": "on-time",
+    "gate": "A12",
+    "aircraft": "Airbus A320neo",
+    "fareClass": "economy"
+  },
+  {
+    "id": "49ebd77a-8d9a-4db7-a773-7e0a24a093e9",
+    "flightNumber": "AO3420",
+    "airline": "AirOps",
+    "origin": {
+      "code": "VCP",
+      "name": "Viracopos",
+      "city": "Campinas"
+    },
+    "destination": {
+      "code": "BSB",
+      "name": "Brasília",
+      "city": "Brasília"
+    },
+    "scheduledDeparture": "2026-04-25T20:15:50.885Z",
+    "status": "delayed",
+    "delayMinutes": 188,
+    "delayReason": "Condições climáticas",
+    "gate": "C14",
+    "aircraft": "Airbus A320neo",
+    "fareClass": "business"
+  },
+  {
+    "id": "48718272-0506-4840-bf73-5730e31638ed",
+    "flightNumber": "AO9840",
+    "airline": "AirOps",
+    "origin": {
+      "code": "GRU",
+      "name": "Guarulhos",
+      "city": "São Paulo",
+      "terminal": "2"
+    },
+    "destination": {
+      "code": "CGH",
+      "name": "Congonhas",
+      "city": "São Paulo"
+    },
+    "scheduledDeparture": "2026-04-25T17:45:38.685Z",
+    "status": "on-time",
+    "gate": "B3",
+    "aircraft": "Airbus A320neo",
+    "fareClass": "business"
+  },
+  {
+    "id": "9a09bee8-19ae-475d-90ad-9d470d652042",
+    "flightNumber": "AO3071",
+    "airline": "AirOps",
+    "origin": {
+      "code": "FOR",
+      "name": "Pinto Martins",
+      "city": "Fortaleza"
+    },
+    "destination": {
+      "code": "REC",
+      "name": "Guararapes",
+      "city": "Recife"
+    },
+    "scheduledDeparture": "2026-04-25T18:37:00.468Z",
+    "status": "on-time",
+    "gate": "B3",
+    "aircraft": "Airbus A320neo",
+    "fareClass": "business"
+  },
+  {
+    "id": "ff47683b-350c-4c27-8b15-b0736fd22ebe",
+    "flightNumber": "AO2196",
+    "airline": "AirOps",
+    "origin": {
+      "code": "REC",
+      "name": "Guararapes",
+      "city": "Recife"
+    },
+    "destination": {
+      "code": "BSB",
+      "name": "Brasília",
+      "city": "Brasília"
+    },
+    "scheduledDeparture": "2026-04-24T23:49:33.401Z",
+    "status": "on-time",
+    "gate": "B3",
+    "aircraft": "Boeing 737-800",
+    "fareClass": "economy"
+  },
+  {
+    "id": "4dda9ff4-452f-48b5-9f76-2f271755fd07",
+    "flightNumber": "AO1248",
+    "airline": "AirOps",
+    "origin": {
+      "code": "CNF",
+      "name": "Confins",
+      "city": "Belo Horizonte"
+    },
+    "destination": {
+      "code": "CGH",
+      "name": "Congonhas",
+      "city": "São Paulo"
+    },
+    "scheduledDeparture": "2026-04-24T08:02:41.745Z",
+    "status": "cancelled",
+    "gate": "A12",
+    "aircraft": "Boeing 737-800",
+    "fareClass": "business"
+  },
+  {
+    "id": "b67f9405-f145-4b9e-a791-998ccc1afcbb",
+    "flightNumber": "AO7146",
+    "airline": "AirOps",
+    "origin": {
+      "code": "REC",
+      "name": "Guararapes",
+      "city": "Recife"
+    },
+    "destination": {
+      "code": "GRU",
+      "name": "Guarulhos",
+      "city": "São Paulo",
+      "terminal": "2"
+    },
+    "scheduledDeparture": "2026-04-25T14:20:34.956Z",
+    "status": "on-time",
+    "gate": "C14",
+    "aircraft": "Boeing 737-800",
+    "fareClass": "business"
+  },
+  {
+    "id": "2e3acd2a-2383-42e9-94ab-8b1af36fe4bf",
+    "flightNumber": "AO1037",
+    "airline": "AirOps",
+    "origin": {
+      "code": "BSB",
+      "name": "Brasília",
+      "city": "Brasília"
+    },
+    "destination": {
+      "code": "REC",
+      "name": "Guararapes",
+      "city": "Recife"
+    },
+    "scheduledDeparture": "2026-04-25T07:50:28.218Z",
+    "status": "boarding",
+    "gate": "B3",
+    "aircraft": "Airbus A320neo",
+    "fareClass": "business"
+  },
+  {
+    "id": "e6fc17c3-6bcd-4599-a29e-63f500e1d475",
+    "flightNumber": "AO4411",
+    "airline": "AirOps",
+    "origin": {
+      "code": "SDU",
+      "name": "Santos Dumont",
+      "city": "Rio de Janeiro"
+    },
+    "destination": {
+      "code": "REC",
+      "name": "Guararapes",
+      "city": "Recife"
+    },
+    "scheduledDeparture": "2026-04-25T12:10:37.899Z",
+    "status": "on-time",
+    "gate": "A1",
+    "aircraft": "Boeing 737-800",
+    "fareClass": "business"
+  },
+  {
+    "id": "2ffc46f6-8235-4136-9a0b-1ac794c6a8c2",
+    "flightNumber": "AO9760",
+    "airline": "AirOps",
+    "origin": {
+      "code": "VCP",
+      "name": "Viracopos",
+      "city": "Campinas"
+    },
+    "destination": {
+      "code": "SDU",
+      "name": "Santos Dumont",
+      "city": "Rio de Janeiro"
+    },
+    "scheduledDeparture": "2026-04-24T17:50:21.272Z",
+    "status": "delayed",
+    "delayMinutes": 201,
+    "delayReason": "Tráfego aéreo",
+    "gate": "A1",
+    "aircraft": "Boeing 737-800",
+    "fareClass": "business"
+  },
+  {
+    "id": "a443cb89-11a1-4c44-8b60-cd269c5bd5c5",
+    "flightNumber": "AO7974",
+    "airline": "AirOps",
+    "origin": {
+      "code": "VCP",
+      "name": "Viracopos",
+      "city": "Campinas"
+    },
+    "destination": {
+      "code": "FOR",
+      "name": "Pinto Martins",
+      "city": "Fortaleza"
+    },
+    "scheduledDeparture": "2026-04-24T11:43:43.568Z",
+    "status": "cancelled",
+    "gate": "C14",
+    "aircraft": "Airbus A320neo",
+    "fareClass": "business"
+  },
+  {
+    "id": "24d87155-c86c-498b-8283-d26b828a4d1d",
+    "flightNumber": "AO1659",
+    "airline": "AirOps",
+    "origin": {
+      "code": "VCP",
+      "name": "Viracopos",
+      "city": "Campinas"
+    },
+    "destination": {
+      "code": "SSA",
+      "name": "Dep. Luís Eduardo Magalhães",
+      "city": "Salvador"
+    },
+    "scheduledDeparture": "2026-04-23T22:52:04.813Z",
+    "status": "landed",
+    "gate": "A1",
+    "aircraft": "Embraer E195-E2",
+    "fareClass": "economy"
+  },
+  {
+    "id": "c2c0c52a-11de-4182-8736-4c433c50c7d2",
+    "flightNumber": "AO3158",
+    "airline": "AirOps",
+    "origin": {
+      "code": "SSA",
+      "name": "Dep. Luís Eduardo Magalhães",
+      "city": "Salvador"
+    },
+    "destination": {
+      "code": "REC",
+      "name": "Guararapes",
+      "city": "Recife"
+    },
+    "scheduledDeparture": "2026-04-25T20:21:30.373Z",
+    "status": "cancelled",
+    "gate": "B3",
+    "aircraft": "Airbus A320neo",
+    "fareClass": "business"
+  },
+  {
+    "id": "91a5fa50-47a9-4d4f-ab1f-c7e267e11208",
+    "flightNumber": "AO6766",
+    "airline": "AirOps",
+    "origin": {
+      "code": "REC",
+      "name": "Guararapes",
+      "city": "Recife"
+    },
+    "destination": {
+      "code": "VCP",
+      "name": "Viracopos",
+      "city": "Campinas"
+    },
+    "scheduledDeparture": "2026-04-25T07:07:47.473Z",
+    "status": "on-time",
+    "gate": "D9",
+    "aircraft": "Airbus A320neo",
+    "fareClass": "business"
+  },
+  {
+    "id": "cc3f6263-181e-47b6-a80d-d84c9e487767",
+    "flightNumber": "AO6284",
+    "airline": "AirOps",
+    "origin": {
+      "code": "CGH",
+      "name": "Congonhas",
+      "city": "São Paulo"
+    },
+    "destination": {
+      "code": "VCP",
+      "name": "Viracopos",
+      "city": "Campinas"
+    },
+    "scheduledDeparture": "2026-04-25T08:46:41.817Z",
+    "status": "on-time",
+    "gate": "A1",
+    "aircraft": "Embraer E195-E2",
+    "fareClass": "economy"
+  },
+  {
+    "id": "d6c8194d-90b6-47d2-b485-571f55fb7381",
+    "flightNumber": "AO1182",
+    "airline": "AirOps",
+    "origin": {
+      "code": "SDU",
+      "name": "Santos Dumont",
+      "city": "Rio de Janeiro"
+    },
+    "destination": {
+      "code": "GRU",
+      "name": "Guarulhos",
+      "city": "São Paulo",
+      "terminal": "2"
+    },
+    "scheduledDeparture": "2026-04-24T06:56:05.407Z",
+    "status": "delayed",
+    "delayMinutes": 56,
+    "delayReason": "Tráfego aéreo",
+    "gate": "C14",
+    "aircraft": "Airbus A320neo",
+    "fareClass": "business"
+  },
+  {
+    "id": "3fad8b43-b4b7-438b-8c25-730f494fe540",
+    "flightNumber": "AO3694",
+    "airline": "AirOps",
+    "origin": {
+      "code": "REC",
+      "name": "Guararapes",
+      "city": "Recife"
+    },
+    "destination": {
+      "code": "GIG",
+      "name": "Galeão",
+      "city": "Rio de Janeiro",
+      "terminal": "2"
+    },
+    "scheduledDeparture": "2026-04-24T06:58:15.690Z",
+    "status": "landed",
+    "gate": "C14",
+    "aircraft": "Embraer E195-E2",
+    "fareClass": "business"
+  },
+  {
+    "id": "f580f955-d6fd-428b-85c8-4c11db0e3a2d",
+    "flightNumber": "AO1859",
+    "airline": "AirOps",
+    "origin": {
+      "code": "CNF",
+      "name": "Confins",
+      "city": "Belo Horizonte"
+    },
+    "destination": {
+      "code": "SDU",
+      "name": "Santos Dumont",
+      "city": "Rio de Janeiro"
+    },
+    "scheduledDeparture": "2026-04-24T13:10:20.103Z",
+    "status": "boarding",
+    "gate": "C14",
+    "aircraft": "Boeing 737-800",
+    "fareClass": "economy"
+  },
+  {
+    "id": "ab5ae17e-7f90-413f-9e36-7079f843f6e5",
+    "flightNumber": "AO2249",
+    "airline": "AirOps",
+    "origin": {
+      "code": "GRU",
+      "name": "Guarulhos",
+      "city": "São Paulo",
+      "terminal": "2"
+    },
+    "destination": {
+      "code": "SDU",
+      "name": "Santos Dumont",
+      "city": "Rio de Janeiro"
+    },
+    "scheduledDeparture": "2026-04-23T21:31:57.725Z",
+    "status": "on-time",
+    "gate": "D9",
+    "aircraft": "Boeing 737-800",
+    "fareClass": "business"
+  },
+  {
+    "id": "fdc98ea8-2d15-4bf1-b84c-3d8f8a3457de",
+    "flightNumber": "AO7853",
+    "airline": "AirOps",
+    "origin": {
+      "code": "SSA",
+      "name": "Dep. Luís Eduardo Magalhães",
+      "city": "Salvador"
+    },
+    "destination": {
+      "code": "CNF",
+      "name": "Confins",
+      "city": "Belo Horizonte"
+    },
+    "scheduledDeparture": "2026-04-24T06:05:01.208Z",
+    "status": "cancelled",
+    "gate": "C14",
+    "aircraft": "Boeing 737-800",
+    "fareClass": "business"
+  },
+  {
+    "id": "f81ed80d-d9cb-426a-a8a5-8eea25303c5d",
+    "flightNumber": "AO9699",
+    "airline": "AirOps",
+    "origin": {
+      "code": "GIG",
+      "name": "Galeão",
+      "city": "Rio de Janeiro",
+      "terminal": "2"
+    },
+    "destination": {
+      "code": "VCP",
+      "name": "Viracopos",
+      "city": "Campinas"
+    },
+    "scheduledDeparture": "2026-04-25T03:40:01.937Z",
+    "status": "delayed",
+    "delayMinutes": 112,
+    "delayReason": "Condições climáticas",
+    "gate": "C14",
+    "aircraft": "Embraer E195-E2",
+    "fareClass": "economy"
+  },
+  {
+    "id": "66f992b9-02b7-4fba-a51e-70d2c38c4036",
+    "flightNumber": "AO2546",
+    "airline": "AirOps",
+    "origin": {
+      "code": "CNF",
+      "name": "Confins",
+      "city": "Belo Horizonte"
+    },
+    "destination": {
+      "code": "VCP",
+      "name": "Viracopos",
+      "city": "Campinas"
+    },
+    "scheduledDeparture": "2026-04-25T02:06:48.223Z",
+    "status": "on-time",
+    "gate": "B3",
+    "aircraft": "Boeing 737-800",
+    "fareClass": "economy"
+  },
+  {
+    "id": "3a78540c-8a87-48e6-89be-4610c5b97ba2",
+    "flightNumber": "AO7482",
+    "airline": "AirOps",
+    "origin": {
+      "code": "VCP",
+      "name": "Viracopos",
+      "city": "Campinas"
+    },
+    "destination": {
+      "code": "BSB",
+      "name": "Brasília",
+      "city": "Brasília"
+    },
+    "scheduledDeparture": "2026-04-24T13:18:22.932Z",
+    "status": "delayed",
+    "delayMinutes": 16,
+    "delayReason": "Manutenção programada",
+    "gate": "A1",
+    "aircraft": "Boeing 737-800",
+    "fareClass": "business"
+  },
+  {
+    "id": "44a952de-2fdc-441e-a1ed-1b94c36d2f7a",
+    "flightNumber": "AO1080",
+    "airline": "AirOps",
+    "origin": {
+      "code": "SDU",
+      "name": "Santos Dumont",
+      "city": "Rio de Janeiro"
+    },
+    "destination": {
+      "code": "SSA",
+      "name": "Dep. Luís Eduardo Magalhães",
+      "city": "Salvador"
+    },
+    "scheduledDeparture": "2026-04-24T22:12:04.027Z",
+    "status": "boarding",
+    "gate": "C14",
+    "aircraft": "Airbus A320neo",
+    "fareClass": "business"
+  },
+  {
+    "id": "c0dbbaef-8bd8-4709-a3bb-e8185925718a",
+    "flightNumber": "AO2032",
+    "airline": "AirOps",
+    "origin": {
+      "code": "GRU",
+      "name": "Guarulhos",
+      "city": "São Paulo",
+      "terminal": "2"
+    },
+    "destination": {
+      "code": "BSB",
+      "name": "Brasília",
+      "city": "Brasília"
+    },
+    "scheduledDeparture": "2026-04-24T06:00:37.811Z",
+    "status": "on-time",
+    "gate": "B3",
+    "aircraft": "Embraer E195-E2",
+    "fareClass": "economy"
+  },
+  {
+    "id": "3f2b630d-6fd8-49cc-9084-0526b37c005a",
+    "flightNumber": "AO3707",
+    "airline": "AirOps",
+    "origin": {
+      "code": "GIG",
+      "name": "Galeão",
+      "city": "Rio de Janeiro",
+      "terminal": "2"
+    },
+    "destination": {
+      "code": "VCP",
+      "name": "Viracopos",
+      "city": "Campinas"
+    },
+    "scheduledDeparture": "2026-04-25T20:50:00.498Z",
+    "status": "on-time",
+    "gate": "D9",
+    "aircraft": "Embraer E195-E2",
+    "fareClass": "business"
+  },
+  {
+    "id": "5f06dc18-96b9-407e-a343-61b8167277fd",
+    "flightNumber": "AO7129",
+    "airline": "AirOps",
+    "origin": {
+      "code": "FOR",
+      "name": "Pinto Martins",
+      "city": "Fortaleza"
+    },
+    "destination": {
+      "code": "REC",
+      "name": "Guararapes",
+      "city": "Recife"
+    },
+    "scheduledDeparture": "2026-04-24T12:48:26.423Z",
+    "status": "on-time",
+    "gate": "A12",
+    "aircraft": "Boeing 737-800",
+    "fareClass": "business"
+  }
+]

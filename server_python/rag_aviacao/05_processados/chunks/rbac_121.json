@@ -1,0 +1,32 @@
+[
+  {
+    "chunk_id": "rbac_121_chunk_0000_a3ffc839",
+    "document_id": "rbac_121",
+    "document_name": "RBAC nº 121 — Requisitos Operacionais (Grandes Aeronaves)",
+    "source_type": "norma_publica",
+    "authority": "ANAC",
+    "legal_weight": "regulacao_anac",
+    "topic": "operacao_grandes_aeronaves",
+    "subtopics": [
+      "tripulacao",
+      "seguranca_operacional",
+      "manuais"
+    ],
+    "article": null,
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "operacional"
+    ],
+    "effective_from": null,
+    "effective_to": null,
+    "version": "vigente",
+    "text": "REGULAMENTO BRASILEIRO DE AVIAÇÃO CIVIL - RBAC Nº 121\n\nREQUISITOS OPERACIONAIS: OPERAÇÕES DOMÉSTICAS, DE BANDEIRA E SUPLEMENTARES\n\nSEÇÃO 121.1 - APLICABILIDADE\n\nEste regulamento prescreve os requisitos operacionais para operações de transporte aéreo público com aeronaves de grande porte.\n\nSEÇÃO 121.135 - MANUAL DE OPERAÇÕES\n\nCada detentor de certificado deve preparar e manter atualizado um manual de operações.\n\nSEÇÃO 121.391 - COMPOSIÇÃO DA TRIPULAÇÃO\n\nA tripulação mínima de cabine para aeronaves com capacidade acima de 19 passageiros será de 1 comissário para cada 50 assentos.\n\nSEÇÃO 121.571 - INFORMAÇÕES AOS PASSAGEIROS\n\nO comandante deve assegurar que os passageiros sejam informados sobre:\n(a) procedimentos de emergência e uso dos cintos de segurança;\n(b) localização das saídas de emergência;\n(c) uso de dispositivos de flutuação, quando aplicável.",
+    "char_count": 862,
+    "split_method": "recursive_character",
+    "chunk_index": 0,
+    "total_chunks": 1
+  }
+]

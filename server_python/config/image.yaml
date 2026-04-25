@@ -1,0 +1,59 @@
+# ==========================================
+# AirOps AI — Image Generation Configuration
+# Brand identity and visual asset generation
+# ==========================================
+
+image:
+  # --- Default Settings ---
+  defaults:
+    provider: openai
+    model: gpt-image-1
+    size: 1024x1024
+    quality: high
+    output_format: png
+    background: auto
+    moderation: auto
+
+  # --- Brand Identity ---
+  brand:
+    style_prompt_path: prompts/system/image_style.md
+    palette:
+      primary: "#1E3A5F"        # Deep navy blue
+      secondary: "#F5A623"      # Warm amber
+      accent: "#00B4D8"         # Sky blue
+      neutral: "#F0F0F0"        # Light gray
+      text_dark: "#1A1A2E"      # Near-black
+      text_light: "#FFFFFF"     # White
+    typography:
+      primary_font: "Inter"
+      secondary_font: "Outfit"
+    logo:
+      path: "assets/logo.svg"
+      min_clearspace_px: 24
+
+  # --- Presets ---
+  presets:
+    icon:
+      size: 256x256
+      quality: standard
+      background: transparent
+    hero_banner:
+      size: 1792x1024
+      quality: high
+    social_post:
+      size: 1024x1024
+      quality: high
+    thumbnail:
+      size: 512x512
+      quality: standard
+
+  # --- Content Safety ---
+  content_policy:
+    blocked_content:
+      - violent_imagery
+      - discriminatory_content
+      - competitor_branding
+      - misleading_certifications
+    required_elements:
+      - brand_consistency
+      - accessibility_contrast

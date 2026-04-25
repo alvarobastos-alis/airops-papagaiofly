@@ -1,0 +1,79 @@
+# ==========================================
+# AirOps AI — Agent Definitions
+# Each agent has: type, model, prompt, tools, guardrails
+# Change agent behavior without touching code
+# ==========================================
+
+agents:
+  # --- SAC Orchestrator (Central Router) ---
+  sac_orchestrator:
+    type: text
+    model_ref: text_safe
+    prompt: prompts/system/sac_orchestrator.md
+    description: "Agente orquestrador central. Recebe a mensagem e decide se responde direto, delega ao RAG, ou escala."
+    tools:
+      - get_flight_status
+      - get_reservation
+      - get_refund_options
+      - rebook_flight
+      - create_refund
+      - create_handoff
+      - search_rag
+    guardrails:
+      - require_auth
+      - customer_scope_only
+      - no_sensitive_data_leak
+      - human_handoff_required
+
+  # --- RAG Policy Agent (Normas e Regulações) ---
+  rag_policy_agent:
+    type: text
+    model_ref: text_precise
+    prompt: prompts/system/rag_policy.md
+    description: "Especialista em normas ANAC, leis, regulações e políticas internas. Responde SOMENTE com base em fontes."
+    retrieval:
+      top_k: 8
+      min_score: 0.45
+      require_source: true
+      rerank: true
+      rerank_top_n: 20
+    guardrails:
+      - no_sensitive_data_leak
+
+  # --- Voice Front Agent (STT → RAG → TTS) ---
+  voice_front_agent:
+    type: voice
+    model_ref: voice_realtime
+    prompt: prompts/system/voice_front_agent.md
+    description: "Agente de voz com pipeline completo server-side. STT → Security → RAG/Tools → TTS."
+    stt_model_ref: voice_stt
+    tts_model_ref: voice_tts
+    tools:
+      - get_flight_status
+      - get_reservation
+      - get_refund_options
+      - create_handoff
+      - search_rag
+    guardrails:
+      - require_auth
+      - customer_scope_only
+      - no_sensitive_data_leak
+      - human_handoff_required
+    voice_config:
+      barge_in_enabled: true
+      max_turn_duration_s: 30
+      disclaimer_mode: short
+      transcription_log: true
+      max_silence_ms: 700
+
+  # --- Image Brand Agent ---
+  image_brand_agent:
+    type: image
+    model_ref: image_brand
+    prompt: prompts/system/image_style.md
+    description: "Geração de assets visuais com identidade de marca da companhia aérea."
+    style_prompt_path: prompts/system/image_style.md
+    brand_palette:
+      primary: "#1E3A5F"
+      secondary: "#F5A623"
+      neutral: "#F0F0F0"

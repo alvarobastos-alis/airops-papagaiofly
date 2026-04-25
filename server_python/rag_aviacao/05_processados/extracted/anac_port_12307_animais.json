@@ -1,0 +1,49 @@
+{
+  "document_id": "anac_port_12307_animais",
+  "document_name": "Portaria ANAC nº 12.307/2023",
+  "source_type": "norma_publica",
+  "authority": "ANAC",
+  "status": "extracted",
+  "file_path": "C:\\Users\\alvar\\Documents\\Projetos\\airops-ai\\docs\\docs_suportes\\Portaria ANAC 12.307-2023 — animais.pdf",
+  "total_pages": 3,
+  "total_chars": 0,
+  "scanned_pages": 1,
+  "needs_ocr": true,
+  "table_count": 0,
+  "pages": [
+    {
+      "page": 1,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [
+        [
+          4,
+          0,
+          279,
+          103,
+          8,
+          "DeviceRGB",
+          "",
+          "Image1",
+          "DCTDecode"
+        ]
+      ],
+      "has_images": true
+    },
+    {
+      "page": 2,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 3,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    }
+  ],
+  "tables": []
+}

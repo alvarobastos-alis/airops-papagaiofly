@@ -1,0 +1,63 @@
+# ==========================================
+# Papagaio Fly — Voice Pipeline Configuration
+# Zulu Voice Agent: STT → Security → RAG/Tools → TTS
+# ==========================================
+
+voice:
+  # --- Speech-to-Text ---
+  stt:
+    provider: openai
+    model: gpt-4o-transcribe
+    language: pt
+    prompt: "Transcrição de atendimento ao cliente da Papagaio Fly, companhia aérea brasileira. Termos comuns: PNR, ANAC, reembolso, remarcação, bagagem, overbooking, Papagaio Fly, Zulu."
+    timestamp_granularity: word
+
+  # --- Text-to-Speech ---
+  tts:
+    provider: openai
+    model: gpt-5.4-mini-tts
+    voice: alloy
+    speed: 1.0
+    response_format: pcm16
+    instructions: >
+      Voz da Zulu: simpática, calorosa, profissional e clara. Português brasileiro.
+      Tom acolhedor e animado, como uma amiga que trabalha na companhia aérea.
+      Fale pausadamente em informações importantes como valores, prazos e códigos.
+      Use tom especialmente empático em situações de frustração do passageiro.
+
+  # --- Pipeline Configuration ---
+  pipeline:
+    mode: server_side
+    max_silence_ms: 700
+    barge_in_enabled: true
+    max_turn_duration_s: 30
+    max_session_duration_s: 600
+    disclaimer_mode: short
+    transcription_log: true
+    audio_log: false
+
+  # --- Turn Detection (VAD) ---
+  turn_detection:
+    type: server_vad
+    threshold: 0.5
+    prefix_padding_ms: 300
+    silence_duration_ms: 700
+
+  # --- Fallback ---
+  fallback:
+    on_stt_failure: "Desculpe, não consegui entender. Poderia repetir?"
+    on_tts_failure: "text_only"
+    on_pipeline_error: "Estou com uma dificuldade técnica. Posso transferir você para um atendente?"
+    max_retries: 2
+
+  # --- Voice-specific restrictions ---
+  restrictions:
+    never_speak_aloud:
+      - cpf
+      - full_card_number
+      - full_document
+      - password
+    redirect_to_app:
+      - detailed_fare_rules
+      - long_policy_text
+      - terms_and_conditions

@@ -1,0 +1,312 @@
+[
+  {
+    "chunk_id": "decreto_ecommerce_7962_chunk_0000_7e9ec73d",
+    "document_id": "decreto_ecommerce_7962",
+    "document_name": "Decreto E-commerce nº 7.962/2013",
+    "source_type": "norma_publica",
+    "authority": "Planalto",
+    "legal_weight": "decreto_federal",
+    "topic": "comercio_eletronico",
+    "subtopics": [
+      "direito_arrependimento",
+      "informacao_clara",
+      "atendimento_facilitado"
+    ],
+    "article": null,
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "2013-03-15",
+    "effective_to": null,
+    "version": "original",
+    "priority": 3,
+    "text": "Presidência da República\nCasa Civil\nSubchefia para Assuntos Jurídicos\nDECRETO Nº 7.962, DE 15 DE MARÇO DE 2013\nVigência\nRegulamenta a Lei nº 8.078, de 11 de setembro de\n1990, para dispor sobre a contratação no comércio\neletrônico.\nA PRESIDENTA DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, caput, inciso IV, da\nConstituição, e tendo em vista o disposto na Lei nº 8.078, de 11 de setembro de 1990,\nDECRETA :",
+    "char_count": 422,
+    "split_method": "article_boundary",
+    "chunk_index": 0,
+    "total_chunks": 10
+  },
+  {
+    "chunk_id": "decreto_ecommerce_7962_chunk_0001_9f829ad6",
+    "document_id": "decreto_ecommerce_7962",
+    "document_name": "Decreto E-commerce nº 7.962/2013",
+    "source_type": "norma_publica",
+    "authority": "Planalto",
+    "legal_weight": "decreto_federal",
+    "topic": "comercio_eletronico",
+    "subtopics": [
+      "direito_arrependimento",
+      "informacao_clara",
+      "atendimento_facilitado"
+    ],
+    "article": "Art. 1",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "2013-03-15",
+    "effective_to": null,
+    "version": "original",
+    "priority": 3,
+    "text": "Art. 1º Este Decreto regulamenta a Lei nº 8.078, de 11 de setembro de 1990, para dispor sobre a contratação\nno comércio eletrônico, abrangendo os seguintes aspectos:\nI - informações claras a respeito do produto, serviço e do fornecedor;\nII - atendimento facilitado ao consumidor; e\nIII - respeito ao direito de arrependimento.",
+    "char_count": 326,
+    "split_method": "article_boundary",
+    "chunk_index": 1,
+    "total_chunks": 10
+  },
+  {
+    "chunk_id": "decreto_ecommerce_7962_chunk_0002_cfc3aae8",
+    "document_id": "decreto_ecommerce_7962",
+    "document_name": "Decreto E-commerce nº 7.962/2013",
+    "source_type": "norma_publica",
+    "authority": "Planalto",
+    "legal_weight": "decreto_federal",
+    "topic": "comercio_eletronico",
+    "subtopics": [
+      "direito_arrependimento",
+      "informacao_clara",
+      "atendimento_facilitado"
+    ],
+    "article": "Art. 2",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "2013-03-15",
+    "effective_to": null,
+    "version": "original",
+    "priority": 3,
+    "text": "Art. 2º Os sítios eletrônicos ou demais meios eletrônicos utilizados para oferta ou conclusão de contrato de\nconsumo devem disponibilizar, em local de destaque e de fácil visualização, as seguintes informações:\nI - nome empresarial e número de inscrição do fornecedor, quando houver, no Cadastro Nacional de Pessoas\nFísicas ou no Cadastro Nacional de Pessoas Jurídicas do Ministério da Fazenda;\nII - endereço físico e eletrônico, e demais informações necessárias para sua localização e contato;\nIII - características essenciais do produto ou do serviço, incluídos os riscos à saúde e à segurança dos\nconsumidores;\nIV - discriminação, no preço, de quaisquer despesas adicionais ou acessórias, tais como as de entrega ou\nseguros;\nV - condições integrais da oferta, incluídas modalidades de pagamento, disponibilidade, forma e prazo da\nexecução do serviço ou da entrega ou disponibilização do produto; e\nVI - informações claras e ostensivas a respeito de quaisquer restrições à fruição da oferta.",
+    "char_count": 993,
+    "split_method": "article_boundary",
+    "chunk_index": 2,
+    "total_chunks": 10
+  },
+  {
+    "chunk_id": "decreto_ecommerce_7962_chunk_0003_af2924bf",
+    "document_id": "decreto_ecommerce_7962",
+    "document_name": "Decreto E-commerce nº 7.962/2013",
+    "source_type": "norma_publica",
+    "authority": "Planalto",
+    "legal_weight": "decreto_federal",
+    "topic": "comercio_eletronico",
+    "subtopics": [
+      "direito_arrependimento",
+      "informacao_clara",
+      "atendimento_facilitado"
+    ],
+    "article": "Art. 3",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "2013-03-15",
+    "effective_to": null,
+    "version": "original",
+    "priority": 3,
+    "text": "Art. 3º Os sítios eletrônicos ou demais meios eletrônicos utilizados para ofertas de compras coletivas ou\nmodalidades análogas de contratação deverão conter, além das informações previstas no art. 2º , as seguintes:\nI - quantidade mínima de consumidores para a efetivação do contrato;\nII - prazo para utilização da oferta pelo consumidor; e\nIII - identificação do fornecedor responsável pelo sítio eletrônico e do fornecedor do produto ou serviço\nofertado, nos termos dos incisos I e II do art. 2º .",
+    "char_count": 499,
+    "split_method": "article_boundary",
+    "chunk_index": 3,
+    "total_chunks": 10
+  },
+  {
+    "chunk_id": "decreto_ecommerce_7962_chunk_0004_5fd55e99",
+    "document_id": "decreto_ecommerce_7962",
+    "document_name": "Decreto E-commerce nº 7.962/2013",
+    "source_type": "norma_publica",
+    "authority": "Planalto",
+    "legal_weight": "decreto_federal",
+    "topic": "comercio_eletronico",
+    "subtopics": [
+      "direito_arrependimento",
+      "informacao_clara",
+      "atendimento_facilitado"
+    ],
+    "article": "Art. 4",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "2013-03-15",
+    "effective_to": null,
+    "version": "original",
+    "priority": 3,
+    "text": "Art. 4º Para garantir o atendimento facilitado ao consumidor no comércio eletrônico, o fornecedor deverá:\nI - apresentar sumário do contrato antes da contratação, com as informações necessárias ao pleno exercício\ndo direito de escolha do consumidor, enfatizadas as cláusulas que limitem direitos;\n25/04/2026, 09:15\nDecreto nº 7962\nhttps://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/decreto/d7962.htm\n1/3\n\nI I - fornecer ferramentas eficazes ao consumidor para identificação e correção imediata de erros ocorridos nas\netapas ante riores à finalização da contratação ;\nIII - confirmar imediatamente o recebimento da aceitação da oferta;\nIV - disponibilizar o contrato ao consumidor em meio que permita sua conservação e reprodução,\nimediatamente após a contratação;\nV - manter serviço adequado e eficaz de atendimento em meio eletrônico, que possibilite ao consumidor a\nresolução de demandas referentes a informação, dúvida, reclamação, suspensão ou cancelamento do contrato;\nVI - confirmar imediatamente o recebimento d as demandas do consumidor referidas no inciso , pelo mesmo\nmeio empregado pelo consumidor ; e\nVII - utilizar mecanismos de segurança eficazes para pagamento e para tratamento de dados do consumidor.\nParágrafo único. A manifestação do fornecedor às demandas previstas no inciso V do caput será encaminhada\nem até cinco dias ao consumidor.",
+    "char_count": 1362,
+    "split_method": "article_boundary",
+    "chunk_index": 4,
+    "total_chunks": 10
+  },
+  {
+    "chunk_id": "decreto_ecommerce_7962_chunk_0005_bc3cbe98",
+    "document_id": "decreto_ecommerce_7962",
+    "document_name": "Decreto E-commerce nº 7.962/2013",
+    "source_type": "norma_publica",
+    "authority": "Planalto",
+    "legal_weight": "decreto_federal",
+    "topic": "comercio_eletronico",
+    "subtopics": [
+      "direito_arrependimento",
+      "informacao_clara",
+      "atendimento_facilitado"
+    ],
+    "article": "Art. 5",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "2013-03-15",
+    "effective_to": null,
+    "version": "original",
+    "priority": 3,
+    "text": "Art. 5º O fornecedor deve informar, de forma clara e ostensiva, os meios adequados e eficazes para o exercício\ndo direito de arrependimento pelo consumidor.\n§ 1º O consumidor poderá exercer seu direito de arrependimento pela mesma ferramenta utilizada para a\ncontratação, sem prejuízo de outros meios disponibilizados.\n§ 2º O exercício do direito de arrependimento implica a rescisão dos contratos acessórios, sem qualquer ônus\npara o consumidor.\n§ 3º O exercício do direito de arrependimento será comunicado imediatamente pelo fornecedor à instituição\nfinanceira ou à administradora do cartão de crédito ou similar, para que:\nI - a transação não seja lançada na fatura do consumidor; ou\nII - seja efetivado o estorno do valor, caso o lançamento na fatura já tenha sido realizado.\n§ 4º O fornecedor deve enviar ao consumidor confirmação imediata do recebimento da manifestação de\narrependimento.",
+    "char_count": 895,
+    "split_method": "article_boundary",
+    "chunk_index": 5,
+    "total_chunks": 10
+  },
+  {
+    "chunk_id": "decreto_ecommerce_7962_chunk_0006_0a1e1aa1",
+    "document_id": "decreto_ecommerce_7962",
+    "document_name": "Decreto E-commerce nº 7.962/2013",
+    "source_type": "norma_publica",
+    "authority": "Planalto",
+    "legal_weight": "decreto_federal",
+    "topic": "comercio_eletronico",
+    "subtopics": [
+      "direito_arrependimento",
+      "informacao_clara",
+      "atendimento_facilitado"
+    ],
+    "article": "Art. 6",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "2013-03-15",
+    "effective_to": null,
+    "version": "original",
+    "priority": 3,
+    "text": "Art. 6º As contratações no comércio eletrônico deverão observar o cumprimento das condições da oferta, com\na entrega dos produtos e serviços contratados, observados prazos, quantidade, qualidade e adequação.",
+    "char_count": 207,
+    "split_method": "article_boundary",
+    "chunk_index": 6,
+    "total_chunks": 10
+  },
+  {
+    "chunk_id": "decreto_ecommerce_7962_chunk_0007_80c058ae",
+    "document_id": "decreto_ecommerce_7962",
+    "document_name": "Decreto E-commerce nº 7.962/2013",
+    "source_type": "norma_publica",
+    "authority": "Planalto",
+    "legal_weight": "decreto_federal",
+    "topic": "comercio_eletronico",
+    "subtopics": [
+      "direito_arrependimento",
+      "informacao_clara",
+      "atendimento_facilitado"
+    ],
+    "article": "Art. 7",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "2013-03-15",
+    "effective_to": null,
+    "version": "original",
+    "priority": 3,
+    "text": "Art. 7º A inobservância das condutas descritas neste Decreto ensejará aplicação das sanções previstas no art.\n56 da Lei nº 8.078, de 1990.",
+    "char_count": 138,
+    "split_method": "article_boundary",
+    "chunk_index": 7,
+    "total_chunks": 10
+  },
+  {
+    "chunk_id": "decreto_ecommerce_7962_chunk_0008_30f8d931",
+    "document_id": "decreto_ecommerce_7962",
+    "document_name": "Decreto E-commerce nº 7.962/2013",
+    "source_type": "norma_publica",
+    "authority": "Planalto",
+    "legal_weight": "decreto_federal",
+    "topic": "comercio_eletronico",
+    "subtopics": [
+      "direito_arrependimento",
+      "informacao_clara",
+      "atendimento_facilitado"
+    ],
+    "article": "Art. 8",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "2013-03-15",
+    "effective_to": null,
+    "version": "original",
+    "priority": 3,
+    "text": "Art. 8º O Decreto nº 5.903, de 20 de setembro de 2006, passa a vigorar com as seguintes alterações:\n\"Art. 10. ........................................................................\nParágrafo único. O disposto nos arts. 2º , 3º e 9º deste Decreto aplica-se às\ncontratações no comércio eletrônico.\" (NR)",
+    "char_count": 303,
+    "split_method": "article_boundary",
+    "chunk_index": 8,
+    "total_chunks": 10
+  },
+  {
+    "chunk_id": "decreto_ecommerce_7962_chunk_0009_4fdccb04",
+    "document_id": "decreto_ecommerce_7962",
+    "document_name": "Decreto E-commerce nº 7.962/2013",
+    "source_type": "norma_publica",
+    "authority": "Planalto",
+    "legal_weight": "decreto_federal",
+    "topic": "comercio_eletronico",
+    "subtopics": [
+      "direito_arrependimento",
+      "informacao_clara",
+      "atendimento_facilitado"
+    ],
+    "article": "Art. 9",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "2013-03-15",
+    "effective_to": null,
+    "version": "original",
+    "priority": 3,
+    "text": "Art. 9º Este Decreto entra em vigor sessenta dias após a data de sua publicação.\nBrasília, 15 de março de 2013; 192º da Independência e 125º da República.\nDILMA ROUSSEFF\nJosé Eduardo Cardozo\nEste texto não substitui o publicado no DOU de 15.3.2013 - Edição extra\n*\n25/04/2026, 09:15\nDecreto nº 7962\nhttps://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/decreto/d7962.htm\n2/3\n\n25/04/2026, 09:15\nDecreto nº 7962\nhttps://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/decreto/d7962.htm\n3/3",
+    "char_count": 491,
+    "split_method": "article_boundary",
+    "chunk_index": 9,
+    "total_chunks": 10
+  }
+]

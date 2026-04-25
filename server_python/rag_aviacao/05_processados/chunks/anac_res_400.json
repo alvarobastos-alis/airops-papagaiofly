@@ -1,0 +1,1647 @@
+[
+  {
+    "chunk_id": "anac_res_400_chunk_0000_575fc0ad",
+    "document_id": "anac_res_400",
+    "document_name": "Resolução ANAC nº 400/2016",
+    "source_type": "norma_publica",
+    "authority": "ANAC",
+    "legal_weight": "regulacao_anac",
+    "topic": "direitos_passageiro",
+    "subtopics": [
+      "atraso",
+      "cancelamento",
+      "reembolso",
+      "remarcacao",
+      "assistencia_material",
+      "pretericao",
+      "bagagem"
+    ],
+    "article": null,
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "2017-03-14",
+    "effective_to": null,
+    "version": "compilada_2026_04",
+    "priority": 1,
+    "text": "RESOLUÇÃO Nº 400, DE 13 DE DEZEMBRO DE 2016. \n \nDispõe sobre as Condições Gerais de Transporte \nAéreo. \n \nA DIRETORIA DA AGÊNCIA NACIONAL DE AVIAÇÃO CIVIL - ANAC, no exercício da \ncompetência que lhe foi outorgada pelo art. 11, inciso V, da Lei nº 11.182, de 27 de setembro de 2005, \ntendo em vista o disposto nos arts. 8º, incisos I e X, da mencionada Lei, 222 a 260 e 302 da Lei nº 7.565, \nde 19 de dezembro de 1986, nas Leis nºs 10.406, de 10 de janeiro de 2002, 8.078, de 11 de setembro de \n1990, e nos Decretos nºs 5.910, de 27 de setembro de 2006, e 6.780, de 18 de fevereiro de 2009, e \nconsiderando o que consta do processo nº 00058.054992/2014-33, deliberado e aprovado na 26ª Reunião \nDeliberativa da Diretoria, realizada em 13 de dezembro de 2016, \n \nRESOLVE:",
+    "char_count": 770,
+    "split_method": "article_boundary",
+    "chunk_index": 0,
+    "total_chunks": 47
+  },
+  {
+    "chunk_id": "anac_res_400_chunk_0001_43fcde14",
+    "document_id": "anac_res_400",
+    "document_name": "Resolução ANAC nº 400/2016",
+    "source_type": "norma_publica",
+    "authority": "ANAC",
+    "legal_weight": "regulacao_anac",
+    "topic": "direitos_passageiro",
+    "subtopics": [
+      "atraso",
+      "cancelamento",
+      "reembolso",
+      "remarcacao",
+      "assistencia_material",
+      "pretericao",
+      "bagagem"
+    ],
+    "article": "Art. 1",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "2017-03-14",
+    "effective_to": null,
+    "version": "compilada_2026_04",
+    "priority": 1,
+    "text": "Art. 1º Estabelecer as condições gerais aplicáveis ao transporte aéreo regular de passageiros, \ndoméstico e internacional. \n \nParágrafo único. As condições gerais de transporte aéreo também se aplicam aos voos não \nregulares em que houver assentos comercializados individualmente e oferecidos ao público. \n \nCAPÍTULO I \nDAS OBRIGAÇÕES PRÉVIAS À EXECUÇÃO DO CONTRATO DE TRANSPORTE AÉREO \n \nSeção I \nDa Oferta do Serviço",
+    "char_count": 418,
+    "split_method": "article_boundary",
+    "chunk_index": 1,
+    "total_chunks": 47
+  },
+  {
+    "chunk_id": "anac_res_400_chunk_0002_3d36ee12",
+    "document_id": "anac_res_400",
+    "document_name": "Resolução ANAC nº 400/2016",
+    "source_type": "norma_publica",
+    "authority": "ANAC",
+    "legal_weight": "regulacao_anac",
+    "topic": "direitos_passageiro",
+    "subtopics": [
+      "atraso",
+      "cancelamento",
+      "reembolso",
+      "remarcacao",
+      "assistencia_material",
+      "pretericao",
+      "bagagem"
+    ],
+    "article": "Art. 2",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "2017-03-14",
+    "effective_to": null,
+    "version": "compilada_2026_04",
+    "priority": 1,
+    "text": "Art. 2º Na oferta dos serviços de transporte aéreo, o transportador poderá determinar o preço a ser \npago por seus serviços, bem como suas regras aplicáveis, nos termos da regulamentação expedida pela \nANAC. \n \nParágrafo único. O transportador deverá disponibilizar nos locais de vendas de passagens aéreas, \nsejam eles físicos ou eletrônicos, informações claras sobre todos os seus serviços oferecidos e as \nrespectivas regras aplicáveis, de forma a permitir imediata e fácil compreensão.",
+    "char_count": 489,
+    "split_method": "article_boundary",
+    "chunk_index": 2,
+    "total_chunks": 47
+  },
+  {
+    "chunk_id": "anac_res_400_chunk_0003_fb863733",
+    "document_id": "anac_res_400",
+    "document_name": "Resolução ANAC nº 400/2016",
+    "source_type": "norma_publica",
+    "authority": "ANAC",
+    "legal_weight": "regulacao_anac",
+    "topic": "direitos_passageiro",
+    "subtopics": [
+      "atraso",
+      "cancelamento",
+      "reembolso",
+      "remarcacao",
+      "assistencia_material",
+      "pretericao",
+      "bagagem"
+    ],
+    "article": "Art. 3",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "2017-03-14",
+    "effective_to": null,
+    "version": "compilada_2026_04",
+    "priority": 1,
+    "text": "Art. 3º O transportador deverá oferecer ao passageiro, pelo menos, uma opção de passagem aérea \nem que a multa pelo reembolso ou remarcação não ultrapasse 5% (cinco por cento) do valor total dos \nserviços de transporte aéreo, observado o disposto nos arts. 11 e 29, parágrafo único, desta Resolução.",
+    "char_count": 299,
+    "split_method": "article_boundary",
+    "chunk_index": 3,
+    "total_chunks": 47
+  },
+  {
+    "chunk_id": "anac_res_400_chunk_0004_210d7376",
+    "document_id": "anac_res_400",
+    "document_name": "Resolução ANAC nº 400/2016",
+    "source_type": "norma_publica",
+    "authority": "ANAC",
+    "legal_weight": "regulacao_anac",
+    "topic": "direitos_passageiro",
+    "subtopics": [
+      "atraso",
+      "cancelamento",
+      "reembolso",
+      "remarcacao",
+      "assistencia_material",
+      "pretericao",
+      "bagagem"
+    ],
+    "article": "Art. 4",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "2017-03-14",
+    "effective_to": null,
+    "version": "compilada_2026_04",
+    "priority": 1,
+    "text": "Art. 4º A oferta de serviços de transporte aéreo de passageiros, em quaisquer canais de \ncomercialização, conjugado ou não com serviços de turismo, deverá apresentar o valor total da passagem \naérea a ser pago pelo consumidor. \n \n§ 1º O valor total da passagem aérea será composto pelos seguintes itens: \n \nI - valor dos serviços de transporte aéreo;\n\n \n\nII - tarifas aeroportuárias; e \n \nIII - valores devidos a entes governamentais a serem pagos pelo adquirente da passagem aérea e \narrecadados por intermédio do transportador. \n \n§ 2º O valor final a ser pago será acrescido de eventuais serviços opcionais contratados ativamente \n(regra opt-in) pelo consumidor no processo de comercialização da passagem aérea.",
+    "char_count": 714,
+    "split_method": "article_boundary",
+    "chunk_index": 4,
+    "total_chunks": 47
+  },
+  {
+    "chunk_id": "anac_res_400_chunk_0005_8b9ccb06",
+    "document_id": "anac_res_400",
+    "document_name": "Resolução ANAC nº 400/2016",
+    "source_type": "norma_publica",
+    "authority": "ANAC",
+    "legal_weight": "regulacao_anac",
+    "topic": "direitos_passageiro",
+    "subtopics": [
+      "atraso",
+      "cancelamento",
+      "reembolso",
+      "remarcacao",
+      "assistencia_material",
+      "pretericao",
+      "bagagem"
+    ],
+    "article": "Art. 5",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "2017-03-14",
+    "effective_to": null,
+    "version": "compilada_2026_04",
+    "priority": 1,
+    "text": "Art. 5º No processo de comercialização da passagem aérea, a partir da escolha da origem, do \ndestino, da data da viagem e antes de ser efetuado o pagamento pelos seus serviços, o transportador \ndeverá prestar as seguintes informações ao usuário: \n \nI - valor total da passagem aérea a ser pago em moeda nacional, com discriminação de todos os \nitens previstos no art. 4º, § 1º, desta Resolução; \n \nII - regras de não apresentação para o embarque (no-show), remarcação e reembolso, com suas \neventuais multas; \n \nIII - tempo de conexão e eventual troca de aeroportos; e \n \nIV - regras e valores do transporte de bagagem. \n \n§ 1º Para os fins desta Resolução, considera-se processo de comercialização aquele realizado no \nterritório nacional ou por meio eletrônico direcionado ao mercado brasileiro. \n \n§ 2º É vedada qualquer cobrança por serviço ou produto opcional que não tenha sido solicitado \nativamente pelo usuário (regra opt-in). \n \n§ 3º As informações dos produtos e serviços relativos ao transporte aéreo e comercializados pelo \ntransportador deverão ser disponibilizadas em língua portuguesa, de maneira clara e objetiva. \n \nSeção II \nDo Comprovante de Passagem Aérea",
+    "char_count": 1176,
+    "split_method": "article_boundary",
+    "chunk_index": 5,
+    "total_chunks": 47
+  },
+  {
+    "chunk_id": "anac_res_400_chunk_0006_4e89f851",
+    "document_id": "anac_res_400",
+    "document_name": "Resolução ANAC nº 400/2016",
+    "source_type": "norma_publica",
+    "authority": "ANAC",
+    "legal_weight": "regulacao_anac",
+    "topic": "direitos_passageiro",
+    "subtopics": [
+      "atraso",
+      "cancelamento",
+      "reembolso",
+      "remarcacao",
+      "assistencia_material",
+      "pretericao",
+      "bagagem"
+    ],
+    "article": "Art. 6",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "2017-03-14",
+    "effective_to": null,
+    "version": "compilada_2026_04",
+    "priority": 1,
+    "text": "Art. 6º O transportador deverá apresentar ao passageiro, em meio físico ou eletrônico, o \ncomprovante da passagem aérea adquirida contendo, além das informações constantes do art. 5º desta \nResolução, os seguintes itens: \n \nI - nome e sobrenome do passageiro; \n \nII - horário e data do voo, se houver; \n \nIII - procedimento e horário de embarque; \n \nIV -produtos e serviços adquiridos; e \n \nV - prazo de validade da passagem aérea.",
+    "char_count": 431,
+    "split_method": "article_boundary",
+    "chunk_index": 6,
+    "total_chunks": 47
+  },
+  {
+    "chunk_id": "anac_res_400_chunk_0007_e44cc34a",
+    "document_id": "anac_res_400",
+    "document_name": "Resolução ANAC nº 400/2016",
+    "source_type": "norma_publica",
+    "authority": "ANAC",
+    "legal_weight": "regulacao_anac",
+    "topic": "direitos_passageiro",
+    "subtopics": [
+      "atraso",
+      "cancelamento",
+      "reembolso",
+      "remarcacao",
+      "assistencia_material",
+      "pretericao",
+      "bagagem"
+    ],
+    "article": "Art. 7",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "2017-03-14",
+    "effective_to": null,
+    "version": "compilada_2026_04",
+    "priority": 1,
+    "text": "Art. 7º Nos casos em que o transportador emitir comprovante de passagem aérea sem data pré-\ndefinida para utilização, o prazo de validade será de 1 (um) ano, contado a partir da emissão.",
+    "char_count": 186,
+    "split_method": "article_boundary",
+    "chunk_index": 7,
+    "total_chunks": 47
+  },
+  {
+    "chunk_id": "anac_res_400_chunk_0008_6454871d",
+    "document_id": "anac_res_400",
+    "document_name": "Resolução ANAC nº 400/2016",
+    "source_type": "norma_publica",
+    "authority": "ANAC",
+    "legal_weight": "regulacao_anac",
+    "topic": "direitos_passageiro",
+    "subtopics": [
+      "atraso",
+      "cancelamento",
+      "reembolso",
+      "remarcacao",
+      "assistencia_material",
+      "pretericao",
+      "bagagem"
+    ],
+    "article": "Art. 8",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "2017-03-14",
+    "effective_to": null,
+    "version": "compilada_2026_04",
+    "priority": 1,
+    "text": "Art. 8º O erro no preenchimento do nome, sobrenome ou agnome do passageiro deverá ser \ncorrigido pelo transportador sem ônus ao passageiro. \n \n§ 1º Caberá ao passageiro solicitar a correção até o momento do check-in. \n \n§ 2º No caso de voo internacional que envolva operadores diferentes (interline), os custos da \ncorreção podem ser repassados ao passageiro. \n \n§ 3º Não se aplica o disposto no §2º deste artigo nos casos em que o erro decorrer de fato imputado \nao transportador. \n \n§ 4º A correção do nome não altera o caráter pessoal e intransferível da passagem aérea. \n \nSeção III \nDa Alteração e Resilição do Contrato de Transporte Aéreo por Parte do Passageiro",
+    "char_count": 668,
+    "split_method": "article_boundary",
+    "chunk_index": 8,
+    "total_chunks": 47
+  },
+  {
+    "chunk_id": "anac_res_400_chunk_0009_906ce592",
+    "document_id": "anac_res_400",
+    "document_name": "Resolução ANAC nº 400/2016",
+    "source_type": "norma_publica",
+    "authority": "ANAC",
+    "legal_weight": "regulacao_anac",
+    "topic": "direitos_passageiro",
+    "subtopics": [
+      "atraso",
+      "cancelamento",
+      "reembolso",
+      "remarcacao",
+      "assistencia_material",
+      "pretericao",
+      "bagagem"
+    ],
+    "article": "Art. 9",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "2017-03-14",
+    "effective_to": null,
+    "version": "compilada_2026_04",
+    "priority": 1,
+    "text": "Art. 9º As multas contratuais não poderão ultrapassar o valor dos serviços de transporte aéreo. \n \nParágrafo único. As tarifas aeroportuárias pagas pelo passageiro e os valores devidos a entes \ngovernamentais não poderão integrar a base de cálculo de eventuais multas.",
+    "char_count": 268,
+    "split_method": "article_boundary",
+    "chunk_index": 9,
+    "total_chunks": 47
+  },
+  {
+    "chunk_id": "anac_res_400_chunk_0010_a570b0ee",
+    "document_id": "anac_res_400",
+    "document_name": "Resolução ANAC nº 400/2016",
+    "source_type": "norma_publica",
+    "authority": "ANAC",
+    "legal_weight": "regulacao_anac",
+    "topic": "direitos_passageiro",
+    "subtopics": [
+      "atraso",
+      "cancelamento",
+      "reembolso",
+      "remarcacao",
+      "assistencia_material",
+      "pretericao",
+      "bagagem"
+    ],
+    "article": "Art. 10",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "2017-03-14",
+    "effective_to": null,
+    "version": "compilada_2026_04",
+    "priority": 1,
+    "text": "Art. 10. Em caso de remarcação da passagem aérea, o passageiro deverá pagar ou receber: \n \nI - a variação da tarifa aeroportuária referente ao aeroporto em que ocorrerá o novo embarque, com \nbase no valor que constar na tabela vigente na data em que a passagem aérea for remarcada; e \n \nII - a diferença entre o valor dos serviços de transporte aéreo originalmente pago pelo passageiro \ne o valor ofertado no ato da remarcação.",
+    "char_count": 427,
+    "split_method": "article_boundary",
+    "chunk_index": 10,
+    "total_chunks": 47
+  },
+  {
+    "chunk_id": "anac_res_400_chunk_0011_741392b2",
+    "document_id": "anac_res_400",
+    "document_name": "Resolução ANAC nº 400/2016",
+    "source_type": "norma_publica",
+    "authority": "ANAC",
+    "legal_weight": "regulacao_anac",
+    "topic": "direitos_passageiro",
+    "subtopics": [
+      "atraso",
+      "cancelamento",
+      "reembolso",
+      "remarcacao",
+      "assistencia_material",
+      "pretericao",
+      "bagagem"
+    ],
+    "article": "Art. 11",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "2017-03-14",
+    "effective_to": null,
+    "version": "compilada_2026_04",
+    "priority": 1,
+    "text": "Art. 11. O usuário poderá desistir da passagem aérea adquirida, sem qualquer ônus, desde que o \nfaça no prazo de até 24 (vinte e quatro) horas, a contar do recebimento do seu comprovante. \n \nParágrafo único. A regra descrita no caput deste artigo somente se aplica às compras feitas com \nantecedência igual ou superior a 7 (sete) dias em relação à data de embarque. \n \nSeção IV \nDa Alteração do Contrato de Transporte Aéreo por Parte do Transportador",
+    "char_count": 450,
+    "split_method": "article_boundary",
+    "chunk_index": 11,
+    "total_chunks": 47
+  },
+  {
+    "chunk_id": "anac_res_400_chunk_0012_ec0d531d",
+    "document_id": "anac_res_400",
+    "document_name": "Resolução ANAC nº 400/2016",
+    "source_type": "norma_publica",
+    "authority": "ANAC",
+    "legal_weight": "regulacao_anac",
+    "topic": "direitos_passageiro",
+    "subtopics": [
+      "atraso",
+      "cancelamento",
+      "reembolso",
+      "remarcacao",
+      "assistencia_material",
+      "pretericao",
+      "bagagem"
+    ],
+    "article": "Art. 12",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "2017-03-14",
+    "effective_to": null,
+    "version": "compilada_2026_04",
+    "priority": 1,
+    "text": "Art. 12. As alterações realizadas de forma programada pelo transportador, em especial quanto ao \nhorário e itinerário originalmente contratados, deverão ser informadas aos passageiros com antecedência \nmínima de 72 (setenta e duas) horas. \n \n§ 1º O transportador deverá oferecer as alternativas de reacomodação e reembolso integral, \ndevendo a escolha ser do passageiro, nos casos de: \n \nI - informação da alteração ser prestada em prazo inferior ao do caput deste artigo; e \n \nII - alteração do horário de partida ou de chegada ser superior a 30 (trinta) minutos nos voos \ndomésticos e a 1 (uma) hora nos voos internacionais em relação ao horário originalmente contratado, se \no passageiro não concordar com o horário após a alteração.\n\n \n\n§ 2º Caso o passageiro compareça ao aeroporto em decorrência de falha na prestação da \ninformação, o transportador deverá oferecer assistência material, bem como as seguintes alternativas à \nescolha do passageiro: \n \nI - reacomodação; \n \nII - reembolso integral; e \n \nIII - execução do serviço por outra modalidade de transporte. \n \nSeção V \nDas Informações sobre Bagagens",
+    "char_count": 1113,
+    "split_method": "article_boundary",
+    "chunk_index": 12,
+    "total_chunks": 47
+  },
+  {
+    "chunk_id": "anac_res_400_chunk_0013_3fbb78c3",
+    "document_id": "anac_res_400",
+    "document_name": "Resolução ANAC nº 400/2016",
+    "source_type": "norma_publica",
+    "authority": "ANAC",
+    "legal_weight": "regulacao_anac",
+    "topic": "direitos_passageiro",
+    "subtopics": [
+      "atraso",
+      "cancelamento",
+      "reembolso",
+      "remarcacao",
+      "assistencia_material",
+      "pretericao",
+      "bagagem"
+    ],
+    "article": "Art. 13",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "2017-03-14",
+    "effective_to": null,
+    "version": "compilada_2026_04",
+    "priority": 1,
+    "text": "Art. 13. O transporte de bagagem despachada configurará contrato acessório oferecido pelo \ntransportador. \n \n§ 1º A bagagem despachada poderá sofrer restrições, nos termos desta Resolução e de outras \nnormas atinentes à segurança da aviação civil. \n \n§ 2º As regras referentes ao transporte de bagagem despachada, ainda que realizado por mais de \num transportador, deverão ser uniformes para cada trecho contratado.",
+    "char_count": 415,
+    "split_method": "article_boundary",
+    "chunk_index": 13,
+    "total_chunks": 47
+  },
+  {
+    "chunk_id": "anac_res_400_chunk_0014_5b5fe20f",
+    "document_id": "anac_res_400",
+    "document_name": "Resolução ANAC nº 400/2016",
+    "source_type": "norma_publica",
+    "authority": "ANAC",
+    "legal_weight": "regulacao_anac",
+    "topic": "direitos_passageiro",
+    "subtopics": [
+      "atraso",
+      "cancelamento",
+      "reembolso",
+      "remarcacao",
+      "assistencia_material",
+      "pretericao",
+      "bagagem"
+    ],
+    "article": "Art. 14",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "2017-03-14",
+    "effective_to": null,
+    "version": "compilada_2026_04",
+    "priority": 1,
+    "text": "Art. 14. O transportador deverá permitir uma franquia mínima de 10 (dez) quilos de bagagem de \nmão por passageiro de acordo com as dimensões e a quantidade de peças definidas no contrato de \ntransporte. \n \n§ 1º Considera-se bagagem de mão aquela transportada na cabine, sob a responsabilidade do \npassageiro. \n \n§ 2º O transportador poderá restringir o peso e o conteúdo da bagagem de mão por motivo de \nsegurança ou de capacidade da aeronave.",
+    "char_count": 443,
+    "split_method": "article_boundary",
+    "chunk_index": 14,
+    "total_chunks": 47
+  },
+  {
+    "chunk_id": "anac_res_400_chunk_0015_3f17f89e",
+    "document_id": "anac_res_400",
+    "document_name": "Resolução ANAC nº 400/2016",
+    "source_type": "norma_publica",
+    "authority": "ANAC",
+    "legal_weight": "regulacao_anac",
+    "topic": "direitos_passageiro",
+    "subtopics": [
+      "atraso",
+      "cancelamento",
+      "reembolso",
+      "remarcacao",
+      "assistencia_material",
+      "pretericao",
+      "bagagem"
+    ],
+    "article": "Art. 15",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "2017-03-14",
+    "effective_to": null,
+    "version": "compilada_2026_04",
+    "priority": 1,
+    "text": "Art. 15. O transportador deverá informar aos usuários quais bagagens serão submetidas a \nprocedimentos especiais de despacho, em razão de suas condições de manuseio ou de suas dimensões. \n \n§ 1º As bagagens que não se enquadrarem nas regras estabelecidas pelo transportador, conforme \no caput deste artigo, poderão ser recusadas ou submetidas a contrato de transporte de carga. \n \n§ 2º O transporte de carga e de animais deverá observar regime de contratação e procedimento de \ndespacho próprios. \n \nCAPÍTULO II \nDO DESPACHO DO PASSAGEIRO E EXECUÇÃO DO CONTRATO DE TRANSPORTE AÉREO \n \nSeção I \nDo Check-in e Apresentação para Embarque",
+    "char_count": 634,
+    "split_method": "article_boundary",
+    "chunk_index": 15,
+    "total_chunks": 47
+  },
+  {
+    "chunk_id": "anac_res_400_chunk_0016_cf7e1063",
+    "document_id": "anac_res_400",
+    "document_name": "Resolução ANAC nº 400/2016",
+    "source_type": "norma_publica",
+    "authority": "ANAC",
+    "legal_weight": "regulacao_anac",
+    "topic": "direitos_passageiro",
+    "subtopics": [
+      "atraso",
+      "cancelamento",
+      "reembolso",
+      "remarcacao",
+      "assistencia_material",
+      "pretericao",
+      "bagagem"
+    ],
+    "article": "Art. 16",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "2017-03-14",
+    "effective_to": null,
+    "version": "compilada_2026_04",
+    "priority": 1,
+    "text": "Art. 16. O passageiro deverá apresentar para embarque em voo doméstico e internacional \ndocumento de identificação civil, com fé pública e validade em todo o território brasileiro, observado o \ndisposto no Decreto nº 5.978, de 4 de dezembro de 2006.\n\n \n\n§ 1º Uma vez que assegure a identificação do passageiro e em se tratando de voo doméstico, deverá \nser aceita a via original ou cópia autenticada do documento de identificação civil referido no caput deste \nartigo. \n \n§ 2º O passageiro estrangeiro deverá apresentar para embarque passaporte estrangeiro válido ou \noutro documento de viagem, nos termos do Decreto nº 5.978, de 2006. \n \n§ 3º O passageiro menor de 12 (doze) anos poderá ser admitido para o embarque em voo doméstico \nmediante a apresentação de sua certidão de nascimento, observados os requisitos constantes da Lei nº \n8.069, de 13 de julho de 1990. \n \n§ 4º Nos casos de furto, roubo ou extravio de documento de identificação do passageiro, deverá \nser aceito o Boletim de Ocorrência em voo doméstico, emitido por autoridade de segurança pública \ncompetente.",
+    "char_count": 1076,
+    "split_method": "article_boundary",
+    "chunk_index": 16,
+    "total_chunks": 47
+  },
+  {
+    "chunk_id": "anac_res_400_chunk_0017_02085fdf",
+    "document_id": "anac_res_400",
+    "document_name": "Resolução ANAC nº 400/2016",
+    "source_type": "norma_publica",
+    "authority": "ANAC",
+    "legal_weight": "regulacao_anac",
+    "topic": "direitos_passageiro",
+    "subtopics": [
+      "atraso",
+      "cancelamento",
+      "reembolso",
+      "remarcacao",
+      "assistencia_material",
+      "pretericao",
+      "bagagem"
+    ],
+    "article": "Art. 17",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "2017-03-14",
+    "effective_to": null,
+    "version": "compilada_2026_04",
+    "priority": 1,
+    "text": "Art. 17. No despacho da bagagem, caso o passageiro pretenda transportar bens cujo valor \nultrapasse o limite de indenização de 1.131 (mil e cento e trinta e um) Direitos Especiais de Saque - \nDES, poderá fazer declaração especial de valor junto ao transportador. \n \n§ 1º A declaração especial de valor deverá ser feita mediante o preenchimento de formulário \nfornecido pelo transportador, garantida uma via ao passageiro. \n \n§ 2º A declaração especial de valor terá como finalidades declarar o valor da bagagem despachada \ne possibilitar o aumento do montante da indenização no caso de extravio ou violação. \n \n§ 3º Outros limites de indenização deverão ser observados no transporte internacional, conforme \no tratado internacional aplicável, e deverão ser devidamente informados ao passageiro.",
+    "char_count": 794,
+    "split_method": "article_boundary",
+    "chunk_index": 17,
+    "total_chunks": 47
+  },
+  {
+    "chunk_id": "anac_res_400_chunk_0018_89ed1c88",
+    "document_id": "anac_res_400",
+    "document_name": "Resolução ANAC nº 400/2016",
+    "source_type": "norma_publica",
+    "authority": "ANAC",
+    "legal_weight": "regulacao_anac",
+    "topic": "direitos_passageiro",
+    "subtopics": [
+      "atraso",
+      "cancelamento",
+      "reembolso",
+      "remarcacao",
+      "assistencia_material",
+      "pretericao",
+      "bagagem"
+    ],
+    "article": "Art. 18",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "2017-03-14",
+    "effective_to": null,
+    "version": "compilada_2026_04",
+    "priority": 1,
+    "text": "Art. 18. Para a execução do contrato de transporte, o passageiro deverá atender aos seguintes \nrequisitos: \n \nI - apresentar-se para embarque munido de documento de identificação civil e em horário \nestabelecido pelo transportador; \n \nII - atender a todas as exigências relativas à execução do transporte, tais como a obtenção do visto \ncorreto de entrada, permanência, trânsito e certificados de vacinação exigidos pela legislação dos países \nde destino, escala e conexão; \n \nIII - obedecer aos avisos transmitidos pelo transportador. \n \nParágrafo único. O descumprimento de quaisquer dos requisitos deste artigo autorizará o \ntransportador a negar embarque ao passageiro e aplicar eventuais multas.",
+    "char_count": 700,
+    "split_method": "article_boundary",
+    "chunk_index": 18,
+    "total_chunks": 47
+  },
+  {
+    "chunk_id": "anac_res_400_chunk_0019_4098c813",
+    "document_id": "anac_res_400",
+    "document_name": "Resolução ANAC nº 400/2016",
+    "source_type": "norma_publica",
+    "authority": "ANAC",
+    "legal_weight": "regulacao_anac",
+    "topic": "direitos_passageiro",
+    "subtopics": [
+      "atraso",
+      "cancelamento",
+      "reembolso",
+      "remarcacao",
+      "assistencia_material",
+      "pretericao",
+      "bagagem"
+    ],
+    "article": "Art. 19",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "2017-03-14",
+    "effective_to": null,
+    "version": "compilada_2026_04",
+    "priority": 1,
+    "text": "Art. 19. Caso o passageiro não utilize o trecho inicial nas passagens do tipo ida e volta, o \ntransportador poderá cancelar o trecho de volta. \n \nParágrafo único. Não se aplica a regra do caput deste artigo caso o passageiro informe, até o \nhorário originalmente contratado para o trecho de ida do voo doméstico, que deseja utilizar o trecho de \nvolta, sendo vedada a cobrança de multa contratual para essa finalidade. \n \nSeção II\n\n \n\nDo Atraso, Cancelamento, Interrupção do Serviço e Preterição",
+    "char_count": 495,
+    "split_method": "article_boundary",
+    "chunk_index": 19,
+    "total_chunks": 47
+  },
+  {
+    "chunk_id": "anac_res_400_chunk_0020_bf2374bd",
+    "document_id": "anac_res_400",
+    "document_name": "Resolução ANAC nº 400/2016",
+    "source_type": "norma_publica",
+    "authority": "ANAC",
+    "legal_weight": "regulacao_anac",
+    "topic": "direitos_passageiro",
+    "subtopics": [
+      "atraso",
+      "cancelamento",
+      "reembolso",
+      "remarcacao",
+      "assistencia_material",
+      "pretericao",
+      "bagagem"
+    ],
+    "article": "Art. 20",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "2017-03-14",
+    "effective_to": null,
+    "version": "compilada_2026_04",
+    "priority": 1,
+    "text": "Art. 20. O transportador deverá informar imediatamente ao passageiro pelos meios de \ncomunicação disponíveis: \n \nI - que o voo irá atrasar em relação ao horário originalmente contratado, indicando a nova previsão \ndo horário de partida; e \n \nII - sobre o cancelamento do voo ou interrupção do serviço. \n \n§ 1º O transportador deverá manter o passageiro informado, no máximo, a cada 30 (trinta) minutos \nquanto à previsão do novo horário de partida do voo nos casos de atraso. \n \n§ 2º A informação sobre o motivo do atraso, do cancelamento, da interrupção do serviço e da \npreterição deverá ser prestada por escrito pelo transportador, sempre que solicitada pelo passageiro.",
+    "char_count": 673,
+    "split_method": "article_boundary",
+    "chunk_index": 20,
+    "total_chunks": 47
+  },
+  {
+    "chunk_id": "anac_res_400_chunk_0021_4971d624",
+    "document_id": "anac_res_400",
+    "document_name": "Resolução ANAC nº 400/2016",
+    "source_type": "norma_publica",
+    "authority": "ANAC",
+    "legal_weight": "regulacao_anac",
+    "topic": "direitos_passageiro",
+    "subtopics": [
+      "atraso",
+      "cancelamento",
+      "reembolso",
+      "remarcacao",
+      "assistencia_material",
+      "pretericao",
+      "bagagem"
+    ],
+    "article": "Art. 21",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "2017-03-14",
+    "effective_to": null,
+    "version": "compilada_2026_04",
+    "priority": 1,
+    "text": "Art. 21. O transportador deverá oferecer as alternativas de reacomodação, reembolso e execução \ndo serviço por outra modalidade de transporte, devendo a escolha ser do passageiro, nos seguintes casos: \n \nI - atraso de voo por mais de quatro horas em relação ao horário originalmente contratado; \n \nII - cancelamento de voo ou interrupção do serviço; \n \nIII - preterição de passageiro; e \n \nIV - perda de voo subsequente pelo passageiro, nos voos com conexão, inclusive nos casos de \ntroca de aeroportos, quando a causa da perda for do transportador. \n \nParágrafo único. As alternativas previstas no caput deste artigo deverão ser imediatamente \noferecidas aos passageiros quando o transportador dispuser antecipadamente da informação de que o \nvoo atrasará mais de 4 (quatro) horas em relação ao horário originalmente contratado.",
+    "char_count": 829,
+    "split_method": "article_boundary",
+    "chunk_index": 21,
+    "total_chunks": 47
+  },
+  {
+    "chunk_id": "anac_res_400_chunk_0022_c7bfccf5",
+    "document_id": "anac_res_400",
+    "document_name": "Resolução ANAC nº 400/2016",
+    "source_type": "norma_publica",
+    "authority": "ANAC",
+    "legal_weight": "regulacao_anac",
+    "topic": "direitos_passageiro",
+    "subtopics": [
+      "atraso",
+      "cancelamento",
+      "reembolso",
+      "remarcacao",
+      "assistencia_material",
+      "pretericao",
+      "bagagem"
+    ],
+    "article": "Art. 22",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "2017-03-14",
+    "effective_to": null,
+    "version": "compilada_2026_04",
+    "priority": 1,
+    "text": "Art. 22. A preterição será configurada quando o transportador deixar de transportar passageiro que \nse apresentou para embarque no voo originalmente contratado, ressalvados os casos previstos na \nResolução nº 280, de 11 de julho de 2013.",
+    "char_count": 237,
+    "split_method": "article_boundary",
+    "chunk_index": 22,
+    "total_chunks": 47
+  },
+  {
+    "chunk_id": "anac_res_400_chunk_0023_8699e862",
+    "document_id": "anac_res_400",
+    "document_name": "Resolução ANAC nº 400/2016",
+    "source_type": "norma_publica",
+    "authority": "ANAC",
+    "legal_weight": "regulacao_anac",
+    "topic": "direitos_passageiro",
+    "subtopics": [
+      "atraso",
+      "cancelamento",
+      "reembolso",
+      "remarcacao",
+      "assistencia_material",
+      "pretericao",
+      "bagagem"
+    ],
+    "article": "Art. 23",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "2017-03-14",
+    "effective_to": null,
+    "version": "compilada_2026_04",
+    "priority": 1,
+    "text": "Art. 23. Sempre que o número de passageiros para o voo exceder a disponibilidade de assentos na \naeronave, o transportador deverá procurar por voluntários para serem reacomodados em outro voo \nmediante compensação negociada entre o passageiro voluntário e o transportador. \n \n§ 1º A reacomodação dos passageiros voluntários em outro voo mediante a aceitação de \ncompensação não configurará preterição. \n \n§ 2º O transportador poderá condicionar o pagamento das compensações à assinatura de termo de \naceitação específico.",
+    "char_count": 521,
+    "split_method": "article_boundary",
+    "chunk_index": 23,
+    "total_chunks": 47
+  },
+  {
+    "chunk_id": "anac_res_400_chunk_0024_82267f27",
+    "document_id": "anac_res_400",
+    "document_name": "Resolução ANAC nº 400/2016",
+    "source_type": "norma_publica",
+    "authority": "ANAC",
+    "legal_weight": "regulacao_anac",
+    "topic": "direitos_passageiro",
+    "subtopics": [
+      "atraso",
+      "cancelamento",
+      "reembolso",
+      "remarcacao",
+      "assistencia_material",
+      "pretericao",
+      "bagagem"
+    ],
+    "article": "Art. 24",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "2017-03-14",
+    "effective_to": null,
+    "version": "compilada_2026_04",
+    "priority": 1,
+    "text": "Art. 24. No caso de preterição, o transportador deverá, sem prejuízo do previsto no art. 21 desta \nResolução, efetuar, imediatamente, o pagamento de compensação financeira ao passageiro, podendo ser \npor transferência bancária, voucher ou em espécie, no valor de: \n \nI - 250 (duzentos e cinquenta) DES, no caso de voo doméstico; e\n\n \n\n \nII - 500 (quinhentos) DES, no caso de voo internacional.",
+    "char_count": 393,
+    "split_method": "article_boundary",
+    "chunk_index": 24,
+    "total_chunks": 47
+  },
+  {
+    "chunk_id": "anac_res_400_chunk_0025_4b5e96c8",
+    "document_id": "anac_res_400",
+    "document_name": "Resolução ANAC nº 400/2016",
+    "source_type": "norma_publica",
+    "authority": "ANAC",
+    "legal_weight": "regulacao_anac",
+    "topic": "direitos_passageiro",
+    "subtopics": [
+      "atraso",
+      "cancelamento",
+      "reembolso",
+      "remarcacao",
+      "assistencia_material",
+      "pretericao",
+      "bagagem"
+    ],
+    "article": "Art. 25",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "2017-03-14",
+    "effective_to": null,
+    "version": "compilada_2026_04",
+    "priority": 1,
+    "text": "Art. 25. Os casos de atraso, cancelamento de voo e interrupção do serviço previstos nesta Seção \nnão se confundem com a alteração contratual programada realizada pelo transportador e representam \nsituações contingenciais que ocorrem na data do voo originalmente contratado. \n \nSeção III \nDa Assistência Material",
+    "char_count": 311,
+    "split_method": "article_boundary",
+    "chunk_index": 25,
+    "total_chunks": 47
+  },
+  {
+    "chunk_id": "anac_res_400_chunk_0026_07f7e8ca",
+    "document_id": "anac_res_400",
+    "document_name": "Resolução ANAC nº 400/2016",
+    "source_type": "norma_publica",
+    "authority": "ANAC",
+    "legal_weight": "regulacao_anac",
+    "topic": "direitos_passageiro",
+    "subtopics": [
+      "atraso",
+      "cancelamento",
+      "reembolso",
+      "remarcacao",
+      "assistencia_material",
+      "pretericao",
+      "bagagem"
+    ],
+    "article": "Art. 26",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "2017-03-14",
+    "effective_to": null,
+    "version": "compilada_2026_04",
+    "priority": 1,
+    "text": "Art. 26. A assistência material ao passageiro deve ser oferecida nos seguintes casos: \n \nI - atraso do voo; \n \nII - cancelamento do voo; \n \nIII - interrupção de serviço; ou \n \nIV - preterição de passageiro.",
+    "char_count": 206,
+    "split_method": "article_boundary",
+    "chunk_index": 26,
+    "total_chunks": 47
+  },
+  {
+    "chunk_id": "anac_res_400_chunk_0027_4123b0dd",
+    "document_id": "anac_res_400",
+    "document_name": "Resolução ANAC nº 400/2016",
+    "source_type": "norma_publica",
+    "authority": "ANAC",
+    "legal_weight": "regulacao_anac",
+    "topic": "direitos_passageiro",
+    "subtopics": [
+      "atraso",
+      "cancelamento",
+      "reembolso",
+      "remarcacao",
+      "assistencia_material",
+      "pretericao",
+      "bagagem"
+    ],
+    "article": "Art. 27",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "2017-03-14",
+    "effective_to": null,
+    "version": "compilada_2026_04",
+    "priority": 1,
+    "text": "Art. 27. A assistência material consiste em satisfazer as necessidades do passageiro e deverá ser \noferecida gratuitamente pelo transportador, conforme o tempo de espera, ainda que os passageiros \nestejam a bordo da aeronave com portas abertas, nos seguintes termos: \n \nI - superior a 1 (uma) hora: facilidades de comunicação; \n \nII - superior a 2 (duas) horas: alimentação, de acordo com o horário, por meio do fornecimento de \nrefeição ou de voucher individual; e \n \nIII - superior a 4 (quatro) horas: serviço de hospedagem, em caso de pernoite, e traslado de ida e \nvolta. \n \n§ 1º O transportador poderá deixar de oferecer serviço de hospedagem para o passageiro que residir \nna localidade do aeroporto de origem, garantido o traslado de ida e volta. \n \n§ 2º No caso de Passageiro com Necessidade de Assistência Especial - PNAE e de seus \nacompanhantes, nos termos da Resolução nº 280, de 2013, a assistência prevista no inciso III do caput \ndeste artigo deverá ser fornecida independentemente da exigência de pernoite, salvo se puder ser \nsubstituída por acomodação em local que atenda suas necessidades e com concordância do passageiro \nou acompanhante. \n \n§ 3º O transportador poderá deixar de oferecer assistência material quando o passageiro optar pela \nreacomodação em voo próprio do transportador a ser realizado em data e horário de conveniência do \npassageiro ou pelo reembolso integral da passagem aérea. \n \nSeção IV \nDa Reacomodação",
+    "char_count": 1446,
+    "split_method": "article_boundary",
+    "chunk_index": 27,
+    "total_chunks": 47
+  },
+  {
+    "chunk_id": "anac_res_400_chunk_0028_6c19c4fe",
+    "document_id": "anac_res_400",
+    "document_name": "Resolução ANAC nº 400/2016",
+    "source_type": "norma_publica",
+    "authority": "ANAC",
+    "legal_weight": "regulacao_anac",
+    "topic": "direitos_passageiro",
+    "subtopics": [
+      "atraso",
+      "cancelamento",
+      "reembolso",
+      "remarcacao",
+      "assistencia_material",
+      "pretericao",
+      "bagagem"
+    ],
+    "article": "Art. 28",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "2017-03-14",
+    "effective_to": null,
+    "version": "compilada_2026_04",
+    "priority": 1,
+    "text": "Art. 28. A reacomodação será gratuita, não se sobreporá aos contratos de transporte já firmados e \nterá precedência em relação à celebração de novos contratos de transporte, devendo ser feita, à escolha \ndo passageiro, nos seguintes termos:\n\n \n\n \nI - em voo próprio ou de terceiro para o mesmo destino, na primeira oportunidade; ou \n \nII - em voo próprio do transportador a ser realizado em data e horário de conveniência do \npassageiro. \n \nParágrafo único. Os PNAEs, nos termos da Resolução nº 280, de 2013, terão prioridade na \nreacomodação. \n \nSeção V \nDo Reembolso",
+    "char_count": 568,
+    "split_method": "article_boundary",
+    "chunk_index": 28,
+    "total_chunks": 47
+  },
+  {
+    "chunk_id": "anac_res_400_chunk_0029_58cd426c",
+    "document_id": "anac_res_400",
+    "document_name": "Resolução ANAC nº 400/2016",
+    "source_type": "norma_publica",
+    "authority": "ANAC",
+    "legal_weight": "regulacao_anac",
+    "topic": "direitos_passageiro",
+    "subtopics": [
+      "atraso",
+      "cancelamento",
+      "reembolso",
+      "remarcacao",
+      "assistencia_material",
+      "pretericao",
+      "bagagem"
+    ],
+    "article": "Art. 29",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "2017-03-14",
+    "effective_to": null,
+    "version": "compilada_2026_04",
+    "priority": 1,
+    "text": "Art. 29. O prazo para o reembolso será de 7 (sete) dias, a contar da data da solicitação feita pelo \npassageiro, devendo ser observados os meios de pagamento utilizados na compra da passagem aérea. \n \nParágrafo único. Nos casos de reembolso, os valores previstos no art. 4º, § 1º, incisos II e III, desta \nResolução, deverão ser integralmente restituídos.",
+    "char_count": 355,
+    "split_method": "article_boundary",
+    "chunk_index": 29,
+    "total_chunks": 47
+  },
+  {
+    "chunk_id": "anac_res_400_chunk_0030_db0f1ae8",
+    "document_id": "anac_res_400",
+    "document_name": "Resolução ANAC nº 400/2016",
+    "source_type": "norma_publica",
+    "authority": "ANAC",
+    "legal_weight": "regulacao_anac",
+    "topic": "direitos_passageiro",
+    "subtopics": [
+      "atraso",
+      "cancelamento",
+      "reembolso",
+      "remarcacao",
+      "assistencia_material",
+      "pretericao",
+      "bagagem"
+    ],
+    "article": "Art. 30",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "2017-03-14",
+    "effective_to": null,
+    "version": "compilada_2026_04",
+    "priority": 1,
+    "text": "Art. 30. Nos casos de atraso de voo, cancelamento de voo, interrupção de serviço ou preterição de \npassageiro, o reembolso deverá ser restituído nos seguintes termos: \n \nI - integral, se solicitado no aeroporto de origem, de escala ou conexão, assegurado, nestes 2 (dois) \núltimos casos, o retorno ao aeroporto de origem; \n \nII - proporcional ao trecho não utilizado, se o deslocamento já realizado aproveitar ao passageiro.",
+    "char_count": 424,
+    "split_method": "article_boundary",
+    "chunk_index": 30,
+    "total_chunks": 47
+  },
+  {
+    "chunk_id": "anac_res_400_chunk_0031_f1afb006",
+    "document_id": "anac_res_400",
+    "document_name": "Resolução ANAC nº 400/2016",
+    "source_type": "norma_publica",
+    "authority": "ANAC",
+    "legal_weight": "regulacao_anac",
+    "topic": "direitos_passageiro",
+    "subtopics": [
+      "atraso",
+      "cancelamento",
+      "reembolso",
+      "remarcacao",
+      "assistencia_material",
+      "pretericao",
+      "bagagem"
+    ],
+    "article": "Art. 31",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "2017-03-14",
+    "effective_to": null,
+    "version": "compilada_2026_04",
+    "priority": 1,
+    "text": "Art. 31. O reembolso poderá ser feito em créditos para a aquisição de passagem aérea, mediante \nconcordância do passageiro. \n \n§ 1º O crédito da passagem aérea e a sua validade deverão ser informados ao passageiro por escrito, \nem meio físico ou eletrônico. \n \n§ 2º Na hipótese do caput deste artigo, deverá ser assegurada a livre utilização do crédito, inclusive \npara a aquisição de passagem aérea para terceiros. \n \nCAPÍTULO III \nDAS OBRIGAÇÕES POSTERIORES À EXECUÇÃO DO CONTRATO DE TRANSPORTE \nAÉREO",
+    "char_count": 503,
+    "split_method": "article_boundary",
+    "chunk_index": 31,
+    "total_chunks": 47
+  },
+  {
+    "chunk_id": "anac_res_400_chunk_0032_94addd7d",
+    "document_id": "anac_res_400",
+    "document_name": "Resolução ANAC nº 400/2016",
+    "source_type": "norma_publica",
+    "authority": "ANAC",
+    "legal_weight": "regulacao_anac",
+    "topic": "direitos_passageiro",
+    "subtopics": [
+      "atraso",
+      "cancelamento",
+      "reembolso",
+      "remarcacao",
+      "assistencia_material",
+      "pretericao",
+      "bagagem"
+    ],
+    "article": "Art. 32",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "2017-03-14",
+    "effective_to": null,
+    "version": "compilada_2026_04",
+    "priority": 1,
+    "text": "Art. 32. O recebimento da bagagem despachada, sem protesto por parte do passageiro, constituirá \npresunção de que foi entregue em bom estado. \n \n§ 1º Constatado o extravio da bagagem, o passageiro deverá, de imediato, realizar o protesto junto \nao transportador. \n \n§ 2º O transportador deverá restituir a bagagem extraviada, no local indicado pelo passageiro, \nobservando os seguintes prazos: \n \nI - em até 7 (sete) dias, no caso de voo doméstico; ou \n \nII - em até 21 (vinte e um) dias, no caso do voo internacional.\n\n \n\n \n§ 3º Caso a bagagem não seja localizada nos prazos dispostos no § 2º deste artigo, o transportador \ndeverá indenizar o passageiro em até 7 (sete) dias. \n \n§ 4º Nos casos em que o passageiro constate a violação do conteúdo da bagagem ou sua avaria, \ndeverá realizar o protesto junto ao transportador em até 7 (sete) dias do seu recebimento. \n \n§ 5º O transportador deverá, no prazo de 7 (sete) dias contados da data do protesto, adotar uma das \nseguintes providências, conforme o caso: \n \nI - reparar a avaria, quando possível; \n \nII - substituir a bagagem avariada por outra equivalente; \n \nIII - indenizar o passageiro no caso de violação",
+    "char_count": 1164,
+    "split_method": "article_boundary",
+    "chunk_index": 32,
+    "total_chunks": 47
+  },
+  {
+    "chunk_id": "anac_res_400_chunk_0033_1d673240",
+    "document_id": "anac_res_400",
+    "document_name": "Resolução ANAC nº 400/2016",
+    "source_type": "norma_publica",
+    "authority": "ANAC",
+    "legal_weight": "regulacao_anac",
+    "topic": "direitos_passageiro",
+    "subtopics": [
+      "atraso",
+      "cancelamento",
+      "reembolso",
+      "remarcacao",
+      "assistencia_material",
+      "pretericao",
+      "bagagem"
+    ],
+    "article": "Art. 33",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "2017-03-14",
+    "effective_to": null,
+    "version": "compilada_2026_04",
+    "priority": 1,
+    "text": "Art. 33. No caso de extravio de bagagem, será devido o ressarcimento de eventuais despesas ao \npassageiro que se encontrar fora do seu domicílio. \n \n§ 1º O ressarcimento de despesas deverá ser realizado em até 7 (sete) dias contados da apresentação \ndos comprovantes das despesas. \n \n§ 2º As regras contratuais deverão estabelecer a forma e os limites diários do ressarcimento. \n \n§ 3º Caso a bagagem não seja encontrada: \n \nI - o ressarcimento de despesas poderá ser deduzido dos valores pagos a título de indenização final, \nobservados os limites previstos no art. 17 desta Resolução. \n \nII - o transportador deverá restituir ao passageiro os valores adicionais eventualmente pagos pelo \ntransporte da bagagem. \n \n§ 4º O transportador poderá oferecer créditos para aquisição de passagens e serviços a título de \nressarcimento, a critério do passageiro.",
+    "char_count": 854,
+    "split_method": "article_boundary",
+    "chunk_index": 33,
+    "total_chunks": 47
+  },
+  {
+    "chunk_id": "anac_res_400_chunk_0034_b1665cdc",
+    "document_id": "anac_res_400",
+    "document_name": "Resolução ANAC nº 400/2016",
+    "source_type": "norma_publica",
+    "authority": "ANAC",
+    "legal_weight": "regulacao_anac",
+    "topic": "direitos_passageiro",
+    "subtopics": [
+      "atraso",
+      "cancelamento",
+      "reembolso",
+      "remarcacao",
+      "assistencia_material",
+      "pretericao",
+      "bagagem"
+    ],
+    "article": "Art. 34",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "2017-03-14",
+    "effective_to": null,
+    "version": "compilada_2026_04",
+    "priority": 1,
+    "text": "Art. 34. Eventuais danos causados a item frágil despachado poderão deixar de ser indenizados pelo \ntransportador, nos termos estipulados no contrato de transporte. \n \nCAPÍTULO IV \nDO ATENDIMENTO AOS USUÁRIOS DO TRANSPORTE AÉREO",
+    "char_count": 227,
+    "split_method": "article_boundary",
+    "chunk_index": 34,
+    "total_chunks": 47
+  },
+  {
+    "chunk_id": "anac_res_400_chunk_0035_36b6e63a",
+    "document_id": "anac_res_400",
+    "document_name": "Resolução ANAC nº 400/2016",
+    "source_type": "norma_publica",
+    "authority": "ANAC",
+    "legal_weight": "regulacao_anac",
+    "topic": "direitos_passageiro",
+    "subtopics": [
+      "atraso",
+      "cancelamento",
+      "reembolso",
+      "remarcacao",
+      "assistencia_material",
+      "pretericao",
+      "bagagem"
+    ],
+    "article": "Art. 35",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "2017-03-14",
+    "effective_to": null,
+    "version": "compilada_2026_04",
+    "priority": 1,
+    "text": "Art. 35. O transportador deverá disponibilizar ao usuário pelo menos um canal de atendimento \neletrônico para o recebimento de reclamações, solicitação de informações, alteração contratual, resilição \ne reembolso.",
+    "char_count": 213,
+    "split_method": "article_boundary",
+    "chunk_index": 35,
+    "total_chunks": 47
+  },
+  {
+    "chunk_id": "anac_res_400_chunk_0036_3d6c0a5c",
+    "document_id": "anac_res_400",
+    "document_name": "Resolução ANAC nº 400/2016",
+    "source_type": "norma_publica",
+    "authority": "ANAC",
+    "legal_weight": "regulacao_anac",
+    "topic": "direitos_passageiro",
+    "subtopics": [
+      "atraso",
+      "cancelamento",
+      "reembolso",
+      "remarcacao",
+      "assistencia_material",
+      "pretericao",
+      "bagagem"
+    ],
+    "article": "Art. 36",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "2017-03-14",
+    "effective_to": null,
+    "version": "compilada_2026_04",
+    "priority": 1,
+    "text": "Art. 36. O transportador que registrar menos de 1.000.000 (um milhão) de passageiros \ntransportados no ano anterior poderá manter o funcionamento do Serviço de Atendimento ao \nConsumidor - SAC para atendimento telefônico nos dias em que estiver operando voos no território \nbrasileiro e em horário comercial, nos termos da ressalva prevista no art. 5º do Decreto nº 6.523, de 31 \nde julho de 2008.\n\n \n\nParágrafo único. Será permitido que os transportadores utilizem SAC para atendimento telefônico \nde maneira compartilhada.",
+    "char_count": 524,
+    "split_method": "article_boundary",
+    "chunk_index": 36,
+    "total_chunks": 47
+  },
+  {
+    "chunk_id": "anac_res_400_chunk_0037_85fb5985",
+    "document_id": "anac_res_400",
+    "document_name": "Resolução ANAC nº 400/2016",
+    "source_type": "norma_publica",
+    "authority": "ANAC",
+    "legal_weight": "regulacao_anac",
+    "topic": "direitos_passageiro",
+    "subtopics": [
+      "atraso",
+      "cancelamento",
+      "reembolso",
+      "remarcacao",
+      "assistencia_material",
+      "pretericao",
+      "bagagem"
+    ],
+    "article": "Art. 37",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "2017-03-14",
+    "effective_to": null,
+    "version": "compilada_2026_04",
+    "priority": 1,
+    "text": "Art. 37. O transportador deverá prestar atendimento presencial no aeroporto para tratar de pedidos \nde informação, dúvida e reclamação do usuário, bem como dos seus deveres decorrentes de atraso de \nvoo, cancelamento de voo, interrupção de serviço e preterição de passageiro. \n \n§ 1º O atendimento poderá ser realizado em local apartado e devidamente identificado ou no \npróprio balcão de check-in, a critério do transportador. \n \n§ 2º O atendimento referido no caput deste artigo deverá funcionar por no mínimo 2 (duas) horas \nantes de cada decolagem e 2 (duas) horas após cada pouso e permanecer enquanto houver operação e \nnecessidade nos casos de atraso de voo, cancelamento de voo, interrupção de serviço e preterição de \npassageiro.",
+    "char_count": 738,
+    "split_method": "article_boundary",
+    "chunk_index": 37,
+    "total_chunks": 47
+  },
+  {
+    "chunk_id": "anac_res_400_chunk_0038_7f06fdbb",
+    "document_id": "anac_res_400",
+    "document_name": "Resolução ANAC nº 400/2016",
+    "source_type": "norma_publica",
+    "authority": "ANAC",
+    "legal_weight": "regulacao_anac",
+    "topic": "direitos_passageiro",
+    "subtopics": [
+      "atraso",
+      "cancelamento",
+      "reembolso",
+      "remarcacao",
+      "assistencia_material",
+      "pretericao",
+      "bagagem"
+    ],
+    "article": "Art. 38",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "2017-03-14",
+    "effective_to": null,
+    "version": "compilada_2026_04",
+    "priority": 1,
+    "text": "Art. 38. As informações solicitadas pelo usuário deverão ser prestadas imediatamente e suas \nreclamações resolvidas no prazo máximo de 10 (dez) dias a contar do registro, ressalvados os prazos \nespecíficos contidos nesta Resolução.",
+    "char_count": 231,
+    "split_method": "article_boundary",
+    "chunk_index": 38,
+    "total_chunks": 47
+  },
+  {
+    "chunk_id": "anac_res_400_chunk_0039_814fb228",
+    "document_id": "anac_res_400",
+    "document_name": "Resolução ANAC nº 400/2016",
+    "source_type": "norma_publica",
+    "authority": "ANAC",
+    "legal_weight": "regulacao_anac",
+    "topic": "direitos_passageiro",
+    "subtopics": [
+      "atraso",
+      "cancelamento",
+      "reembolso",
+      "remarcacao",
+      "assistencia_material",
+      "pretericao",
+      "bagagem"
+    ],
+    "article": "Art. 39",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "2017-03-14",
+    "effective_to": null,
+    "version": "compilada_2026_04",
+    "priority": 1,
+    "text": "Art. 39. O transportador deverá responder, no prazo de 10 (dez) dias, as manifestações de usuários \nencaminhadas pelo sistema eletrônico de atendimento adotado pela ANAC. \n \nCAPÍTULO V \nDAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS",
+    "char_count": 223,
+    "split_method": "article_boundary",
+    "chunk_index": 39,
+    "total_chunks": 47
+  },
+  {
+    "chunk_id": "anac_res_400_chunk_0040_b68e5b65",
+    "document_id": "anac_res_400",
+    "document_name": "Resolução ANAC nº 400/2016",
+    "source_type": "norma_publica",
+    "authority": "ANAC",
+    "legal_weight": "regulacao_anac",
+    "topic": "direitos_passageiro",
+    "subtopics": [
+      "atraso",
+      "cancelamento",
+      "reembolso",
+      "remarcacao",
+      "assistencia_material",
+      "pretericao",
+      "bagagem"
+    ],
+    "article": "Art. 40",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "2017-03-14",
+    "effective_to": null,
+    "version": "compilada_2026_04",
+    "priority": 1,
+    "text": "Art. 40. O transportador deverá assegurar o cumprimento desta norma por seus prepostos.",
+    "char_count": 87,
+    "split_method": "article_boundary",
+    "chunk_index": 40,
+    "total_chunks": 47
+  },
+  {
+    "chunk_id": "anac_res_400_chunk_0041_59ecda64",
+    "document_id": "anac_res_400",
+    "document_name": "Resolução ANAC nº 400/2016",
+    "source_type": "norma_publica",
+    "authority": "ANAC",
+    "legal_weight": "regulacao_anac",
+    "topic": "direitos_passageiro",
+    "subtopics": [
+      "atraso",
+      "cancelamento",
+      "reembolso",
+      "remarcacao",
+      "assistencia_material",
+      "pretericao",
+      "bagagem"
+    ],
+    "article": "Art. 41",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "2017-03-14",
+    "effective_to": null,
+    "version": "compilada_2026_04",
+    "priority": 1,
+    "text": "Art. 41. Aplicar-se-á o disposto na Resolução nº 25, de 25 de abril de 2008, nos processos \nadministrativos para apuração de infrações aos requisitos estabelecidos por esta Resolução e para \nimposição de penalidades.",
+    "char_count": 216,
+    "split_method": "article_boundary",
+    "chunk_index": 41,
+    "total_chunks": 47
+  },
+  {
+    "chunk_id": "anac_res_400_chunk_0042_64d1eac7",
+    "document_id": "anac_res_400",
+    "document_name": "Resolução ANAC nº 400/2016",
+    "source_type": "norma_publica",
+    "authority": "ANAC",
+    "legal_weight": "regulacao_anac",
+    "topic": "direitos_passageiro",
+    "subtopics": [
+      "atraso",
+      "cancelamento",
+      "reembolso",
+      "remarcacao",
+      "assistencia_material",
+      "pretericao",
+      "bagagem"
+    ],
+    "article": "Art. 42",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "2017-03-14",
+    "effective_to": null,
+    "version": "compilada_2026_04",
+    "priority": 1,
+    "text": "Art. 42. A Superintendência de Acompanhamento de Serviços Aéreos - SAS deverá submeter à \nDiretoria, após 5 (cinco) anos de vigência da presente Resolução, relatório sobre sua aplicação, eficácia \ne resultados, com a indicação de possíveis pontos para revisão. \n \nParágrafo único. A Diretoria deliberará pela aprovação do relatório e revisão da regulação.",
+    "char_count": 355,
+    "split_method": "article_boundary",
+    "chunk_index": 42,
+    "total_chunks": 47
+  },
+  {
+    "chunk_id": "anac_res_400_chunk_0043_14ed1df7",
+    "document_id": "anac_res_400",
+    "document_name": "Resolução ANAC nº 400/2016",
+    "source_type": "norma_publica",
+    "authority": "ANAC",
+    "legal_weight": "regulacao_anac",
+    "topic": "direitos_passageiro",
+    "subtopics": [
+      "atraso",
+      "cancelamento",
+      "reembolso",
+      "remarcacao",
+      "assistencia_material",
+      "pretericao",
+      "bagagem"
+    ],
+    "article": "Art. 43",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "2017-03-14",
+    "effective_to": null,
+    "version": "compilada_2026_04",
+    "priority": 1,
+    "text": "Art. 43. O item \"u\" da Tabela III - INFRAÇÕES IMPUTÁVEIS ÀCONCESSIONÁRIA OU \nPERMISSIONÁRIA DE SERVIÇOS AÉREOS do Anexo II à Resolução nº 25, de 25 de abril de 2008 \npassa a vigorar com a seguinte redação: \n \nCOD \nIII - INFRAÇÕES IMPUTÁVEIS \nÀCONCESSIONÁRIA OU PERMISSIONÁRIA DE \nSERVIÇOS AÉREOS \nP. JURÍDICA \n............................ \nICG \nu) Infringir as Condições Gerais de Transporte, bem \ncomo as demais normas que dispõe sobre os serviços \naéreos \n20.000 \n35.000 \n50.000",
+    "char_count": 480,
+    "split_method": "article_boundary",
+    "chunk_index": 43,
+    "total_chunks": 47
+  },
+  {
+    "chunk_id": "anac_res_400_chunk_0044_44e8cdee",
+    "document_id": "anac_res_400",
+    "document_name": "Resolução ANAC nº 400/2016",
+    "source_type": "norma_publica",
+    "authority": "ANAC",
+    "legal_weight": "regulacao_anac",
+    "topic": "direitos_passageiro",
+    "subtopics": [
+      "atraso",
+      "cancelamento",
+      "reembolso",
+      "remarcacao",
+      "assistencia_material",
+      "pretericao",
+      "bagagem"
+    ],
+    "article": "Art. 44",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "2017-03-14",
+    "effective_to": null,
+    "version": "compilada_2026_04",
+    "priority": 1,
+    "text": "Art. 44. Esta Resolução entra em vigor 90 (noventa) dias após a sua publicação.",
+    "char_count": 79,
+    "split_method": "article_boundary",
+    "chunk_index": 44,
+    "total_chunks": 47
+  },
+  {
+    "chunk_id": "anac_res_400_chunk_0045_4cf3881b",
+    "document_id": "anac_res_400",
+    "document_name": "Resolução ANAC nº 400/2016",
+    "source_type": "norma_publica",
+    "authority": "ANAC",
+    "legal_weight": "regulacao_anac",
+    "topic": "direitos_passageiro",
+    "subtopics": [
+      "atraso",
+      "cancelamento",
+      "reembolso",
+      "remarcacao",
+      "assistencia_material",
+      "pretericao",
+      "bagagem"
+    ],
+    "article": "Art. 45",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "2017-03-14",
+    "effective_to": null,
+    "version": "compilada_2026_04",
+    "priority": 1,
+    "text": "Art. 45. Ficam revogados: \n \nI - a Instrução de Aviação Civil 2203-0399 (IAC 2203-0399), intitulada \"Informações aos Usuários \ndo Transporte Aéreo\"; \n \n\nde 24 de março de 1999, Seção 1, página 48, que aprovou a mencionada IAC; \n \nIII - a Resolução nº 130, de 8 de dezembro de 2009, publicada no DOU de 9 de dezembro de 2009, \nSeção 1, página 13; \n \nIV - a Resolução nº 138, de 9 de março de 2010, publicada no DOU de 12 de março de 2010, \nSeção 1, páginas 13 e 14; \n \nV - os arts. 4º, 5º, 9º e 10 da Resolução nº 140, de 9 de março de 2010, publicada no DOU de 12 \nde março de 2010, Seção 1, página 14; \n \nVI - a Resolução nº 141, de 9 de março de 2010, publicada no DOU de 15 de março de 2010, \nSeção 1, páginas 7 e 8; \n \nVII - a Resolução nº 196, de 24 de agosto de 2011, publicada no DOU de 29 de agosto de 2011, \nSeção 1, páginas 8 e 9; \n \nVIII - os §§2º e 3º do art. 10 da Resolução nº 350, de 19 de dezembro de 2014; e \n \nIX - as Normas de Serviços Aéreos Internacionais - NOSAI CT - 011, CT - 012, TP - 005, TP - \n024. \n \n \n \n \nJOSÉ RICARDO PATARO BOTELHO DE QUEIROZ \nDiretor-Presidente",
+    "char_count": 1093,
+    "split_method": "article_boundary",
+    "chunk_index": 45,
+    "total_chunks": 47
+  },
+  {
+    "chunk_id": "anac_res_400_chunk_0046_7be6b4b9",
+    "document_id": "anac_res_400",
+    "document_name": "Resolução ANAC nº 400/2016",
+    "source_type": "norma_publica",
+    "authority": "ANAC",
+    "legal_weight": "regulacao_anac",
+    "topic": "direitos_passageiro",
+    "subtopics": [
+      "atraso",
+      "cancelamento",
+      "reembolso",
+      "remarcacao",
+      "assistencia_material",
+      "pretericao",
+      "bagagem"
+    ],
+    "article": null,
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "2017-03-14",
+    "effective_to": null,
+    "version": "compilada_2026_04",
+    "priority": 1,
+    "text": "[TABELA - Página 10]\nCOD | III – INFRAÇÕES IMPUTÁVEIS\nÀCONCESSIONÁRIA OU PERMISSIONÁRIA DE\nSERVIÇOS AÉREOS | P. JURÍDICA |  | \n............................ |  |  |  | \nICG | u) Infringir as Condições Gerais de Transporte, bem\ncomo as demais normas que dispõe sobre os serviços\naéreos | 20.000 | 35.000 | 50.000",
+    "char_count": 310,
+    "split_method": "table_extraction",
+    "chunk_index": 46,
+    "total_chunks": 47
+  }
+]

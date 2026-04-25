@@ -1,0 +1,86 @@
+# ==========================================
+# AirOps AI — Guardrail Rules
+# Declarative security rules referenced by agents
+# ==========================================
+
+guardrails:
+  # --- Authentication Required ---
+  require_auth:
+    description: "Cliente precisa estar autenticado antes de consultar dados sensíveis."
+    required_for:
+      - get_reservation
+      - get_refund_options
+      - rebook_flight
+      - create_refund
+      - create_handoff
+
+  # --- Customer Scope Isolation ---
+  customer_scope_only:
+    description: "Nunca consultar dados fora do customer_id autenticado."
+    rule: "record.customer_id == session.customer_id"
+    enforcement: strict
+
+  # --- Sensitive Data Protection ---
+  no_sensitive_data_leak:
+    description: "Nunca expor dados sensíveis em texto ou voz."
+    blocked_fields:
+      - full_card_number
+      - full_document
+      - full_email
+      - full_phone
+      - cpf
+      - password
+      - token
+    allowed_masked_fields:
+      - phone_last4
+      - document_last4
+      - email_masked
+      - card_last4
+
+  # --- Human Handoff Triggers ---
+  human_handoff_required:
+    description: "Condições que exigem escalonamento para atendente humano."
+    triggers:
+      - refund_over_limit
+      - identity_mismatch
+      - fraud_risk_high
+      - customer_angry
+      - low_confidence
+      - conflict_norm_vs_policy
+      - repeated_failure
+      - pnae_special_request
+
+  # --- Anti-Hallucination (RAG-specific) ---
+  groundedness_required:
+    description: "Respostas sobre normas/direitos devem ser verificadas contra fontes."
+    applies_to:
+      - rag_policy_agent
+    block_on:
+      - unsupported_claim_about_deadline
+      - unsupported_claim_about_value
+      - unsupported_claim_about_compensation
+      - unsupported_claim_about_right
+      - unsupported_claim_about_obligation
+      - unsupported_claim_about_law_article
+    fallback_message: >
+      Não encontrei base suficiente nos documentos disponíveis para responder
+      com segurança. Vou encaminhar para análise especializada.
+
+  # --- Legal Disclaimer ---
+  legal_disclaimer:
+    description: "Disclaimer obrigatório em respostas sobre direitos/obrigações."
+    chat_template: >
+      ⚠️ Esta informação é baseada na política da Papagaio Fly ({source_name}). Para situações específicas,
+      entre em contato com a nossa central de atendimento ou consulte papagaiofly.com.br.
+    voice_template: >
+      Essa informação é baseada na política da Papagaio Fly.
+      Para casos específicos, entre em contato com a nossa central de atendimento.
+    applies_to_topics:
+      - reembolso
+      - indenizacao
+      - compensacao
+      - direitos_passageiro
+      - atraso
+      - cancelamento
+      - overbooking
+      - bagagem_extraviada

@@ -1,0 +1,266 @@
+[
+  {
+    "chunk_id": "rbac_175_chunk_0000_39d67439",
+    "document_id": "rbac_175",
+    "document_name": "RBAC nº 175 — Transporte de Artigos Perigosos",
+    "source_type": "norma_publica",
+    "authority": "ANAC",
+    "legal_weight": "regulacao_anac",
+    "topic": "artigos_perigosos",
+    "subtopics": [
+      "artigos_perigosos",
+      "bateria_litio",
+      "power_bank",
+      "liquidos"
+    ],
+    "article": null,
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro",
+      "carga"
+    ],
+    "effective_from": null,
+    "effective_to": null,
+    "version": "vigente",
+    "priority": 2,
+    "text": "[TABELA - Página 1]\n\n\n\n\n",
+    "char_count": 24,
+    "split_method": "table_extraction",
+    "chunk_index": 0,
+    "total_chunks": 8
+  },
+  {
+    "chunk_id": "rbac_175_chunk_0001_016d7369",
+    "document_id": "rbac_175",
+    "document_name": "RBAC nº 175 — Transporte de Artigos Perigosos",
+    "source_type": "norma_publica",
+    "authority": "ANAC",
+    "legal_weight": "regulacao_anac",
+    "topic": "artigos_perigosos",
+    "subtopics": [
+      "artigos_perigosos",
+      "bateria_litio",
+      "power_bank",
+      "liquidos"
+    ],
+    "article": null,
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro",
+      "carga"
+    ],
+    "effective_from": null,
+    "effective_to": null,
+    "version": "vigente",
+    "priority": 2,
+    "text": "[TABELA - Página 23]\n |  |  |  |  | \n |  |  |  |  | \n |  |  |  |  | \n |  |  |  |  | \n |  |  |  |  | \n |  |  |  |  | \n |  |  |  |  | \n |  |  |  |  | \n |  |  |  |  | \n |  |  |  |  | \n |  |  |  |  | \n |  |  |  |  | \n |  |  |  |  | \n |  |  |  |  | \n |  |  |  |  | \n |  |  |  |  | \n |  |  |  |  | \n |  |  |  |  | \n |  |  |  |  | \n |  |  |  |  | ",
+    "char_count": 340,
+    "split_method": "table_extraction",
+    "chunk_index": 1,
+    "total_chunks": 8
+  },
+  {
+    "chunk_id": "rbac_175_chunk_0002_8b3b71d5",
+    "document_id": "rbac_175",
+    "document_name": "RBAC nº 175 — Transporte de Artigos Perigosos",
+    "source_type": "norma_publica",
+    "authority": "ANAC",
+    "legal_weight": "regulacao_anac",
+    "topic": "artigos_perigosos",
+    "subtopics": [
+      "artigos_perigosos",
+      "bateria_litio",
+      "power_bank",
+      "liquidos"
+    ],
+    "article": null,
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro",
+      "carga"
+    ],
+    "effective_from": null,
+    "effective_to": null,
+    "version": "vigente",
+    "priority": 2,
+    "text": "[TABELA - Página 24]\n |  |  | \n |  |  | \n |  |  | \n |  |  | \n |  |  | \n |  |  | \n |  |  | \n |  |  | \n |  |  | \n |  |  | \n |  |  | \n |  |  | \n |  |  | \n |  |  | \n |  |  | \n |  |  | \n |  |  | \n |  |  | \n |  |  | \n |  |  | \n |  |  | ",
+    "char_count": 230,
+    "split_method": "table_extraction",
+    "chunk_index": 2,
+    "total_chunks": 8
+  },
+  {
+    "chunk_id": "rbac_175_chunk_0003_ee446d29",
+    "document_id": "rbac_175",
+    "document_name": "RBAC nº 175 — Transporte de Artigos Perigosos",
+    "source_type": "norma_publica",
+    "authority": "ANAC",
+    "legal_weight": "regulacao_anac",
+    "topic": "artigos_perigosos",
+    "subtopics": [
+      "artigos_perigosos",
+      "bateria_litio",
+      "power_bank",
+      "liquidos"
+    ],
+    "article": null,
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro",
+      "carga"
+    ],
+    "effective_from": null,
+    "effective_to": null,
+    "version": "vigente",
+    "priority": 2,
+    "text": "[TABELA - Página 25]\n |  |  |  | \n |  |  |  | \n |  |  |  | \n |  |  |  | \n |  |  |  | \n |  |  |  | \n |  |  |  | \n |  |  |  | \n |  |  |  | \n |  |  |  | \n |  |  |  | \n |  |  |  | \n |  |  |  | \n |  |  |  | \n |  |  |  | \n |  |  |  | \n |  |  |  | \n |  |  |  | \n |  |  |  | \n |  |  |  | ",
+    "char_count": 280,
+    "split_method": "table_extraction",
+    "chunk_index": 3,
+    "total_chunks": 8
+  },
+  {
+    "chunk_id": "rbac_175_chunk_0004_3cfc19b3",
+    "document_id": "rbac_175",
+    "document_name": "RBAC nº 175 — Transporte de Artigos Perigosos",
+    "source_type": "norma_publica",
+    "authority": "ANAC",
+    "legal_weight": "regulacao_anac",
+    "topic": "artigos_perigosos",
+    "subtopics": [
+      "artigos_perigosos",
+      "bateria_litio",
+      "power_bank",
+      "liquidos"
+    ],
+    "article": null,
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro",
+      "carga"
+    ],
+    "effective_from": null,
+    "effective_to": null,
+    "version": "vigente",
+    "priority": 2,
+    "text": "[TABELA - Página 26]\n |  |  |  | \n |  |  |  | \n |  |  |  | \n |  |  |  | \n |  |  |  | \n |  |  |  | \n |  |  |  | \n |  |  |  | \n |  |  |  | \n |  |  |  | \n |  |  |  | \n |  |  |  | \n |  |  |  | \n |  |  |  | \n |  |  |  | \n |  |  |  | \n |  |  |  | ",
+    "char_count": 241,
+    "split_method": "table_extraction",
+    "chunk_index": 4,
+    "total_chunks": 8
+  },
+  {
+    "chunk_id": "rbac_175_chunk_0005_a5c156dc",
+    "document_id": "rbac_175",
+    "document_name": "RBAC nº 175 — Transporte de Artigos Perigosos",
+    "source_type": "norma_publica",
+    "authority": "ANAC",
+    "legal_weight": "regulacao_anac",
+    "topic": "artigos_perigosos",
+    "subtopics": [
+      "artigos_perigosos",
+      "bateria_litio",
+      "power_bank",
+      "liquidos"
+    ],
+    "article": null,
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro",
+      "carga"
+    ],
+    "effective_from": null,
+    "effective_to": null,
+    "version": "vigente",
+    "priority": 2,
+    "text": "[TABELA - Página 27]\n |  |  |  |  | \n |  |  |  |  | \n |  |  |  |  | \n |  |  |  |  | \n |  |  |  |  | \n |  |  |  |  | \n |  |  |  |  | \n |  |  |  |  | \n |  |  |  |  | \n |  |  |  |  | \n |  |  |  |  | \n |  |  |  |  | \n |  |  |  |  | \n |  |  |  |  | ",
+    "char_count": 244,
+    "split_method": "table_extraction",
+    "chunk_index": 5,
+    "total_chunks": 8
+  },
+  {
+    "chunk_id": "rbac_175_chunk_0006_e07d4489",
+    "document_id": "rbac_175",
+    "document_name": "RBAC nº 175 — Transporte de Artigos Perigosos",
+    "source_type": "norma_publica",
+    "authority": "ANAC",
+    "legal_weight": "regulacao_anac",
+    "topic": "artigos_perigosos",
+    "subtopics": [
+      "artigos_perigosos",
+      "bateria_litio",
+      "power_bank",
+      "liquidos"
+    ],
+    "article": null,
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro",
+      "carga"
+    ],
+    "effective_from": null,
+    "effective_to": null,
+    "version": "vigente",
+    "priority": 2,
+    "text": "[TABELA - Página 28]\n |  |  |  |  | \n |  |  |  |  | \n |  |  |  |  | \n |  |  |  |  | \n |  |  |  |  | \n |  |  |  |  | \n |  |  |  |  | \n |  |  |  |  | \n |  |  |  |  | \n |  |  |  |  | \n |  |  |  |  | \n |  |  |  |  | \n |  |  |  |  | \n |  |  |  |  | \n |  |  |  |  | \n |  |  |  |  | \n |  |  |  |  | \n |  |  |  |  | \n |  |  |  |  | \n |  |  |  |  | \n |  |  |  |  | \n |  |  |  |  | ",
+    "char_count": 372,
+    "split_method": "table_extraction",
+    "chunk_index": 6,
+    "total_chunks": 8
+  },
+  {
+    "chunk_id": "rbac_175_chunk_0007_33001c62",
+    "document_id": "rbac_175",
+    "document_name": "RBAC nº 175 — Transporte de Artigos Perigosos",
+    "source_type": "norma_publica",
+    "authority": "ANAC",
+    "legal_weight": "regulacao_anac",
+    "topic": "artigos_perigosos",
+    "subtopics": [
+      "artigos_perigosos",
+      "bateria_litio",
+      "power_bank",
+      "liquidos"
+    ],
+    "article": null,
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro",
+      "carga"
+    ],
+    "effective_from": null,
+    "effective_to": null,
+    "version": "vigente",
+    "priority": 2,
+    "text": "[TABELA - Página 29]\n |  |  |  | \n |  |  |  | \n |  |  |  | \n |  |  |  | \n |  |  |  | \n |  |  |  | \n |  |  |  | \n |  |  |  | \n |  |  |  | \n |  |  |  | \n |  |  |  | \n |  |  |  | \n |  |  |  | \n |  |  |  | \n |  |  |  | \n |  |  |  | ",
+    "char_count": 228,
+    "split_method": "table_extraction",
+    "chunk_index": 7,
+    "total_chunks": 8
+  }
+]

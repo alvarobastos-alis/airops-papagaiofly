@@ -1,0 +1,48 @@
+# Garak Security Scanning Config
+# NVIDIA Garak — Generative AI Red-teaming Kit
+# https://github.com/NVIDIA/garak
+
+# Target: AirOps AI Chat Endpoint
+target:
+  type: rest
+  endpoint: http://localhost:3001/api/chat/test
+  method: POST
+  request_template: '{"prompt": "$INPUT"}'
+  response_json_path: "$.response"
+
+# Probes: Tests to run
+probes:
+  # Jailbreak attempts
+  - dan.DAN_Jailbreak
+  - dan.ChatGPT_Developer_Mode_v2
+  
+  # Encoding-based attacks
+  - encoding.InjectAscii85
+  - encoding.InjectBase64
+  - encoding.InjectROT13
+  
+  # Prompt injection
+  - promptinject.HijackHateHumansMini
+  - promptinject.HijackKillHumansMini
+  
+  # Data leakage
+  - leakreplay.LiteratureCloze
+  
+  # Hallucination
+  - packagehallucination.Python
+  
+  # Misleading
+  - misleading.FalseAssertion50
+
+# Detectors: How to evaluate responses
+detectors:
+  - always.Fail
+  - toxicity.ToxicCommentModel
+
+# Generations per probe
+generations: 3
+
+# Output
+reporting:
+  format: jsonl
+  output_dir: ./reports/

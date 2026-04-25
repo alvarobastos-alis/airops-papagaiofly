@@ -1,0 +1,1092 @@
+{
+  "document_id": "rbac_121",
+  "document_name": "RBAC nº 121 — Requisitos Operacionais (Grandes Aeronaves)",
+  "source_type": "norma_publica",
+  "authority": "ANAC",
+  "status": "extracted",
+  "file_path": "C:\\Users\\alvar\\Documents\\Projetos\\airops-ai\\docs\\docs_suportes\\RBAC Nº 121.pdf",
+  "total_pages": 152,
+  "total_chars": 0,
+  "scanned_pages": 1,
+  "needs_ocr": true,
+  "table_count": 0,
+  "pages": [
+    {
+      "page": 1,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [
+        [
+          4,
+          0,
+          279,
+          103,
+          8,
+          "DeviceRGB",
+          "",
+          "Image1",
+          "DCTDecode"
+        ]
+      ],
+      "has_images": true
+    },
+    {
+      "page": 2,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 3,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 4,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 5,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 6,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 7,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 8,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 9,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 10,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 11,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 12,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 13,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 14,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 15,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 16,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 17,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 18,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 19,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 20,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 21,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 22,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 23,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 24,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 25,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 26,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 27,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 28,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 29,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 30,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 31,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 32,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 33,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 34,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 35,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 36,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 37,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 38,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 39,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 40,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 41,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 42,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 43,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 44,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 45,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 46,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 47,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 48,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 49,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 50,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 51,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 52,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 53,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 54,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 55,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 56,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 57,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 58,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 59,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 60,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 61,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 62,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 63,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 64,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 65,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 66,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 67,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 68,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 69,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 70,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 71,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 72,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 73,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 74,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 75,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 76,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 77,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 78,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 79,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 80,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 81,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 82,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 83,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 84,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 85,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 86,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 87,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 88,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 89,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 90,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 91,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 92,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 93,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 94,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 95,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 96,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 97,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 98,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 99,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 100,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 101,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 102,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 103,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 104,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 105,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 106,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 107,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 108,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 109,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 110,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 111,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 112,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 113,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 114,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 115,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 116,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 117,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 118,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 119,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 120,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 121,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 122,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 123,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 124,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 125,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 126,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 127,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 128,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 129,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 130,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 131,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 132,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 133,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 134,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 135,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 136,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 137,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 138,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 139,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 140,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 141,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 142,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 143,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 144,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 145,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 146,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 147,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 148,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 149,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 150,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 151,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 152,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    }
+  ],
+  "tables": []
+}

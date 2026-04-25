@@ -1,0 +1,32 @@
+[
+  {
+    "chunk_id": "rbac_119_chunk_0000_c9a36884",
+    "document_id": "rbac_119",
+    "document_name": "RBAC nº 119 — Certificação de Operadores",
+    "source_type": "norma_publica",
+    "authority": "ANAC",
+    "legal_weight": "regulacao_anac",
+    "topic": "certificacao_operadores",
+    "subtopics": [
+      "certificacao",
+      "autorizacao"
+    ],
+    "article": null,
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "operacional"
+    ],
+    "effective_from": null,
+    "effective_to": null,
+    "version": "vigente",
+    "priority": 3,
+    "text": "[TABELA - Página 2]\n |  | \n |  | \n |  | \n |  | ",
+    "char_count": 47,
+    "split_method": "table_extraction",
+    "chunk_index": 0,
+    "total_chunks": 1
+  }
+]

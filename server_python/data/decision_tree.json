@@ -1,0 +1,347 @@
+{
+  "scenarios": [
+    {
+      "category": "Cancelamentos",
+      "nodes": [
+        {
+          "scenario": "Passagem comprada há menos de 24 horas com antecedência mínima de 7 dias para o voo",
+          "ai_resolution_steps": [
+            "Conferir se a compra foi feita há menos de 24 horas com antecedência mínima de 7 dias para o voo.",
+            "Proporcionar reembolso total ao cliente sem penalidades."
+          ],
+          "english_guidance": "Explain that, according to ANAC rules, if the ticket was purchased less than 24 hours ago and the flight is at least 7 days away, they are entitled to a full refund without penalties.",
+          "escalate_to_human": false,
+          "escalation_reason": null
+        },
+        {
+          "scenario": "Cancelamento com antecedência superior a 24 horas do horário de embarque",
+          "ai_resolution_steps": [
+            "Checar a política de cancelamento específica da tarifa adquirida.",
+            "Oferecer reembolso conforme cálculos e regras da tarifa."
+          ],
+          "english_guidance": "Inform the customer that cancellations made more than 24 hours before the flight adhere to the rules specific to the purchased fare, and refunds will be calculated accordingly.",
+          "escalate_to_human": false,
+          "escalation_reason": null
+        },
+        {
+          "scenario": "Cancelamento com menos de 24 horas para o voo",
+          "ai_resolution_steps": [
+            "Verificar a tarifa em questão para determinar taxas de cancelamento.",
+            "Explicar ao cliente as penalidades aplicáveis e os possíveis reembolsos."
+          ],
+          "english_guidance": "For cancellations within 24 hours of the flight, explain applicable penalties according to the ticket fare. Refunds, if any, will adhere to these conditions per ANAC guidelines.",
+          "escalate_to_human": true,
+          "escalation_reason": "Complexidades relacionadas a reembolso proporcional ou exceções específicas podem surgir, requerendo um toque humano."
+        },
+        {
+          "scenario": "Pedido de cancelamento devido a morte na família ou problemas de saúde",
+          "ai_resolution_steps": [
+            "Solicitar documentação comprobatória ao passageiro.",
+            "Encaminhar documentação e pedido para análise do atendimento humano."
+          ],
+          "english_guidance": "Request necessary documentation such as a death certificate or medical records for further evaluation by a human agent according to compassionate grounds specified by ANAC.",
+          "escalate_to_human": true,
+          "escalation_reason": "Situações sensíveis que exigem avaliação especializada e abordagem personalizada."
+        }
+      ]
+    },
+    {
+      "category": "Bagagem",
+      "nodes": [
+        {
+          "scenario": "Bagagem Despachada Perdida",
+          "ai_resolution_steps": [
+            "Confirmar detalhes do voo e registro da bagagem",
+            "Iniciar processo de rastreamento de bagagem usando sistema interno",
+            "Realizar escuta ativa e validar as preocupações do passageiro, demonstrando compreensão",
+            "Oferecer um voucher de desconto como forma de mostrar nosso compromisso enquanto buscamos a bagagem",
+            "Monitorar sinais de frustração do cliente e responder com empatia, personalizando a comunicação conforme necessário"
+          ],
+          "english_guidance": "Inform the passenger: 'We are tracing your checked baggage following ANAC Resolution 400. We understand your concern and apologize for the inconvenience. As a token, here’s a discount voucher. Please provide your flight details and baggage tag.'",
+          "escalate_to_human": true,
+          "escalation_reason": "Necessário apoio humano para contatos com outros aeroportos ou acionamento de seguros."
+        },
+        {
+          "scenario": "Bagagem de Mão Excede Limites",
+          "ai_resolution_steps": [
+            "Informar ao passageiro sobre os limites de tamanho e peso da bagagem de mão conforme ANAC (Res. 400)",
+            "Realizar escuta ativa e validar as preocupações do passageiro, demonstrando compreensão",
+            "Orientar o passageiro a despachar a bagagem que excede o limite gratuitamente",
+            "Sugerir alternativas para rearranjar os itens ou oferecer um voucher mesmo se não for possível despachar",
+            "Monitorar sinais de frustração do cliente e responder com empatia, personalizando a comunicação conforme necessário"
+          ],
+          "english_guidance": "Tell the passenger: 'According to ANAC Resolution 400, your carry-on must meet size and weight limits. We understand this might be inconvenient. We’ll check it for free and here’s a small voucher for your inconvenience.'",
+          "escalate_to_human": false,
+          "escalation_reason": null
+        },
+        {
+          "scenario": "Bagagem Danificada",
+          "ai_resolution_steps": [
+            "Verificar relato e danos à bagagem",
+            "Realizar escuta ativa e validar as preocupações do passageiro, demonstrando compreensão",
+            "Sugerir uma compensação imediata, como um voucher ou desconto, antes de prosseguir com o formulário de compensação",
+            "Instruir o passageiro a preencher um formulário online para solicitação de compensação",
+            "Monitorar sinais de frustração do cliente e responder com empatia, personalizando a comunicação conforme necessário"
+          ],
+          "english_guidance": "Notify the passenger: 'We are sorry for the inconvenience. We understand your concerns and as an immediate compensation, please accept this voucher. Additionally, fill out the online form for further compensation under ANAC rules.'",
+          "escalate_to_human": true,
+          "escalation_reason": "Necessidade de lidar com disputas sobre a avaliação do dano."
+        },
+        {
+          "scenario": "Itens Proibidos na Bagagem de Mão",
+          "ai_resolution_steps": [
+            "Informar sobre os itens proibidos segundo ANAC e protocolos de segurança",
+            "Realizar escuta ativa e validar as preocupações do passageiro, demonstrando compreensão",
+            "Solicitar que o passageiro remova ou despache os itens proibidos",
+            "Oferecer alternativas, como um voucher, para facilitar qualquer custo adicional incorrido",
+            "Monitorar sinais de frustração do cliente e responder com empatia, personalizando a comunicação conforme necessário"
+          ],
+          "english_guidance": "Advise the passenger: 'Under ANAC regulations and security protocols, certain items are prohibited in your carry-on. We understand this might cause inconvenience. Please remove them or check them in. Meanwhile, here’s a voucher to help with any inconvenience.'",
+          "escalate_to_human": true,
+          "escalation_reason": "Caso o passageiro precise de informações detalhadas sobre regulamentações específicas."
+        },
+        {
+          "scenario": "Reclamação sobre Taxas de Bagagem",
+          "ai_resolution_steps": [
+            "Verificar histórico de transação de taxas de bagagem",
+            "Realizar escuta ativa e validar as preocupações do passageiro, demonstrando compreensão",
+            "Confirmar se as taxas estão de acordo com a política atual",
+            "Oferecer um desconto para futuras viagens se as taxas estiverem corretas, como gesto de boa vontade",
+            "Monitorar sinais de frustração do cliente e responder com empatia, personalizando a comunicação conforme necessário"
+          ],
+          "english_guidance": "Explain to the passenger: 'Baggage fees are charged according to our policy in compliance with ANAC regulations. We understand your concerns. Let’s review your transaction history, and for any inconvenience, here’s a discount for future use.'",
+          "escalate_to_human": true,
+          "escalation_reason": "Questões sobre discrepâncias e solicitações de reembolsos."
+        }
+      ]
+    },
+    {
+      "category": "Pagamentos",
+      "nodes": [
+        {
+          "scenario": "Reembolso de Passagens Canceladas",
+          "ai_resolution_steps": [
+            "Verificar se o voo foi cancelado pela companhia aérea.",
+            "Calcular o valor do reembolso de acordo com o método de pagamento original."
+          ],
+          "english_guidance": "Explain that according to ANAC rules, if the flight is canceled by the airline, passengers are entitled to a refund through the original payment method.",
+          "escalate_to_human": false,
+          "escalation_reason": null
+        },
+        {
+          "scenario": "Alteração de Data de Voo",
+          "ai_resolution_steps": [
+            "Identificar se a alteração foi solicitada mais de 24 horas antes do voo.",
+            "Consultar a política de tarifas para determinar possíveis taxas de alteração."
+          ],
+          "english_guidance": "Inform passengers that, per ANAC, date changes requested more than 24 hours in advance carry varying fees depending on fare policy.",
+          "escalate_to_human": true,
+          "escalation_reason": "Complexities in calculating fees or exceptions based on fare types."
+        },
+        {
+          "scenario": "Taxas de Bagagem Extras",
+          "ai_resolution_steps": [
+            "Calcular o custo da bagagem extra com base no peso e número de volumes.",
+            "Gerar a fatura adicional no sistema de pagamentos."
+          ],
+          "english_guidance": "Instruct passengers that excess luggage fees are calculated by weight and volume. Payment should be completed as per provided invoice.",
+          "escalate_to_human": false,
+          "escalation_reason": null
+        },
+        {
+          "scenario": "Pagamento Recusado",
+          "ai_resolution_steps": [
+            "Verificar o status da transação no portal de pagamentos.",
+            "Sugerir ao passageiro formas alternativas de pagamento, como outro cartão ou PayPal."
+          ],
+          "english_guidance": "Inform passengers that if a payment is declined, alternative methods such as another credit card or PayPal may be used.",
+          "escalate_to_human": true,
+          "escalation_reason": "Repeated transaction refusals requiring investigation."
+        },
+        {
+          "scenario": "Erro no Valor Cobrado",
+          "ai_resolution_steps": [
+            "Comparar o valor cobrado com o preço original da passagem.",
+            "Ajustar o valor no sistema de faturamento caso haja um erro de cobrança."
+          ],
+          "english_guidance": "Explain to passengers that billing errors will be reviewed and corrected in line with the original ticket price as per ANAC regulations.",
+          "escalate_to_human": true,
+          "escalation_reason": "Complex billing discrepancies that need detailed analysis."
+        }
+      ]
+    },
+    {
+      "category": "Check-in",
+      "nodes": [
+        {
+          "scenario": "Internalização de Nome e Sobrenome na Reserva",
+          "ai_resolution_steps": [
+            "Verificar se o nome e sobrenome no sistema está de acordo com o documento fornecido",
+            "Atualizar o nome e sobrenome caso necessário"
+          ],
+          "english_guidance": "Please ensure your first and last name in the booking matches your travel document. Update if necessary as per ANAC rules.",
+          "escalate_to_human": false,
+          "escalation_reason": null
+        },
+        {
+          "scenario": "Check-in Online não Concluído",
+          "ai_resolution_steps": [
+            "Verificar se o check-in está dentro do prazo",
+            "Orientar sobre prazos de check-in conforme regras da ANAC",
+            "Fornecer link para concluir o check-in online"
+          ],
+          "english_guidance": "Check if the online check-in is within the time limit. Provide a link to complete and ensure compliance with ANAC rules.",
+          "escalate_to_human": true,
+          "escalation_reason": "Technical issues preventing online check-in completion"
+        },
+        {
+          "scenario": "Dúvida sobre Documentos Necessários para Check-in",
+          "ai_resolution_steps": [
+            "Enumerar documentos aceitos conforme ANAC",
+            "Fornecer links pertinentes para regulamentações da ANAC"
+          ],
+          "english_guidance": "List the documents required for check-in as per ANAC. Offer relevant links for detailed regulations.",
+          "escalate_to_human": false,
+          "escalation_reason": null
+        },
+        {
+          "scenario": "Assentos Esquecidos ou Não Selecionados",
+          "ai_resolution_steps": [
+            "Oferecer instruções para seleção de assentos através do portal",
+            "Explicar como verificar regras de seleção de assentos adicionais e taxas"
+          ],
+          "english_guidance": "Explain how to select seats online and check any extra fees as per ANAC guidelines.",
+          "escalate_to_human": true,
+          "escalation_reason": "Preferred seat allocation issues requiring manual intervention"
+        },
+        {
+          "scenario": "Dúvidas sobre Bagagem de Mão e Registro durante Check-in",
+          "ai_resolution_steps": [
+            "Enumerar especificações de bagagem de mão e despacho conforme ANAC",
+            "Explicar restrições e cobranças aplicáveis"
+          ],
+          "english_guidance": "Clarify carry-on and checked baggage rules as per ANAC, including restrictions and potential fees.",
+          "escalate_to_human": false,
+          "escalation_reason": null
+        }
+      ]
+    },
+    {
+      "category": "Alterações de Voo",
+      "nodes": [
+        {
+          "scenario": "Mudança solicitada pelo passageiro com antecedência superior a 24 horas do voo",
+          "ai_resolution_steps": [
+            "Confirmar detalhes da reserva e identificar o voo a ser alterado",
+            "Fornecer opções de voos alternativos disponíveis ao passageiro",
+            "Confirmar a escolha do novo voo pelo passageiro",
+            "Efetuar a alteração no sistema e enviar confirmação por e-mail"
+          ],
+          "english_guidance": "For passengers, inform them: 'According to ANAC regulations, you can request a change without penalty if it’s more than 24 hours before the flight. Here are your new flight options.'",
+          "escalate_to_human": false,
+          "escalation_reason": null
+        },
+        {
+          "scenario": "Mudança solicitada pelo passageiro entre 3 a 24 horas antes do voo",
+          "ai_resolution_steps": [
+            "Identificar e confirmar o pedido de alteração",
+            "Informar ao passageiro sobre possíveis taxas de alteração de acordo com as regras da ANAC",
+            "Oferecer opções de voos alternativos e indicar qualquer custo adicional",
+            "Confirmar a escolha do passageiro e processar a alteração"
+          ],
+          "english_guidance": "Inform passengers: 'Under ANAC rules, changes within 24 hours may incur additional fees. Here are your new flight options and respective costs.'",
+          "escalate_to_human": true,
+          "escalation_reason": "Caso o passageiro questione o valor da taxa ou precise de suporte adicional."
+        },
+        {
+          "scenario": "Mudança solicitada pelo passageiro com menos de 3 horas antes do voo",
+          "ai_resolution_steps": [
+            "Verificar a possibilidade de mudança no sistema",
+            "Informar sobre taxas e restrições severas",
+            "Oferecer a mudança somente se houver disponibilidade e conforme regras da ANAC"
+          ],
+          "english_guidance": "Tell passengers: 'Changes within 3 hours are subject to strict rules and fees according to ANAC. Let me check available options.'",
+          "escalate_to_human": true,
+          "escalation_reason": "Necessidade de negociação ou autorização especial devido à proximidade do voo."
+        },
+        {
+          "scenario": "Voo alterado ou cancelado pela companhia aérea",
+          "ai_resolution_steps": [
+            "Identificar o voo afetado e o impacto no passageiro",
+            "Informar sobre o direito a mudança sem custo adicional ou reembolso integral conforme ANAC",
+            "Oferecer opções de reacomodação em voos alternativos",
+            "Processar a escolha do passageiro e enviar confirmação"
+          ],
+          "english_guidance": "Inform passengers: 'As per ANAC, if we change or cancel your flight, you are entitled to a free change or a full refund. Here are your rebooking options.'",
+          "escalate_to_human": false,
+          "escalation_reason": null
+        }
+      ]
+    },
+    {
+      "category": "Reembolsos",
+      "nodes": [
+        {
+          "scenario": "Reembolso por cancelamento voluntário com antecedência",
+          "ai_resolution_steps": [
+            "Verificar se a tarifa do bilhete é reembolsável de acordo com os termos da compra.",
+            "Confirmar a razão do cancelamento e verificar se há políticas específicas que se aplicam.",
+            "Processar o reembolso conforme as regras da ANAC (Res. 400), descontando eventuais taxas de serviços.",
+            "Confirmar com o passageiro se há informações adicionais necessárias ou se restam dúvidas."
+          ],
+          "english_guidance": "In case of voluntary cancellation, verify the refund eligibility and confirm the reason. Explain refund conditions under ANAC (Res. 400), noting any potential service fees. Confirm if the passenger needs additional information or has further questions.",
+          "escalate_to_human": false,
+          "escalation_reason": null
+        },
+        {
+          "scenario": "Reembolso por cancelamento involuntário (ex. voo cancelado pela companhia)",
+          "ai_resolution_steps": [
+            "Confirmar o cancelamento do voo e a razão, assegurando que a informação é clara para o passageiro.",
+            "Oferecer reembolso integral sem taxas adicionais conforme ANAC (Res. 400) se o passageiro optar por não viajar.",
+            "Confirmar se a nova data/hora do voo é aceitável ou proceder com o reembolso.",
+            "Confirmar com o passageiro se há informações adicionais necessárias ou se restam dúvidas."
+          ],
+          "english_guidance": "For involuntary cancellations, explain the reason for the change clearly. Offer options to rebook or a full refund according to ANAC (Res. 400), without fees. Confirm whether the new flight details are acceptable or if a refund is preferred. Ask if they need more information or have questions.",
+          "escalate_to_human": false,
+          "escalation_reason": null
+        },
+        {
+          "scenario": "Reembolso por atraso superior a 4 horas",
+          "ai_resolution_steps": [
+            "Verificar o atraso e notificar o passageiro sobre os direitos conforme ANAC (Res. 400).",
+            "Oferecer reembolso total sem cobrança de taxas conforme requisitos legais ou reacomodação.",
+            "Confirmar a melhor opção para o passageiro.",
+            "Confirmar com o passageiro se há informações adicionais necessárias ou se restam dúvidas."
+          ],
+          "english_guidance": "In case of delays over 4 hours, explain the passenger's rights under ANAC (Res. 400). Offer full refund options or rebooking without deductions. Confirm the best choice for the passenger and verify if more details are needed.",
+          "escalate_to_human": false,
+          "escalation_reason": null
+        },
+        {
+          "scenario": "Solicitações especiais (ex. morte de parente, emergências médicas)",
+          "ai_resolution_steps": [
+            "Solicitar documentos de verificação, tais como certidões de óbito ou atestados médicos, em inglês.",
+            "Clarificar ao passageiro quais documentos são aceitáveis e o processo de envio.",
+            "Verificar toda a documentação antes de proceder com o reembolso ou a resolução do caso."
+          ],
+          "english_guidance": "For special cases like bereavement or medical emergencies, request verification documents such as death certificates or medical notes in English. Clarify acceptable documents and submission process.",
+          "escalate_to_human": true,
+          "escalation_reason": "Casos especiais requerem verificação de documentação e tratamento sensível que só um humano pode adequadamente gerenciar."
+        },
+        {
+          "scenario": "Reembolso para passageiros estrangeiros",
+          "ai_resolution_steps": [
+            "Confirmar se o passageiro compreende totalmente o pedido de reembolso e os requisitos envolvidos.",
+            "Usar inglês claro para explicar as condições de reembolso conforme as regras da ANAC.",
+            "Oferecer exemplos de documentação necessária para situações específicas (por exemplo, emergências médicas).",
+            "Oferecer assistência adicional ou escalar a chamada se houver mais dúvidas.",
+            "Confirmar satisfação do passageiro e se há necessidade de mais esclarecimentos."
+          ],
+          "english_guidance": "Ensure that the passenger fully understands their refund request and the required conditions under ANAC rules. Provide examples of necessary documents for specific cases (e.g., medical emergencies). Offer additional support or escalate if issues persist.",
+          "escalate_to_human": true,
+          "escalation_reason": "Barreiras linguísticas e compreensão das regras locais podem exigir um agente humano para assegurar clareza e satisfação do cliente."
+        }
+      ]
+    }
+  ]
+}

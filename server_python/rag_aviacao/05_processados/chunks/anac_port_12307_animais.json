@@ -1,0 +1,302 @@
+[
+  {
+    "chunk_id": "anac_port_12307_animais_chunk_0000_fcd39c7c",
+    "document_id": "anac_port_12307_animais",
+    "document_name": "Portaria ANAC nº 12.307/2023",
+    "source_type": "norma_publica",
+    "authority": "ANAC",
+    "legal_weight": "regulacao_anac",
+    "topic": "transporte_animais",
+    "subtopics": [
+      "pet_cabine",
+      "animal_carga",
+      "animal_apoio_emocional"
+    ],
+    "article": null,
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "2023-07-01",
+    "effective_to": null,
+    "version": "original",
+    "text": "PORTARIA ANAC Nº 12.307, DE 30 DE JUNHO DE 2023\n\nDispõe sobre o transporte de animais em aeronaves civis.",
+    "char_count": 105,
+    "split_method": "article_boundary",
+    "chunk_index": 0,
+    "total_chunks": 10
+  },
+  {
+    "chunk_id": "anac_port_12307_animais_chunk_0001_2b431e6b",
+    "document_id": "anac_port_12307_animais",
+    "document_name": "Portaria ANAC nº 12.307/2023",
+    "source_type": "norma_publica",
+    "authority": "ANAC",
+    "legal_weight": "regulacao_anac",
+    "topic": "transporte_animais",
+    "subtopics": [
+      "pet_cabine",
+      "animal_carga",
+      "animal_apoio_emocional"
+    ],
+    "article": "Art. 1",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "2023-07-01",
+    "effective_to": null,
+    "version": "original",
+    "text": "Art. 1º Esta Portaria regulamenta o transporte de animais domésticos em aeronaves utilizadas em serviços aéreos públicos.\n\nCAPÍTULO I - TRANSPORTE NA CABINE",
+    "char_count": 156,
+    "split_method": "article_boundary",
+    "chunk_index": 1,
+    "total_chunks": 10
+  },
+  {
+    "chunk_id": "anac_port_12307_animais_chunk_0002_1284c456",
+    "document_id": "anac_port_12307_animais",
+    "document_name": "Portaria ANAC nº 12.307/2023",
+    "source_type": "norma_publica",
+    "authority": "ANAC",
+    "legal_weight": "regulacao_anac",
+    "topic": "transporte_animais",
+    "subtopics": [
+      "pet_cabine",
+      "animal_carga",
+      "animal_apoio_emocional"
+    ],
+    "article": "Art. 2",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "2023-07-01",
+    "effective_to": null,
+    "version": "original",
+    "text": "Art. 2º O transporte de animal doméstico de pequeno porte na cabine de passageiros é permitido, desde que:\nI - o animal esteja acondicionado em caixa de transporte adequada;\nII - o peso total (animal + caixa) não exceda 10 kg;\nIII - a caixa permaneça sob o assento à frente do passageiro durante todo o voo;\nIV - o passageiro apresente atestado de saúde veterinário com validade de até 10 dias.",
+    "char_count": 394,
+    "split_method": "article_boundary",
+    "chunk_index": 2,
+    "total_chunks": 10
+  },
+  {
+    "chunk_id": "anac_port_12307_animais_chunk_0003_faf5fa82",
+    "document_id": "anac_port_12307_animais",
+    "document_name": "Portaria ANAC nº 12.307/2023",
+    "source_type": "norma_publica",
+    "authority": "ANAC",
+    "legal_weight": "regulacao_anac",
+    "topic": "transporte_animais",
+    "subtopics": [
+      "pet_cabine",
+      "animal_carga",
+      "animal_apoio_emocional"
+    ],
+    "article": "Art. 3",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "2023-07-01",
+    "effective_to": null,
+    "version": "original",
+    "text": "Art. 3º São considerados animais domésticos de pequeno porte para fins desta Portaria: cães, gatos, aves canoras e ornamentais, furões, coelhos e hamsters.",
+    "char_count": 155,
+    "split_method": "article_boundary",
+    "chunk_index": 3,
+    "total_chunks": 10
+  },
+  {
+    "chunk_id": "anac_port_12307_animais_chunk_0004_322a1817",
+    "document_id": "anac_port_12307_animais",
+    "document_name": "Portaria ANAC nº 12.307/2023",
+    "source_type": "norma_publica",
+    "authority": "ANAC",
+    "legal_weight": "regulacao_anac",
+    "topic": "transporte_animais",
+    "subtopics": [
+      "pet_cabine",
+      "animal_carga",
+      "animal_apoio_emocional"
+    ],
+    "article": "Art. 4",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "2023-07-01",
+    "effective_to": null,
+    "version": "original",
+    "text": "Art. 4º O número máximo de animais por voo será determinado pela empresa aérea, não podendo exceder 1 (um) animal por passageiro.\n\nCAPÍTULO II - CÃO-GUIA E CÃO DE ASSISTÊNCIA",
+    "char_count": 174,
+    "split_method": "article_boundary",
+    "chunk_index": 4,
+    "total_chunks": 10
+  },
+  {
+    "chunk_id": "anac_port_12307_animais_chunk_0005_580afbfd",
+    "document_id": "anac_port_12307_animais",
+    "document_name": "Portaria ANAC nº 12.307/2023",
+    "source_type": "norma_publica",
+    "authority": "ANAC",
+    "legal_weight": "regulacao_anac",
+    "topic": "transporte_animais",
+    "subtopics": [
+      "pet_cabine",
+      "animal_carga",
+      "animal_apoio_emocional"
+    ],
+    "article": "Art. 5",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "2023-07-01",
+    "effective_to": null,
+    "version": "original",
+    "text": "Art. 5º O transporte de cão-guia na cabine é gratuito e obrigatório, nos termos da Lei nº 11.126/2005.\n§ 1º O cão-guia viaja ao lado do passageiro, sem necessidade de caixa de transporte.\n§ 2º O passageiro deve apresentar carteira de identificação do cão-guia emitida por centro de treinamento credenciado.",
+    "char_count": 306,
+    "split_method": "article_boundary",
+    "chunk_index": 5,
+    "total_chunks": 10
+  },
+  {
+    "chunk_id": "anac_port_12307_animais_chunk_0006_c7b896c4",
+    "document_id": "anac_port_12307_animais",
+    "document_name": "Portaria ANAC nº 12.307/2023",
+    "source_type": "norma_publica",
+    "authority": "ANAC",
+    "legal_weight": "regulacao_anac",
+    "topic": "transporte_animais",
+    "subtopics": [
+      "pet_cabine",
+      "animal_carga",
+      "animal_apoio_emocional"
+    ],
+    "article": "Art. 6",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "2023-07-01",
+    "effective_to": null,
+    "version": "original",
+    "text": "Art. 6º O cão de assistência emocional NÃO se enquadra na categoria de cão-guia e está sujeito às regras gerais de transporte de animais na cabine.\n\nCAPÍTULO III - TRANSPORTE NO PORÃO (CARGA VIVA)",
+    "char_count": 196,
+    "split_method": "article_boundary",
+    "chunk_index": 6,
+    "total_chunks": 10
+  },
+  {
+    "chunk_id": "anac_port_12307_animais_chunk_0007_00d0e4c6",
+    "document_id": "anac_port_12307_animais",
+    "document_name": "Portaria ANAC nº 12.307/2023",
+    "source_type": "norma_publica",
+    "authority": "ANAC",
+    "legal_weight": "regulacao_anac",
+    "topic": "transporte_animais",
+    "subtopics": [
+      "pet_cabine",
+      "animal_carga",
+      "animal_apoio_emocional"
+    ],
+    "article": "Art. 7",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "2023-07-01",
+    "effective_to": null,
+    "version": "original",
+    "text": "Art. 7º O transporte de animais como carga viva no porão climatizado está sujeito a:\nI - caixa de transporte certificada pela IATA;\nII - atestado veterinário com validade de até 10 dias;\nIII - reserva prévia junto à empresa aérea;\nIV - pagamento de tarifa específica.",
+    "char_count": 267,
+    "split_method": "article_boundary",
+    "chunk_index": 7,
+    "total_chunks": 10
+  },
+  {
+    "chunk_id": "anac_port_12307_animais_chunk_0008_62d2b8b7",
+    "document_id": "anac_port_12307_animais",
+    "document_name": "Portaria ANAC nº 12.307/2023",
+    "source_type": "norma_publica",
+    "authority": "ANAC",
+    "legal_weight": "regulacao_anac",
+    "topic": "transporte_animais",
+    "subtopics": [
+      "pet_cabine",
+      "animal_carga",
+      "animal_apoio_emocional"
+    ],
+    "article": "Art. 8",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "2023-07-01",
+    "effective_to": null,
+    "version": "original",
+    "text": "Art. 8º Animais braquicefálicos (focinho curto) têm restrições adicionais:\nI - proibido o transporte no porão em temperaturas acima de 30°C;\nII - recomenda-se preferência pelo transporte em cabine quando possível.\n\nCAPÍTULO IV - VOOS INTERNACIONAIS",
+    "char_count": 248,
+    "split_method": "article_boundary",
+    "chunk_index": 8,
+    "total_chunks": 10
+  },
+  {
+    "chunk_id": "anac_port_12307_animais_chunk_0009_13b2998f",
+    "document_id": "anac_port_12307_animais",
+    "document_name": "Portaria ANAC nº 12.307/2023",
+    "source_type": "norma_publica",
+    "authority": "ANAC",
+    "legal_weight": "regulacao_anac",
+    "topic": "transporte_animais",
+    "subtopics": [
+      "pet_cabine",
+      "animal_carga",
+      "animal_apoio_emocional"
+    ],
+    "article": "Art. 9",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "2023-07-01",
+    "effective_to": null,
+    "version": "original",
+    "text": "Art. 9º Para voos internacionais, além dos requisitos desta Portaria, o passageiro deve:\nI - obter Certificado Veterinário Internacional (CVI) emitido pelo MAPA;\nII - verificar os requisitos do país de destino;\nIII - cumprir quarentena quando exigido pelo país de destino.",
+    "char_count": 272,
+    "split_method": "article_boundary",
+    "chunk_index": 9,
+    "total_chunks": 10
+  }
+]

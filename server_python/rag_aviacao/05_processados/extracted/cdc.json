@@ -1,0 +1,189 @@
+{
+  "document_id": "cdc",
+  "document_name": "Código de Defesa do Consumidor (Lei 8.078/1990)",
+  "source_type": "norma_publica",
+  "authority": "Planalto",
+  "status": "extracted",
+  "file_path": "C:\\Users\\alvar\\Documents\\Projetos\\airops-ai\\docs\\docs_suportes\\CDC.pdf",
+  "total_pages": 23,
+  "total_chars": 0,
+  "scanned_pages": 1,
+  "needs_ocr": true,
+  "table_count": 0,
+  "pages": [
+    {
+      "page": 1,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [
+        [
+          4,
+          0,
+          463,
+          514,
+          8,
+          "DeviceRGB",
+          "",
+          "Image1",
+          "DCTDecode"
+        ]
+      ],
+      "has_images": true
+    },
+    {
+      "page": 2,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 3,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 4,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 5,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 6,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 7,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 8,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 9,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 10,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 11,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 12,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 13,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 14,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 15,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 16,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 17,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 18,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 19,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 20,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 21,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 22,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 23,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    }
+  ],
+  "tables": []
+}

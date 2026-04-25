@@ -1,0 +1,30 @@
+[
+  {
+    "chunk_id": "rbac_135_chunk_0000_831c9b36",
+    "document_id": "rbac_135",
+    "document_name": "RBAC nº 135 — Operações Complementares e Sob Demanda",
+    "source_type": "norma_publica",
+    "authority": "ANAC",
+    "legal_weight": "regulacao_anac",
+    "topic": "operacoes_complementares",
+    "subtopics": [
+      "taxi_aereo",
+      "fretamento"
+    ],
+    "article": null,
+    "flight_scope": [
+      "domestico"
+    ],
+    "business_scope": [
+      "operacional"
+    ],
+    "effective_from": null,
+    "effective_to": null,
+    "version": "vigente",
+    "text": "REGULAMENTO BRASILEIRO DE AVIAÇÃO CIVIL - RBAC Nº 135\n\nOPERAÇÕES COMPLEMENTARES E SOB DEMANDA\n\nSEÇÃO 135.1 - APLICABILIDADE\n\nEste regulamento prescreve os requisitos operacionais para serviços aéreos complementares e sob demanda (táxi aéreo e fretamento).\n\nSEÇÃO 135.243 - LIMITAÇÕES OPERACIONAIS\n\n(a) O táxi aéreo opera sob demanda, sem horários regulares pré-definidos;\n(b) Fretamento requer contrato específico entre as partes;\n(c) Os direitos do passageiro previstos na Resolução 400/2016 se aplicam, no que couber.\n\nSEÇÃO 135.267 - INFORMAÇÕES AO PASSAGEIRO\n\nO operador deve informar ao passageiro, antes do voo:\n(a) tipo de aeronave;\n(b) limitações de peso e bagagem;\n(c) condições meteorológicas previstas;\n(d) procedimentos de segurança.",
+    "char_count": 745,
+    "split_method": "recursive_character",
+    "chunk_index": 0,
+    "total_chunks": 1
+  }
+]

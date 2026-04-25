@@ -1,0 +1,22 @@
+REGULAMENTO BRASILEIRO DE AVIAÇÃO CIVIL — RBAC Nº 110
+
+REQUISITOS DE SEGURANÇA PARA OPERADORES AÉREOS
+
+SEÇÃO 110.1 — OBJETIVO
+
+Estabelecer os requisitos de segurança que devem ser cumpridos pelos operadores aéreos.
+
+SEÇÃO 110.5 — PROGRAMA DE SEGURANÇA DO OPERADOR
+
+Cada operador aéreo deve implementar e manter um Programa de Segurança da Empresa Aérea (PSEA).
+
+SEÇÃO 110.7 — CONTROLE DE PASSAGEIROS
+
+(a) O operador deve verificar a identidade de cada passageiro antes do embarque;
+(b) A lista de passageiros deve ser mantida disponível por 24 horas após o pouso;
+(c) Passageiros com restrição devem ser identificados conforme determinação das autoridades.
+
+SEÇÃO 110.11 — PROTEÇÃO DA CABINE DE COMANDO
+
+(a) A porta da cabine de comando deve permanecer trancada durante o voo;
+(b) O acesso à cabine de comando é restrito aos tripulantes e pessoal autorizado.

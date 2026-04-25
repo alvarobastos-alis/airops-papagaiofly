@@ -1,0 +1,20 @@
+{
+  "name": "airops-ai",
+  "version": "3.1.0",
+  "private": true,
+  "description": "AirOps AI — Airline Customer Operations Platform",
+  "scripts": {
+    "dev": "concurrently -n server,client -c cyan,green \"npm run dev:server\" \"npm run dev:client\"",
+    "dev:server": "cd server_python && ..\\server_python\\venv\\Scripts\\python -m uvicorn main:app --reload --port 3001",
+    "dev:client": "cd client && npm run dev",
+    "install:all": "npm install && cd client && npm install",
+    "seed:py": "cd server_python && ..\\server_python\\venv\\Scripts\\python -c \"from db.factory import run_data_factory; run_data_factory()\"",
+    "seed:demo": "cd server_python && ..\\server_python\\venv\\Scripts\\python -c \"from db.seed_scenarios import seed_demo_scenarios; seed_demo_scenarios()\"",
+    "docs": "server_python\\venv\\Scripts\\python docs\\generate_docs.py",
+    "build": "cd client && npm run build",
+    "lint": "cd client && npm run lint"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  }
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "chunk_id": "rbac_91_chunk_0000_9641920b",
+    "document_id": "rbac_91",
+    "document_name": "RBAC nº 91 — Regras Gerais de Operação",
+    "source_type": "norma_publica",
+    "authority": "ANAC",
+    "legal_weight": "regulacao_anac",
+    "topic": "operacao_aeronaves",
+    "subtopics": [
+      "regras_operacao",
+      "equipamentos",
+      "manuais"
+    ],
+    "article": null,
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "operacional"
+    ],
+    "effective_from": null,
+    "effective_to": null,
+    "version": "vigente",
+    "text": "REGULAMENTO BRASILEIRO DE AVIAÇÃO CIVIL - RBAC Nº 91\n\nREGRAS GERAIS DE OPERAÇÃO PARA AERONAVES CIVIS\n\nSEÇÃO 91.1 - APLICABILIDADE\n\nEste regulamento prescreve as regras que governam a operação de aeronaves civis no Brasil.\n\nSEÇÃO 91.7 - AERONAVEGABILIDADE\n\nNenhuma pessoa pode operar uma aeronave civil a menos que a aeronave esteja em condições aeronavegáveis.\n\nSEÇÃO 91.103 - PLANEJAMENTO DE VOO\n\nCada piloto em comando deve, antes de iniciar um voo, familiarizar-se com todas as informações disponíveis relacionadas ao voo, incluindo:\n(a) condições meteorológicas;\n(b) pistas e procedimentos de partida e chegada;\n(c) alternativas disponíveis.\n\nSEÇÃO 91.205 - EQUIPAMENTOS EXIGIDOS\n\nNenhuma pessoa pode operar uma aeronave civil a menos que possua os instrumentos e equipamentos exigidos por este regulamento.",
+    "char_count": 811,
+    "split_method": "recursive_character",
+    "chunk_index": 0,
+    "total_chunks": 1
+  }
+]

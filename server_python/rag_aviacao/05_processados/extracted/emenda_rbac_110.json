@@ -1,0 +1,853 @@
+{
+  "document_id": "emenda_rbac_110",
+  "document_name": "Emenda RBAC nº 110 — Requisitos de Segurança para Operadores",
+  "source_type": "norma_publica",
+  "authority": "ANAC",
+  "status": "extracted",
+  "file_path": "C:\\Users\\alvar\\Documents\\Projetos\\airops-ai\\docs\\docs_suportes\\Emenda ao Compêndio de Elementos de Fiscalização - RBAC 110.pdf",
+  "total_pages": 13,
+  "total_chars": 0,
+  "scanned_pages": 1,
+  "needs_ocr": true,
+  "table_count": 12,
+  "pages": [
+    {
+      "page": 1,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [
+        [
+          4,
+          0,
+          279,
+          103,
+          8,
+          "DeviceRGB",
+          "",
+          "Image1",
+          "DCTDecode"
+        ]
+      ],
+      "has_images": true
+    },
+    {
+      "page": 2,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 3,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 4,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 5,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 6,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 7,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 8,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 9,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 10,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 11,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 12,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    },
+    {
+      "page": 13,
+      "text": "",
+      "char_count": 0,
+      "is_scanned": [],
+      "has_images": false
+    }
+  ],
+  "tables": [
+    {
+      "page": 1,
+      "table_index": 0,
+      "headers": [
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ],
+        [
+          "",
+          ""
+        ]
+      ],
+      "row_count": 3
+    },
+    {
+      "page": 2,
+      "table_index": 0,
+      "headers": [
+        "",
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          ""
+        ],
+        [
+          null,
+          null,
+          ""
+        ]
+      ],
+      "row_count": 6
+    },
+    {
+      "page": 3,
+      "table_index": 0,
+      "headers": [
+        "",
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          null,
+          null,
+          ""
+        ],
+        [
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          ""
+        ]
+      ],
+      "row_count": 8
+    },
+    {
+      "page": 4,
+      "table_index": 0,
+      "headers": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          null,
+          null,
+          null,
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "row_count": 10
+    },
+    {
+      "page": 5,
+      "table_index": 0,
+      "headers": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          null,
+          null,
+          null,
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "row_count": 13
+    },
+    {
+      "page": 6,
+      "table_index": 0,
+      "headers": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "row_count": 8
+    },
+    {
+      "page": 7,
+      "table_index": 0,
+      "headers": [
+        "",
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "",
+          "",
+          ""
+        ],
+        [
+          null,
+          null,
+          ""
+        ],
+        [
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          ""
+        ],
+        [
+          null,
+          null,
+          ""
+        ],
+        [
+          "",
+          "",
+          ""
+        ]
+      ],
+      "row_count": 8
+    },
+    {
+      "page": 8,
+      "table_index": 0,
+      "headers": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "row_count": 7
+    },
+    {
+      "page": 9,
+      "table_index": 0,
+      "headers": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          null,
+          null,
+          null,
+          null,
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          null,
+          null,
+          null,
+          null,
+          ""
+        ],
+        [
+          null,
+          null,
+          null,
+          null,
+          ""
+        ],
+        [
+          null,
+          null,
+          null,
+          null,
+          ""
+        ],
+        [
+          null,
+          null,
+          null,
+          null,
+          ""
+        ]
+      ],
+      "row_count": 12
+    },
+    {
+      "page": 10,
+      "table_index": 0,
+      "headers": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          null,
+          null,
+          null,
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "row_count": 9
+    },
+    {
+      "page": 11,
+      "table_index": 0,
+      "headers": [
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          null,
+          null,
+          null,
+          null,
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          null,
+          null,
+          null,
+          null,
+          ""
+        ],
+        [
+          null,
+          null,
+          null,
+          null,
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "row_count": 8
+    },
+    {
+      "page": 12,
+      "table_index": 0,
+      "headers": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ],
+        [
+          "",
+          "",
+          "",
+          ""
+        ]
+      ],
+      "row_count": 6
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+# ==========================================
+# AirOps AI — Docker Compose
+# Qdrant vector database for RAG pipeline
+# ==========================================
+# NOTA: Portas 6433/6434 para não conflitar com
+# o Qdrant do Bistro Copilot (6333/6334)
+# ==========================================
+
+services:
+  qdrant:
+    image: qdrant/qdrant:latest
+    container_name: airops-qdrant
+    ports:
+      - "6433:6333"   # REST API (host:6433 → container:6333)
+      - "6434:6334"   # gRPC    (host:6434 → container:6334)
+    volumes:
+      - airops_qdrant_data:/qdrant/storage
+    environment:
+      QDRANT__SERVICE__GRPC_PORT: "6334"
+      QDRANT__LOG_LEVEL: "INFO"
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:6333/healthz"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+volumes:
+  airops_qdrant_data:
+    driver: local

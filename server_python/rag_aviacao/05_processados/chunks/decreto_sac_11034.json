@@ -1,0 +1,642 @@
+[
+  {
+    "chunk_id": "decreto_sac_11034_chunk_0000_864cd34a",
+    "document_id": "decreto_sac_11034",
+    "document_name": "Decreto SAC nº 11.034/2022",
+    "source_type": "norma_publica",
+    "authority": "Planalto",
+    "legal_weight": "decreto_federal",
+    "topic": "atendimento_consumidor",
+    "subtopics": [
+      "sac",
+      "ouvidoria",
+      "prazos",
+      "canais"
+    ],
+    "article": null,
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "2022-04-05",
+    "effective_to": null,
+    "version": "original",
+    "priority": 2,
+    "text": "Presidência da República\nSecretaria-Geral\nSubchefia para Assuntos Jurídicos\nDECRETO Nº 11.034, DE 5 DE ABRIL DE 2022\nVigência\nRegulamenta a Lei nº 8.078, de 11 de setembro de 1990 -\nCódigo de Defesa do Consumidor, para estabelecer\ndiretrizes e normas sobre o Serviço de Atendimento ao\nConsumidor.\nO PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, caput, inciso IV, da\nConstituição, e tendo em vista o disposto na Lei nº 8.078, de 11 de setembro de 1990 - Código de Defesa do\nConsumidor,\nDECRETA:\nCAPÍTULO I\nDISPOSIÇÕES GERAIS",
+    "char_count": 550,
+    "split_method": "article_boundary",
+    "chunk_index": 0,
+    "total_chunks": 20
+  },
+  {
+    "chunk_id": "decreto_sac_11034_chunk_0001_938f4438",
+    "document_id": "decreto_sac_11034",
+    "document_name": "Decreto SAC nº 11.034/2022",
+    "source_type": "norma_publica",
+    "authority": "Planalto",
+    "legal_weight": "decreto_federal",
+    "topic": "atendimento_consumidor",
+    "subtopics": [
+      "sac",
+      "ouvidoria",
+      "prazos",
+      "canais"
+    ],
+    "article": "Art. 1",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "2022-04-05",
+    "effective_to": null,
+    "version": "original",
+    "priority": 2,
+    "text": "Art. 1º Este Decreto regulamenta a Lei nº 8.078, de 11 de setembro de 1990 - Código de Defesa do\nConsumidor, para estabelecer diretrizes e normas sobre o Serviço de Atendimento ao Consumidor - SAC, no âmbito\ndos fornecedores dos serviços regulados pelo Poder Executivo federal, com vistas a garantir o direito do consumidor:\nI - à obtenção de informação adequada sobre os serviços contratados; e\nII - ao tratamento de suas demandas.\nParágrafo único. Para fins do disposto neste Decreto, os órgãos ou as entidades reguladoras considerarão o\nporte do fornecedor do serviço regulado.",
+    "char_count": 580,
+    "split_method": "article_boundary",
+    "chunk_index": 1,
+    "total_chunks": 20
+  },
+  {
+    "chunk_id": "decreto_sac_11034_chunk_0002_eec9f070",
+    "document_id": "decreto_sac_11034",
+    "document_name": "Decreto SAC nº 11.034/2022",
+    "source_type": "norma_publica",
+    "authority": "Planalto",
+    "legal_weight": "decreto_federal",
+    "topic": "atendimento_consumidor",
+    "subtopics": [
+      "sac",
+      "ouvidoria",
+      "prazos",
+      "canais"
+    ],
+    "article": "Art. 2",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "2022-04-05",
+    "effective_to": null,
+    "version": "original",
+    "priority": 2,
+    "text": "Art. 2º Para fins do disposto neste Decreto, considera-se Serviço de Atendimento ao Consumidor - SAC o\nserviço de atendimento realizado por diversos canais integrados dos fornecedores de serviços regulados com a\nfinalidade de dar tratamento às demandas dos consumidores, tais como informação, dúvida, reclamação, contestação,\nsuspensão ou cancelamento de contratos e de serviços.\nParágrafo único. O disposto neste Decreto não se aplica à oferta e à contratação de produtos e serviços.\nCAPÍTULO II\nDO ATENDIMENTO AO CONSUMIDOR",
+    "char_count": 525,
+    "split_method": "article_boundary",
+    "chunk_index": 2,
+    "total_chunks": 20
+  },
+  {
+    "chunk_id": "decreto_sac_11034_chunk_0003_e95255ea",
+    "document_id": "decreto_sac_11034",
+    "document_name": "Decreto SAC nº 11.034/2022",
+    "source_type": "norma_publica",
+    "authority": "Planalto",
+    "legal_weight": "decreto_federal",
+    "topic": "atendimento_consumidor",
+    "subtopics": [
+      "sac",
+      "ouvidoria",
+      "prazos",
+      "canais"
+    ],
+    "article": "Art. 3",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "2022-04-05",
+    "effective_to": null,
+    "version": "original",
+    "priority": 2,
+    "text": "Art. 3º O acesso ao SAC será gratuito e o atendimento das demandas não acarretará ônus para o consumidor.",
+    "char_count": 105,
+    "split_method": "article_boundary",
+    "chunk_index": 3,
+    "total_chunks": 20
+  },
+  {
+    "chunk_id": "decreto_sac_11034_chunk_0004_a27a0e20",
+    "document_id": "decreto_sac_11034",
+    "document_name": "Decreto SAC nº 11.034/2022",
+    "source_type": "norma_publica",
+    "authority": "Planalto",
+    "legal_weight": "decreto_federal",
+    "topic": "atendimento_consumidor",
+    "subtopics": [
+      "sac",
+      "ouvidoria",
+      "prazos",
+      "canais"
+    ],
+    "article": "Art. 4",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "2022-04-05",
+    "effective_to": null,
+    "version": "original",
+    "priority": 2,
+    "text": "Art. 4º O acesso ao SAC estará disponível, ininterruptamente, durante vinte e quatro horas por dia, sete dias\npor semana.\n§ 1º O acesso de que trata o caput será garantido por meio de, no mínimo, um dos canais de atendimento\nintegrados, cujo funcionamento será amplamente divulgado.\n§ 2º O acesso ao SAC prestado por atendimento telefônico será obrigatório, nos termos do disposto no art. 5º.\n§ 3º Na hipótese de o serviço ofertado não estar disponível para fruição ou contratação nos termos do disposto\nno caput, o acesso ao SAC poderá ser interrompido, observada a regulamentação dos órgãos ou das entidades\nreguladoras competentes.\n§ 4º O acesso inicial ao atendente não será condicionado ao fornecimento prévio de dados pelo consumidor.\n§ 5º É vedada a veiculação de mensagens publicitárias durante o tempo de espera para o atendimento, exceto\nse houver consentimento prévio do consumidor.\n§ 6º Sem prejuízo do disposto no § 5º, é admitida a veiculação de mensagens de caráter informativo durante o\ntempo de espera, desde que tratem dos direitos e deveres dos consumidores ou dos outros canais de atendimento\ndisponíveis.\n25/04/2026, 09:15\nD11034\nhttps://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/decreto/d11034.htm\n1/5",
+    "char_count": 1230,
+    "split_method": "article_boundary",
+    "chunk_index": 4,
+    "total_chunks": 20
+  },
+  {
+    "chunk_id": "decreto_sac_11034_chunk_0005_555f68e4",
+    "document_id": "decreto_sac_11034",
+    "document_name": "Decreto SAC nº 11.034/2022",
+    "source_type": "norma_publica",
+    "authority": "Planalto",
+    "legal_weight": "decreto_federal",
+    "topic": "atendimento_consumidor",
+    "subtopics": [
+      "sac",
+      "ouvidoria",
+      "prazos",
+      "canais"
+    ],
+    "article": "Art. 5",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "2022-04-05",
+    "effective_to": null,
+    "version": "original",
+    "priority": 2,
+    "text": "Art. 5º Os órgãos ou as entidades reguladoras competentes observarão as seguintes condições mínimas para\no atendimento telefônico do consumidor:\nI - horário de atendimento não inferior a oito horas diárias, com disponibilização de atendimento por humano;\nII - opções mínimas constantes do primeiro menu, incluídas, obrigatoriamente, as opções de reclamação e de\ncancelamento de contratos e serviços; e\nIII - tempo máximo de espera para:\na) o contato direto com o atendente, quando essa opção for selecionada; e\nb) a transferência ao setor competente para atendimento definitivo da demanda, quando o primeiro atendente\nnão tiver essa atribuição.\nParágrafo único. Os órgãos ou as entidades reguladoras competentes poderão estabelecer, para o setor\nregulado, horário de atendimento telefônico por humano superior ao previsto no inciso I do caput.",
+    "char_count": 843,
+    "split_method": "article_boundary",
+    "chunk_index": 5,
+    "total_chunks": 20
+  },
+  {
+    "chunk_id": "decreto_sac_11034_chunk_0006_9bcfb42a",
+    "document_id": "decreto_sac_11034",
+    "document_name": "Decreto SAC nº 11.034/2022",
+    "source_type": "norma_publica",
+    "authority": "Planalto",
+    "legal_weight": "decreto_federal",
+    "topic": "atendimento_consumidor",
+    "subtopics": [
+      "sac",
+      "ouvidoria",
+      "prazos",
+      "canais"
+    ],
+    "article": "Art. 6",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "2022-04-05",
+    "effective_to": null,
+    "version": "original",
+    "priority": 2,
+    "text": "Art. 6º É obrigatória a acessibilidade em canais do SAC mantidos pelos fornecedores de que trata este\nDecreto, para uso da pessoa com deficiência, garantido o acesso pleno para atendimento de suas demandas.\nParágrafo único. Ato da Secretaria Nacional do Consumidor do Ministério da Justiça e Segurança Pública\ndisporá sobre a acessibilidade de canais de SAC, consideradas as especificidades das deficiências.",
+    "char_count": 408,
+    "split_method": "article_boundary",
+    "chunk_index": 6,
+    "total_chunks": 20
+  },
+  {
+    "chunk_id": "decreto_sac_11034_chunk_0007_1fb875fe",
+    "document_id": "decreto_sac_11034",
+    "document_name": "Decreto SAC nº 11.034/2022",
+    "source_type": "norma_publica",
+    "authority": "Planalto",
+    "legal_weight": "decreto_federal",
+    "topic": "atendimento_consumidor",
+    "subtopics": [
+      "sac",
+      "ouvidoria",
+      "prazos",
+      "canais"
+    ],
+    "article": "Art. 7",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "2022-04-05",
+    "effective_to": null,
+    "version": "original",
+    "priority": 2,
+    "text": "Art. 7º As opções de acesso ao SAC constarão de maneira clara:\nI - em todos os documentos e materiais impressos entregues ao consumidor na contratação do serviço e\ndurante o seu fornecimento; e\nII - nos canais eletrônicos do fornecedor.\nCAPÍTULO III\nDA QUALIDADE DO TRATAMENTO DAS DEMANDAS",
+    "char_count": 289,
+    "split_method": "article_boundary",
+    "chunk_index": 7,
+    "total_chunks": 20
+  },
+  {
+    "chunk_id": "decreto_sac_11034_chunk_0008_9d4cd9f9",
+    "document_id": "decreto_sac_11034",
+    "document_name": "Decreto SAC nº 11.034/2022",
+    "source_type": "norma_publica",
+    "authority": "Planalto",
+    "legal_weight": "decreto_federal",
+    "topic": "atendimento_consumidor",
+    "subtopics": [
+      "sac",
+      "ouvidoria",
+      "prazos",
+      "canais"
+    ],
+    "article": "Art. 8",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "2022-04-05",
+    "effective_to": null,
+    "version": "original",
+    "priority": 2,
+    "text": "Art. 8º No tratamento das demandas, o SAC garantirá a:\nI - tempestividade;\nII - segurança;\nIII - privacidade; e\nIV - resolutividade da demanda.\nParágrafo único. No tratamento das demandas serão observados ainda os princípios da:\nI - dignidade;\nII - boa-fé;\nIII - transparência;\nIV - eficiência;\nV - eficácia;\nVI - celeridade; e\nVII - cordialidade.",
+    "char_count": 347,
+    "split_method": "article_boundary",
+    "chunk_index": 8,
+    "total_chunks": 20
+  },
+  {
+    "chunk_id": "decreto_sac_11034_chunk_0009_28500625",
+    "document_id": "decreto_sac_11034",
+    "document_name": "Decreto SAC nº 11.034/2022",
+    "source_type": "norma_publica",
+    "authority": "Planalto",
+    "legal_weight": "decreto_federal",
+    "topic": "atendimento_consumidor",
+    "subtopics": [
+      "sac",
+      "ouvidoria",
+      "prazos",
+      "canais"
+    ],
+    "article": "Art. 9",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "2022-04-05",
+    "effective_to": null,
+    "version": "original",
+    "priority": 2,
+    "text": "Art. 9º Os dados pessoais do consumidor serão coletados, armazenados, tratados, transferidos e utilizados\nexclusivamente nos termos do disposto na Lei nº 13.709, de 14 de agosto de 2018.",
+    "char_count": 186,
+    "split_method": "article_boundary",
+    "chunk_index": 9,
+    "total_chunks": 20
+  },
+  {
+    "chunk_id": "decreto_sac_11034_chunk_0010_eba5d5ef",
+    "document_id": "decreto_sac_11034",
+    "document_name": "Decreto SAC nº 11.034/2022",
+    "source_type": "norma_publica",
+    "authority": "Planalto",
+    "legal_weight": "decreto_federal",
+    "topic": "atendimento_consumidor",
+    "subtopics": [
+      "sac",
+      "ouvidoria",
+      "prazos",
+      "canais"
+    ],
+    "article": "Art. 10",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "2022-04-05",
+    "effective_to": null,
+    "version": "original",
+    "priority": 2,
+    "text": "Art. 10. É vedado solicitar a repetição da demanda do consumidor após o seu registro no primeiro atendimento.",
+    "char_count": 109,
+    "split_method": "article_boundary",
+    "chunk_index": 10,
+    "total_chunks": 20
+  },
+  {
+    "chunk_id": "decreto_sac_11034_chunk_0011_3356a1c2",
+    "document_id": "decreto_sac_11034",
+    "document_name": "Decreto SAC nº 11.034/2022",
+    "source_type": "norma_publica",
+    "authority": "Planalto",
+    "legal_weight": "decreto_federal",
+    "topic": "atendimento_consumidor",
+    "subtopics": [
+      "sac",
+      "ouvidoria",
+      "prazos",
+      "canais"
+    ],
+    "article": "Art. 11",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "2022-04-05",
+    "effective_to": null,
+    "version": "original",
+    "priority": 2,
+    "text": "Art. 11. Caso a chamada telefônica seja finalizada pelo fornecedor antes da conclusão do atendimento, o\nfornecedor deverá:\n25/04/2026, 09:15\nD11034\nhttps://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/decreto/d11034.htm\n2/5\n\nI - retornar a chamada ao consumidor;\nII - informar o registro numérico de que trata o art. 12; e\nIII - concluir o atendimento.\nCAPÍTULO IV\nDO ACOMPANHAMENTO DAS DEMANDAS",
+    "char_count": 399,
+    "split_method": "article_boundary",
+    "chunk_index": 11,
+    "total_chunks": 20
+  },
+  {
+    "chunk_id": "decreto_sac_11034_chunk_0012_a38b1575",
+    "document_id": "decreto_sac_11034",
+    "document_name": "Decreto SAC nº 11.034/2022",
+    "source_type": "norma_publica",
+    "authority": "Planalto",
+    "legal_weight": "decreto_federal",
+    "topic": "atendimento_consumidor",
+    "subtopics": [
+      "sac",
+      "ouvidoria",
+      "prazos",
+      "canais"
+    ],
+    "article": "Art. 12",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "2022-04-05",
+    "effective_to": null,
+    "version": "original",
+    "priority": 2,
+    "text": "Art. 12. É direito do consumidor acompanhar, nos diversos canais de atendimento integrados, todas as suas\ndemandas, por meio de registro numérico ou outro tipo de procedimento eletrônico.\n§ 1º O consumidor terá o direito de acesso ao histórico de suas demandas, sem ônus.\n§ 2º O histórico das demandas a que se refere o § 1º:\nI - será enviado ao consumidor, mediante solicitação, no prazo de cinco dias corridos, contado da data da\nsolicitação, por correspondência ou por meio eletrônico, a critério do consumidor; e\nII - conterá todas as informações relacionadas à demanda, incluído o conteúdo da resposta do fornecedor,\nobservado o disposto no § 2º do art. 13.\n§ 3º Quando se tratar de chamada telefônica, a manutenção da gravação da chamada efetuada para o SAC é\nobrigatória, pelo prazo mínimo de noventa dias, contado da data do atendimento.\n§ 4º Durante o prazo de que trata o § 3º, o consumidor poderá requerer acesso ao conteúdo da chamada\nefetuada.\n§ 5º O registro do atendimento será mantido à disposição do consumidor e do órgão ou da entidade\nfiscalizadora pelo prazo mínimo de dois anos, contado da data de resolução da demanda.\nCAPÍTULO V\nDO TRATAMENTO DAS DEMANDAS",
+    "char_count": 1178,
+    "split_method": "article_boundary",
+    "chunk_index": 12,
+    "total_chunks": 20
+  },
+  {
+    "chunk_id": "decreto_sac_11034_chunk_0013_c5b019ea",
+    "document_id": "decreto_sac_11034",
+    "document_name": "Decreto SAC nº 11.034/2022",
+    "source_type": "norma_publica",
+    "authority": "Planalto",
+    "legal_weight": "decreto_federal",
+    "topic": "atendimento_consumidor",
+    "subtopics": [
+      "sac",
+      "ouvidoria",
+      "prazos",
+      "canais"
+    ],
+    "article": "Art. 13",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "2022-04-05",
+    "effective_to": null,
+    "version": "original",
+    "priority": 2,
+    "text": "Art. 13. As demandas do consumidor serão respondidas no prazo de sete dias corridos, contado da data de seu\nregistro.\n§ 1º O consumidor será informado sobre a conclusão do tratamento de sua demanda e, mediante solicitação,\nreceberá do fornecedor a comprovação pertinente por correspondência ou por meio eletrônico, a critério do\nconsumidor.\n§ 2º A resposta do fornecedor:\nI - será clara, objetiva e conclusiva; e\nII - abordará todos os pontos da demanda do consumidor.\n§ 3º Quando a demanda tratar de serviço não solicitado ou de cobrança indevida, o fornecedor adotará\nimediatamente as medidas necessárias à suspensão da cobrança.\n§ 4º Os órgãos ou as entidades reguladoras competentes poderão estabelecer, no setor regulado, prazo para\nresolução das demandas no SAC.",
+    "char_count": 768,
+    "split_method": "article_boundary",
+    "chunk_index": 13,
+    "total_chunks": 20
+  },
+  {
+    "chunk_id": "decreto_sac_11034_chunk_0014_40b76fad",
+    "document_id": "decreto_sac_11034",
+    "document_name": "Decreto SAC nº 11.034/2022",
+    "source_type": "norma_publica",
+    "authority": "Planalto",
+    "legal_weight": "decreto_federal",
+    "topic": "atendimento_consumidor",
+    "subtopics": [
+      "sac",
+      "ouvidoria",
+      "prazos",
+      "canais"
+    ],
+    "article": "Art. 14",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "2022-04-05",
+    "effective_to": null,
+    "version": "original",
+    "priority": 2,
+    "text": "Art. 14. O recebimento e o processamento imediato do pedido de cancelamento de serviço feito pelo\nconsumidor, por meio do SAC, observará as seguintes diretrizes:\nI - o pedido de cancelamento será permitido e assegurado ao consumidor por todos os meios disponíveis para a\ncontratação do serviço, observadas as condições aplicáveis à rescisão e as multas decorrentes de cláusulas\ncontratuais;\nII - os efeitos do pedido de cancelamento serão imediatos, independentemente do adimplemento contratual,\nexceto quando for necessário o processamento técnico da demanda;\nIII - será assegurada ao consumidor a informação sobre eventuais condições aplicáveis à rescisão e as multas\nincidentes por descumprimento de cláusulas contratuais de permanência mínima, quando cabíveis;\n25/04/2026, 09:15\nD11034\nhttps://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/decreto/d11034.htm\n3/5\n\nIV - o comprovante do pedido de cancelamento será encaminhado por correspondência ou por meio eletrônico,\na critério do consumidor; e\nV - poderá ser oferecida a opção para cancelamento programado, sujeita à anuência do consumidor.\nParágrafo único. Os órgãos ou as entidades reguladoras competentes fixarão prazo para a conclusão do\nprocessamento técnico da demanda de que trata o inciso II do caput.\nCAPÍTULO VI\nDA EFETIVIDADE",
+    "char_count": 1297,
+    "split_method": "article_boundary",
+    "chunk_index": 14,
+    "total_chunks": 20
+  },
+  {
+    "chunk_id": "decreto_sac_11034_chunk_0015_c93aca5d",
+    "document_id": "decreto_sac_11034",
+    "document_name": "Decreto SAC nº 11.034/2022",
+    "source_type": "norma_publica",
+    "authority": "Planalto",
+    "legal_weight": "decreto_federal",
+    "topic": "atendimento_consumidor",
+    "subtopics": [
+      "sac",
+      "ouvidoria",
+      "prazos",
+      "canais"
+    ],
+    "article": "Art. 15",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "2022-04-05",
+    "effective_to": null,
+    "version": "original",
+    "priority": 2,
+    "text": "Art. 15. À Secretaria Nacional do Consumidor do Ministério da Justiça e Segurança Pública competirá\ndesenvolver a metodologia e implementar a ferramenta de acompanhamento da efetividade dos SAC, ouvidos os\nórgãos e as entidades reguladoras, os integrantes do Sistema Nacional de Defesa do Consumidor e os representantes\nde prestadores de serviços de relacionamento com consumidores.\n§ 1º No desenvolvimento da metodologia e na implementação da ferramenta de que trata o caput, serão\nconsiderados, no mínimo, os seguintes parâmetros:\nI - quantidade de reclamações referentes ao SAC, ponderada por quantidade de clientes ou de unidades de\nprodução;\nII - taxa de resolução das demandas, sob a ótica do consumidor;\nIII - índice de reclamações junto aos órgãos de defesa do consumidor, principalmente no Sistema Nacional de\nInformações de Defesa do Consumidor e no sítio eletrônico do consumidor.gov.br, ou nas plataformas que venham a\nsubstituí-los;\nIV - índice de reclamações no órgão ou na entidade reguladora setorial; e\nV - grau de satisfação do consumidor.\n§ 2º A Secretaria Nacional do Consumidor do Ministério da Justiça e Segurança Pública dará transparência à\nmetodologia e à ferramenta de acompanhamento da efetividade dos SAC de que trata o caput, divulgados, no\nmínimo, uma vez ao ano, os resultados da implementação da ferramenta.\n§ 3º A Secretaria Nacional do Consumidor do Ministério da Justiça e Segurança Pública poderá solicitar dados\ne informações aos fornecedores, observadas as hipóteses legais de sigilo, com vistas ao acompanhamento da\nefetividade dos SAC.\n§ 4º Os dados e as informações de que trata o § 3º poderão ser compartilhados com os órgãos ou as entidades\nreguladoras competentes, nos termos do disposto no Decreto nº 10.046, de 9 de outubro de 2019.\n§ 5º Com base na ferramenta de que trata o caput, a Secretaria Nacional do Consumidor do Ministério da\nJustiça e Segurança Pública poderá, ao averiguar a baixa efetividade dos SAC de determinados fornecedores,\nestabelecer horário de atendimento telefônico por humano superior ao previsto no inciso I do caput do art. 5º.\nCAPÍTULO VII\nDISPOSIÇÕES FINAIS",
+    "char_count": 2131,
+    "split_method": "article_boundary",
+    "chunk_index": 15,
+    "total_chunks": 20
+  },
+  {
+    "chunk_id": "decreto_sac_11034_chunk_0016_2f2524bf",
+    "document_id": "decreto_sac_11034",
+    "document_name": "Decreto SAC nº 11.034/2022",
+    "source_type": "norma_publica",
+    "authority": "Planalto",
+    "legal_weight": "decreto_federal",
+    "topic": "atendimento_consumidor",
+    "subtopics": [
+      "sac",
+      "ouvidoria",
+      "prazos",
+      "canais"
+    ],
+    "article": "Art. 16",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "2022-04-05",
+    "effective_to": null,
+    "version": "original",
+    "priority": 2,
+    "text": "Art. 16. A inobservância ao disposto neste Decreto acarretará a aplicação das sanções estabelecidas no art. 56\nda Lei nº 8.078, de 1990 - Código de Defesa do Consumidor, sem prejuízo da aplicação das sanções constantes dos\nregulamentos específicos dos órgãos e das entidades reguladoras.",
+    "char_count": 287,
+    "split_method": "article_boundary",
+    "chunk_index": 16,
+    "total_chunks": 20
+  },
+  {
+    "chunk_id": "decreto_sac_11034_chunk_0017_2e30acd2",
+    "document_id": "decreto_sac_11034",
+    "document_name": "Decreto SAC nº 11.034/2022",
+    "source_type": "norma_publica",
+    "authority": "Planalto",
+    "legal_weight": "decreto_federal",
+    "topic": "atendimento_consumidor",
+    "subtopics": [
+      "sac",
+      "ouvidoria",
+      "prazos",
+      "canais"
+    ],
+    "article": "Art. 17",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "2022-04-05",
+    "effective_to": null,
+    "version": "original",
+    "priority": 2,
+    "text": "Art. 17. Fica revogado o Decreto nº 6.523, de 31 de julho de 2008.",
+    "char_count": 66,
+    "split_method": "article_boundary",
+    "chunk_index": 17,
+    "total_chunks": 20
+  },
+  {
+    "chunk_id": "decreto_sac_11034_chunk_0018_43ce3308",
+    "document_id": "decreto_sac_11034",
+    "document_name": "Decreto SAC nº 11.034/2022",
+    "source_type": "norma_publica",
+    "authority": "Planalto",
+    "legal_weight": "decreto_federal",
+    "topic": "atendimento_consumidor",
+    "subtopics": [
+      "sac",
+      "ouvidoria",
+      "prazos",
+      "canais"
+    ],
+    "article": "Art. 18",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "2022-04-05",
+    "effective_to": null,
+    "version": "original",
+    "priority": 2,
+    "text": "Art. 18. Este Decreto entra em vigor cento e oitenta dias após a data de sua publicação.\nBrasília, 5 de abril de 2022; 201º da Independência e 134º da República.\nJAIR MESSIAS BOLSONARO\nAnderson Gustavo Torres\nEste texto não substitui o publicado no DOU de 6.4.2022.\n *\n \n25/04/2026, 09:15\nD11034\nhttps://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/decreto/d11034.htm\n4/5\n\n25/04/2026, 09:15\nD11034\nhttps://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/decreto/d11034.htm\n5/5",
+    "char_count": 481,
+    "split_method": "article_boundary",
+    "chunk_index": 18,
+    "total_chunks": 20
+  },
+  {
+    "chunk_id": "decreto_sac_11034_chunk_0019_8963898a",
+    "document_id": "decreto_sac_11034",
+    "document_name": "Decreto SAC nº 11.034/2022",
+    "source_type": "norma_publica",
+    "authority": "Planalto",
+    "legal_weight": "decreto_federal",
+    "topic": "atendimento_consumidor",
+    "subtopics": [
+      "sac",
+      "ouvidoria",
+      "prazos",
+      "canais"
+    ],
+    "article": null,
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "2022-04-05",
+    "effective_to": null,
+    "version": "original",
+    "priority": 2,
+    "text": "[TABELA - Página 4]\n | , a Secretaria Nacional do Consumidor do Ministério da\nJustiça e Segurança Pública poderá, ao averiguar a baixa efetividade dos SAC de determinados fornecedores, | \nestabelecer horário de atendimento telefônico por humano superior ao previsto no inciso I do caput do art. 5º. | ",
+    "char_count": 301,
+    "split_method": "table_extraction",
+    "chunk_index": 19,
+    "total_chunks": 20
+  }
+]

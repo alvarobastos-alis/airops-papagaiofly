@@ -1,0 +1,31 @@
+[
+  {
+    "chunk_id": "rbac_129_chunk_0000_a02cc574",
+    "document_id": "rbac_129",
+    "document_name": "RBAC nº 129 — Operações de Empresas Estrangeiras",
+    "source_type": "norma_publica",
+    "authority": "ANAC",
+    "legal_weight": "regulacao_anac",
+    "topic": "operacoes_estrangeiras",
+    "subtopics": [
+      "codeshare",
+      "operacao_estrangeira"
+    ],
+    "article": null,
+    "flight_scope": [
+      "internacional"
+    ],
+    "business_scope": [
+      "operacional"
+    ],
+    "effective_from": null,
+    "effective_to": null,
+    "version": "vigente",
+    "priority": 3,
+    "text": "[TABELA - Página 1]\n | \n | \n | \n | \n | ",
+    "char_count": 39,
+    "split_method": "table_extraction",
+    "chunk_index": 0,
+    "total_chunks": 1
+  }
+]

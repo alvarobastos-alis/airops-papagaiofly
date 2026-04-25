@@ -1,0 +1,42 @@
+{
+  "document_id": "rbac_119",
+  "document_name": "RBAC nº 119 — Certificação de Operadores",
+  "source_type": "norma_publica",
+  "authority": "ANAC",
+  "status": "normalized",
+  "total_pages": 0,
+  "total_chars": 0,
+  "legal_elements_found": 0,
+  "legal_structure": [],
+  "full_text": "",
+  "pages": [],
+  "tables": [
+    {
+      "page": 2,
+      "table_index": 0,
+      "headers": [
+        "",
+        "",
+        ""
+      ],
+      "rows": [
+        [
+          "",
+          "",
+          null
+        ],
+        [
+          "",
+          "",
+          null
+        ],
+        [
+          "",
+          "",
+          null
+        ]
+      ],
+      "row_count": 3
+    }
+  ]
+}

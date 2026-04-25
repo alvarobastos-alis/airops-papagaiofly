@@ -1,0 +1,188 @@
+[
+  {
+    "chunk_id": "cdc_chunk_0000_1c6d8fab",
+    "document_id": "cdc",
+    "document_name": "Código de Defesa do Consumidor (Lei 8.078/1990)",
+    "source_type": "norma_publica",
+    "authority": "Planalto",
+    "legal_weight": "lei_federal",
+    "topic": "direitos_consumidor",
+    "subtopics": [
+      "responsabilidade",
+      "praticas_abusivas",
+      "publicidade",
+      "contratos"
+    ],
+    "article": null,
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "1991-03-11",
+    "effective_to": null,
+    "version": "compilada_2026_04",
+    "text": "CÓDIGO DE DEFESA DO CONSUMIDOR\nLei nº 8.078, de 11 de setembro de 1990\n\nCAPÍTULO III - DOS DIREITOS BÁSICOS DO CONSUMIDOR",
+    "char_count": 121,
+    "split_method": "article_boundary",
+    "chunk_index": 0,
+    "total_chunks": 6
+  },
+  {
+    "chunk_id": "cdc_chunk_0001_079a70f4",
+    "document_id": "cdc",
+    "document_name": "Código de Defesa do Consumidor (Lei 8.078/1990)",
+    "source_type": "norma_publica",
+    "authority": "Planalto",
+    "legal_weight": "lei_federal",
+    "topic": "direitos_consumidor",
+    "subtopics": [
+      "responsabilidade",
+      "praticas_abusivas",
+      "publicidade",
+      "contratos"
+    ],
+    "article": "Art. 6",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "1991-03-11",
+    "effective_to": null,
+    "version": "compilada_2026_04",
+    "text": "Art. 6º São direitos básicos do consumidor:\nI - a proteção da vida, saúde e segurança contra os riscos provocados por práticas no fornecimento de produtos e serviços;\nII - a educação e divulgação sobre o consumo adequado dos produtos e serviços;\nIII - a informação adequada e clara sobre os diferentes produtos e serviços, com especificação correta de quantidade, características, composição, qualidade, tributos incidentes e preço, bem como sobre os riscos que apresentem;\nIV - a proteção contra a publicidade enganosa e abusiva;\nVI - a efetiva prevenção e reparação de danos patrimoniais e morais, individuais, coletivos e difusos;\nVIII - a facilitação da defesa de seus direitos.\n\nCAPÍTULO IV - DA QUALIDADE DE PRODUTOS E SERVIÇOS",
+    "char_count": 733,
+    "split_method": "article_boundary",
+    "chunk_index": 1,
+    "total_chunks": 6
+  },
+  {
+    "chunk_id": "cdc_chunk_0002_c65e2bcd",
+    "document_id": "cdc",
+    "document_name": "Código de Defesa do Consumidor (Lei 8.078/1990)",
+    "source_type": "norma_publica",
+    "authority": "Planalto",
+    "legal_weight": "lei_federal",
+    "topic": "direitos_consumidor",
+    "subtopics": [
+      "responsabilidade",
+      "praticas_abusivas",
+      "publicidade",
+      "contratos"
+    ],
+    "article": "Art. 14",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "1991-03-11",
+    "effective_to": null,
+    "version": "compilada_2026_04",
+    "text": "Art. 14. O fornecedor de serviços responde, independentemente da existência de culpa, pela reparação dos danos causados aos consumidores por defeitos relativos à prestação dos serviços.\n§ 1º O serviço é defeituoso quando não fornece a segurança que o consumidor dele pode esperar.",
+    "char_count": 280,
+    "split_method": "article_boundary",
+    "chunk_index": 2,
+    "total_chunks": 6
+  },
+  {
+    "chunk_id": "cdc_chunk_0003_0589106a",
+    "document_id": "cdc",
+    "document_name": "Código de Defesa do Consumidor (Lei 8.078/1990)",
+    "source_type": "norma_publica",
+    "authority": "Planalto",
+    "legal_weight": "lei_federal",
+    "topic": "direitos_consumidor",
+    "subtopics": [
+      "responsabilidade",
+      "praticas_abusivas",
+      "publicidade",
+      "contratos"
+    ],
+    "article": "Art. 20",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "1991-03-11",
+    "effective_to": null,
+    "version": "compilada_2026_04",
+    "text": "Art. 20. O fornecedor de serviços responde pelos vícios de qualidade que os tornem impróprios ao consumo ou lhes diminuam o valor.\n\nCAPÍTULO V - DA PROTEÇÃO CONTRATUAL",
+    "char_count": 167,
+    "split_method": "article_boundary",
+    "chunk_index": 3,
+    "total_chunks": 6
+  },
+  {
+    "chunk_id": "cdc_chunk_0004_d623f673",
+    "document_id": "cdc",
+    "document_name": "Código de Defesa do Consumidor (Lei 8.078/1990)",
+    "source_type": "norma_publica",
+    "authority": "Planalto",
+    "legal_weight": "lei_federal",
+    "topic": "direitos_consumidor",
+    "subtopics": [
+      "responsabilidade",
+      "praticas_abusivas",
+      "publicidade",
+      "contratos"
+    ],
+    "article": "Art. 49",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "1991-03-11",
+    "effective_to": null,
+    "version": "compilada_2026_04",
+    "text": "Art. 49. O consumidor pode desistir do contrato, no prazo de 7 dias a contar de sua assinatura ou do ato de recebimento do produto ou serviço, sempre que a contratação de fornecimento de produtos e serviços ocorrer fora do estabelecimento comercial, especialmente por telefone ou a domicílio.\nParágrafo único. Se o consumidor exercitar o direito de arrependimento previsto neste artigo, os valores eventualmente pagos, a qualquer título, durante o prazo de reflexão, serão devolvidos, de imediato, monetariamente atualizados.",
+    "char_count": 525,
+    "split_method": "article_boundary",
+    "chunk_index": 4,
+    "total_chunks": 6
+  },
+  {
+    "chunk_id": "cdc_chunk_0005_7ec12b1f",
+    "document_id": "cdc",
+    "document_name": "Código de Defesa do Consumidor (Lei 8.078/1990)",
+    "source_type": "norma_publica",
+    "authority": "Planalto",
+    "legal_weight": "lei_federal",
+    "topic": "direitos_consumidor",
+    "subtopics": [
+      "responsabilidade",
+      "praticas_abusivas",
+      "publicidade",
+      "contratos"
+    ],
+    "article": "Art. 51",
+    "flight_scope": [
+      "domestico",
+      "internacional"
+    ],
+    "business_scope": [
+      "passageiro"
+    ],
+    "effective_from": "1991-03-11",
+    "effective_to": null,
+    "version": "compilada_2026_04",
+    "text": "Art. 51. São nulas de pleno direito as cláusulas contratuais que:\nIV - estabeleçam obrigações consideradas iníquas, abusivas;\nXV - estejam em desacordo com o sistema de proteção ao consumidor.",
+    "char_count": 192,
+    "split_method": "article_boundary",
+    "chunk_index": 5,
+    "total_chunks": 6
+  }
+]

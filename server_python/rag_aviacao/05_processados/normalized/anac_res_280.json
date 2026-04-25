@@ -1,0 +1,666 @@
+{
+  "document_id": "anac_res_280",
+  "document_name": "Resolução ANAC nº 280/2013",
+  "source_type": "norma_publica",
+  "authority": "ANAC",
+  "status": "normalized",
+  "total_pages": 16,
+  "total_chars": 25195,
+  "legal_elements_found": 95,
+  "legal_structure": [
+    {
+      "type": "artigo",
+      "label": "Art. 1º",
+      "text_start": "Estabelecer, nos termos desta Resolução, os procedimentos relativos à",
+      "position": 773
+    },
+    {
+      "type": "artigo",
+      "label": "Art. 2º",
+      "text_start": "Esta Resolução aplica-se aos passageiros, operadores aeroportuários,",
+      "position": 958
+    },
+    {
+      "type": "paragrafo",
+      "label": "§ 1º",
+      "text_start": "O disposto nesta Resolução não se aplica aos procedimentos de embarque e",
+      "position": 1213
+    },
+    {
+      "type": "paragrafo",
+      "label": "§ 2º",
+      "text_start": "O disposto nesta Resolução não deve implicar prejuízo à legislação nacional ou",
+      "position": 1451
+    },
+    {
+      "type": "paragrafo",
+      "label": "§ 3º",
+      "text_start": "O disposto no Anexo II desta Resolução aplica-se somente às aeronaves",
+      "position": 1700
+    },
+    {
+      "type": "capitulo",
+      "label": "CAPÍTULO I",
+      "name": "DISPOSIÇÕES GERAIS",
+      "position": 1799
+    },
+    {
+      "type": "artigo",
+      "label": "Art. 3º",
+      "text_start": "Para efeito desta Resolução, entende-se por PNAE pessoa com deficiência,",
+      "position": 1829
+    },
+    {
+      "type": "artigo",
+      "label": "Art. 4º",
+      "text_start": "As comunicações entre operadores aeroportuários, operadores aéreos e seus",
+      "position": 2165
+    },
+    {
+      "type": "artigo",
+      "label": "Art. 5º",
+      "text_start": "Os operadores aeroportuários, operadores aéreos e seus prepostos devem",
+      "position": 2323
+    },
+    {
+      "type": "artigo",
+      "label": "Art. 6º",
+      "text_start": "O PNAE tem direito aos mesmos serviços que são prestados aos usuários em",
+      "position": 2485
+    },
+    {
+      "type": "paragrafo",
+      "label": "§ 1º",
+      "text_start": "Pode haver restrições aos serviços prestados quando não houver condições",
+      "position": 2990
+    },
+    {
+      "type": "paragrafo",
+      "label": "§ 2º",
+      "text_start": "O operador aéreo deve divulgar as condições gerais e restrições ao transporte",
+      "position": 3284
+    },
+    {
+      "type": "artigo",
+      "label": "Art. 7º",
+      "text_start": "É assegurado ao PNAE dispensar a assistência especial a que tenha direito,",
+      "position": 3427
+    },
+    {
+      "type": "artigo",
+      "label": "Art. 8º",
+      "text_start": "A prestação de assistência especial de que trata esta Resolução não deve",
+      "position": 3553
+    },
+    {
+      "type": "paragrafo",
+      "label": "§ 1º",
+      "text_start": "Excetuam-se do previsto no caput as assistências previstas nos incisos I e II do",
+      "position": 3668
+    },
+    {
+      "type": "paragrafo",
+      "label": "§ 2º",
+      "text_start": "O disposto no caput não impede a cobrança:",
+      "position": 3764
+    },
+    {
+      "type": "paragrafo",
+      "label": "§ 3º",
+      "text_start": "Na cobrança pelos serviços mencionados no § 2º deste artigo, o operador aéreo",
+      "position": 4079
+    },
+    {
+      "type": "capitulo",
+      "label": "CAPÍTULO II",
+      "name": "PROCEDIMENTOS PRÉVIOS À VIAGEM",
+      "position": 4554
+    },
+    {
+      "type": "artigo",
+      "label": "Art. 9º",
+      "text_start": "O operador aéreo, no momento da contratação do serviço de transporte",
+      "position": 4597
+    },
+    {
+      "type": "paragrafo",
+      "label": "§ 1º",
+      "text_start": "O PNAE deve informar ao operador aéreo as assistências especiais",
+      "position": 4867
+    },
+    {
+      "type": "paragrafo",
+      "label": "§ 2º",
+      "text_start": "A ausência das informações sobre assistências especiais dentro dos prazos",
+      "position": 5498
+    },
+    {
+      "type": "artigo",
+      "label": "Art. 10",
+      "text_start": "Para fins de avaliação das condições a que se refere o § 1º do art. 6º, é",
+      "position": 5807
+    },
+    {
+      "type": "paragrafo",
+      "label": "§ 1º",
+      "text_start": "O documento médico e o MEDIF devem ser avaliados pelo serviço médico do",
+      "position": 6370
+    },
+    {
+      "type": "paragrafo",
+      "label": "§ 2º",
+      "text_start": "Para o transporte de passageiros nas condições mencionadas nos incisos I e II",
+      "position": 6558
+    },
+    {
+      "type": "paragrafo",
+      "label": "§ 3º",
+      "text_start": "O operador aéreo deve adotar as medidas que possibilitem a isenção da",
+      "position": 6723
+    },
+    {
+      "type": "artigo",
+      "label": "Art. 11",
+      "text_start": "A recusa da prestação do serviço de transporte aéreo ao PNAE deve ser",
+      "position": 7017
+    },
+    {
+      "type": "artigo",
+      "label": "Art. 12",
+      "text_start": "O operador aéreo não pode limitar a quantidade de PNAE a bordo.",
+      "position": 7406
+    },
+    {
+      "type": "artigo",
+      "label": "Art. 13",
+      "text_start": "O operador aéreo deve prover ao PNAE informações a respeito dos",
+      "position": 7479
+    },
+    {
+      "type": "capitulo",
+      "label": "CAPÍTULO III",
+      "name": "ASSISTÊNCIA DURANTE A VIAGEM",
+      "position": 7731
+    },
+    {
+      "type": "secao",
+      "label": "Seção I",
+      "name": "Disposições Gerais",
+      "position": 7773
+    },
+    {
+      "type": "artigo",
+      "label": "Art. 14",
+      "text_start": "O operador aéreo deve prestar assistência ao PNAE nas seguintes",
+      "position": 7800
+    },
+    {
+      "type": "artigo",
+      "label": "Art. 15",
+      "text_start": "A assistência especial durante a viagem deve começar a ser disponibilizada",
+      "position": 8894
+    },
+    {
+      "type": "artigo",
+      "label": "Art. 16",
+      "text_start": "O PNAE deve se apresentar para o check-in com a mesma antecedência",
+      "position": 9240
+    },
+    {
+      "type": "artigo",
+      "label": "Art. 17",
+      "text_start": "O operador aéreo deve realizar o embarque do PNAE prioritariamente em",
+      "position": 9545
+    },
+    {
+      "type": "artigo",
+      "label": "Art. 18",
+      "text_start": "O desembarque do PNAE deve ser realizado logo após o desembarque dos",
+      "position": 9664
+    },
+    {
+      "type": "artigo",
+      "label": "Art. 19",
+      "text_start": "A responsabilidade pela assistência ao PNAE, nos termos do art. 14, em",
+      "position": 9862
+    },
+    {
+      "type": "artigo",
+      "label": "Art. 20",
+      "text_start": "O embarque e o desembarque do PNAE que dependa de assistência do tipo",
+      "position": 10085
+    },
+    {
+      "type": "paragrafo",
+      "label": "§ 1º",
+      "text_start": "O equipamento de ascenso e descenso ou rampa previstos no caput devem ser",
+      "position": 10327
+    },
+    {
+      "type": "paragrafo",
+      "label": "§ 2º",
+      "text_start": "É facultado ao operador aéreo disponibilizar e operar seu próprio equipamento",
+      "position": 10525
+    },
+    {
+      "type": "paragrafo",
+      "label": "§ 3º",
+      "text_start": "Os operadores aéreo e aeroportuário estão autorizados a celebrar contratos,",
+      "position": 10641
+    },
+    {
+      "type": "paragrafo",
+      "label": "§ 4º",
+      "text_start": "Excetua-se do previsto no caput o embarque ou desembarque de PNAE em",
+      "position": 10968
+    },
+    {
+      "type": "paragrafo",
+      "label": "§ 5º",
+      "text_start": "Nos casos especificados no § 4º deste artigo, o embarque ou desembarque do",
+      "position": 11214
+    },
+    {
+      "type": "paragrafo",
+      "label": "§ 6º",
+      "text_start": "Para fins do disposto no § 5º deste artigo, carregar manualmente o passageiro",
+      "position": 11509
+    },
+    {
+      "type": "paragrafo",
+      "label": "§ 7º",
+      "text_start": "Cabe ao operador aéreo prover os meios para o embarque ou desembarque do",
+      "position": 11764
+    },
+    {
+      "type": "artigo",
+      "label": "Art. 21",
+      "text_start": "O operador aéreo deve prestar ao operador aeroportuário, tempestivamente,",
+      "position": 11901
+    },
+    {
+      "type": "paragrafo",
+      "label": "§ 1º",
+      "text_start": "O operador aeroportuário deve estabelecer os procedimentos e prazos para a",
+      "position": 12223
+    },
+    {
+      "type": "paragrafo",
+      "label": "§ 2º",
+      "text_start": "O operador aeroportuário deve manter disponíveis ao público as informações",
+      "position": 12353
+    },
+    {
+      "type": "secao",
+      "label": "Seção II",
+      "name": "Ajudas Técnicas e Equipamentos Médicos",
+      "position": 12584
+    },
+    {
+      "type": "artigo",
+      "label": "Art. 22",
+      "text_start": "As ajudas técnicas utilizadas pelo PNAE para auxílio na sua locomoção e os",
+      "position": 12632
+    },
+    {
+      "type": "artigo",
+      "label": "Art. 23",
+      "text_start": "O operador aéreo deve transportar gratuitamente a ajuda técnica empregada",
+      "position": 12909
+    },
+    {
+      "type": "artigo",
+      "label": "Art. 24",
+      "text_start": "Quando necessário, o equipamento médico a ser utilizado durante o voo",
+      "position": 13227
+    },
+    {
+      "type": "artigo",
+      "label": "Art. 25",
+      "text_start": "As ajudas técnicas e os equipamentos médicos do PNAE, quando",
+      "position": 13459
+    },
+    {
+      "type": "paragrafo",
+      "label": "§ 1º",
+      "text_start": "A ajuda técnica ou o equipamento médico devem ser declarados, identificados e",
+      "position": 13648
+    },
+    {
+      "type": "paragrafo",
+      "label": "§ 2º",
+      "text_start": "No caso de extravio ou avaria de ajudas técnicas ou equipamentos médicos, o",
+      "position": 13822
+    },
+    {
+      "type": "paragrafo",
+      "label": "§ 3º",
+      "text_start": "A perda ou a inutilização são constatadas quando a ajuda técnica ou o",
+      "position": 14001
+    },
+    {
+      "type": "paragrafo",
+      "label": "§ 4º",
+      "text_start": "Ao constatar a perda ou a inutilização, o operador aéreo deve efetuar o",
+      "position": 14247
+    },
+    {
+      "type": "paragrafo",
+      "label": "§ 5º",
+      "text_start": "A ajuda técnica ou o equipamento médico disponibilizados pelo operador aéreo",
+      "position": 14477
+    },
+    {
+      "type": "paragrafo",
+      "label": "§ 6º",
+      "text_start": "Outras formas de compensação ao PNAE poderão ser estabelecidas por acordo",
+      "position": 14794
+    },
+    {
+      "type": "artigo",
+      "label": "Art. 26",
+      "text_start": "O transporte de ajudas técnicas, equipamentos médicos ou quaisquer outros",
+      "position": 15027
+    },
+    {
+      "type": "secao",
+      "label": "Seção III",
+      "name": "Acompanhante",
+      "position": 15395
+    },
+    {
+      "type": "artigo",
+      "label": "Art. 27",
+      "text_start": "O PNAE com deficiência ou mobilidade reduzida deve ser acompanhado",
+      "position": 15418
+    },
+    {
+      "type": "paragrafo",
+      "label": "§ 1º",
+      "text_start": "Nos casos previstos nos incisos I a III deste artigo, o operador aéreo deve",
+      "position": 15742
+    },
+    {
+      "type": "paragrafo",
+      "label": "§ 2º",
+      "text_start": "O operador aéreo deverá fornecer resposta por escrito, no prazo de 48",
+      "position": 16061
+    },
+    {
+      "type": "artigo",
+      "label": "Art. 28",
+      "text_start": "O acompanhante deve ser maior de 18 (dezoito) anos e possuir condições",
+      "position": 16219
+    },
+    {
+      "type": "secao",
+      "label": "Seção IV",
+      "name": "Cão-Guia ou Cão-Guia de Acompanhamento",
+      "position": 16511
+    },
+    {
+      "type": "artigo",
+      "label": "Art. 29",
+      "text_start": "O PNAE usuário de cão-guia ou cão-guia de acompanhamento pode",
+      "position": 16559
+    },
+    {
+      "type": "paragrafo",
+      "label": "§ 1º",
+      "text_start": "O cão-guia ou o cão-guia de acompanhamento devem ser transportados",
+      "position": 16822
+    },
+    {
+      "type": "paragrafo",
+      "label": "§ 2º",
+      "text_start": "O cão-guia ou o cão-guia de acompanhamento devem ser acomodados de",
+      "position": 17058
+    },
+    {
+      "type": "paragrafo",
+      "label": "§ 3º",
+      "text_start": "O cão-guia ou o cão-guia de acompanhamento em fase de treinamento devem",
+      "position": 17199
+    },
+    {
+      "type": "paragrafo",
+      "label": "§ 4º",
+      "text_start": "O operador aéreo não é obrigado a oferecer alimentação ao cão-guia ou ao",
+      "position": 17382
+    },
+    {
+      "type": "artigo",
+      "label": "Art. 30",
+      "text_start": "Para o transporte de cão-guia ou cão-guia de acompanhamento em",
+      "position": 17532
+    },
+    {
+      "type": "secao",
+      "label": "Seção V",
+      "name": "Designação de Assentos e Mecanismos de Contenção",
+      "position": 17728
+    },
+    {
+      "type": "artigo",
+      "label": "Art. 31",
+      "text_start": "O operador aéreo brasileiro deve disponibilizar:",
+      "position": 17786
+    },
+    {
+      "type": "paragrafo",
+      "label": "§ 1º",
+      "text_start": "O PNAE pode utilizar mecanismo de retenção adicional de sua propriedade,",
+      "position": 18550
+    },
+    {
+      "type": "paragrafo",
+      "label": "§ 2º",
+      "text_start": "Uma vez que um determinado mecanismo de retenção adicional tenha sido",
+      "position": 18760
+    },
+    {
+      "type": "artigo",
+      "label": "Art. 32",
+      "text_start": "Caso o PNAE apresente limitação que exija manter a posição de seu",
+      "position": 19102
+    },
+    {
+      "type": "artigo",
+      "label": "Art. 33",
+      "text_start": "O PNAE que dependa de assistência do tipo WCHR, WCHS ou WCHC, o",
+      "position": 19466
+    },
+    {
+      "type": "artigo",
+      "label": "Art. 34",
+      "text_start": "O operador aéreo não pode acomodar o PNAE em um assento adjacente a",
+      "position": 20184
+    },
+    {
+      "type": "capitulo",
+      "label": "CAPÍTULO IV",
+      "name": "CONTROLE DE QUALIDADE DOS SERVIÇOS DE ASSISTÊNCIA ESPECIAL",
+      "position": 20365
+    },
+    {
+      "type": "artigo",
+      "label": "Art. 35",
+      "text_start": "Os operadores aéreos e aeroportuários devem estabelecer programa de",
+      "position": 20436
+    },
+    {
+      "type": "artigo",
+      "label": "Art. 36",
+      "text_start": "Os operadores aéreos e aeroportuários devem implementar sistema de",
+      "position": 20937
+    },
+    {
+      "type": "artigo",
+      "label": "Art. 37",
+      "text_start": "Os operadores aéreos e aeroportuários devem realizar e manter, por 2 (dois)",
+      "position": 21103
+    },
+    {
+      "type": "artigo",
+      "label": "Art. 38",
+      "text_start": "Os operadores aéreos e aeroportuários devem realizar e manter, por 2 (dois)",
+      "position": 22066
+    },
+    {
+      "type": "artigo",
+      "label": "Art. 39",
+      "text_start": "Os operadores aéreos e os operadores de aeroportos onde operem voos",
+      "position": 22299
+    },
+    {
+      "type": "paragrafo",
+      "label": "§ 1º",
+      "text_start": "O responsável por acessibilidade deve estar disponível para contato de forma",
+      "position": 22577
+    },
+    {
+      "type": "paragrafo",
+      "label": "§ 2º",
+      "text_start": "A orientação do responsável por acessibilidade não pode contrariar uma decisão",
+      "position": 22728
+    },
+    {
+      "type": "capitulo",
+      "label": "CAPÍTULO V",
+      "name": "DISPOSIÇÕES FINAIS",
+      "position": 22878
+    },
+    {
+      "type": "artigo",
+      "label": "Art. 40",
+      "text_start": "A ANAC pode solicitar, a qualquer tempo, as informações relacionadas aos",
+      "position": 22909
+    },
+    {
+      "type": "artigo",
+      "label": "Art. 41",
+      "text_start": "O Anexo III da Resolução nº 25, de 25 de agosto de 2008, passa a vigorar",
+      "position": 23007
+    },
+    {
+      "type": "artigo",
+      "label": "Art. 42",
+      "text_start": "Os equipamentos referidos no art. 20 deverão ser disponibilizados pelo",
+      "position": 23855
+    },
+    {
+      "type": "paragrafo",
+      "label": "§ 1º",
+      "text_start": "A quantidade de passageiros movimentados será calculada pela soma dos",
+      "position": 24396
+    },
+    {
+      "type": "paragrafo",
+      "label": "§ 2º",
+      "text_start": "Até o vencimento dos prazos mencionados neste artigo, permanece com o",
+      "position": 24550
+    },
+    {
+      "type": "artigo",
+      "label": "Art. 43",
+      "text_start": "Os Anexos desta Resolução encontram-se publicados no Boletim de Pessoal",
+      "position": 24746
+    },
+    {
+      "type": "artigo",
+      "label": "Art. 44",
+      "text_start": "Esta Resolução entra em vigor 180 (cento e oitenta) dias após sua",
+      "position": 24909
+    },
+    {
+      "type": "artigo",
+      "label": "Art. 45",
+      "text_start": "Fica revogada a Resolução nº 9, de 5 de junho de 2007, publicada no Diário",
+      "position": 24996
+    }
+  ],
+  "full_text": "RESOLUÇÃO No- 280, DE 11 DE JULHO DE 2013\nDispõe sobre os procedimentos \nrelativos\n \nà\n \nacessibilidade\n \nde \npassageiros com necessidade de \nassistência especial ao transporte \naéreo e dá outras providências.\nA DIRETORIA DA AGÊNCIA NACIONAL DE AVIAÇÃOCIVIL - ANAC, \nno exercício das competências que lhe foram outorgadas pelos arts. 8º, incisos IV e \nX, e 11 da Lei nº 11.182, de 27 de setembro de 2005, tendo em vista o disposto nas \nLeis nos 10.048, de 8 de novembro de 2000, e 10.098, de 19 de dezembro de 2000, \ne nos Decretos nos 5.296, de 2 de dezembro de 2004, e 6.949, de 25 de agosto de \n2009, e considerando o que consta do processo nº 60800.174362/2011-11, \ndeliberado e aprovado na Reunião Deliberativa da Diretoria realizada em 11 de julho \nde 2013, resolve:\nArt. 1º Estabelecer, nos termos desta Resolução, os procedimentos relativos à \nacessibilidade de passageiro com necessidade de assistência especial (PNAE) ao \ntransporte aéreo público.\nArt. 2º Esta Resolução aplica-se aos passageiros, operadores aeroportuários, \noperadores aéreos e seus prepostos, nos serviços de transporte aéreo público de \npassageiros doméstico ou internacional, regular ou não regular, exceto serviços de \ntáxi aéreo.\n§ 1º O disposto nesta Resolução não se aplica aos procedimentos de embarque e \ndesembarque realizados fora do território nacional e aos procedimentos prévios à \nviagem e durante o voo de uma etapa com partida fora do território nacional.\n§ 2º O disposto nesta Resolução não deve implicar prejuízo à legislação nacional ou \nestrangeira aplicável referente à segurança da aviação civil contra atos de \ninterferência ilícita, à segurança operacional, ou à facilitação do transporte aéreo.\n\n§ 3º O disposto no Anexo II desta Resolução aplica-se somente às aeronaves \nregistradas no Brasil.\nCAPÍTULO I\nDISPOSIÇÕES GERAIS\nArt. 3º Para efeito desta Resolução, entende-se por PNAE pessoa com deficiência, \npessoa com idade igual ou superior a 60 (sessenta) anos, gestante, lactante, pessoa \nacompanhada por criança de colo, pessoa com mobilidade reduzida ou qualquer \npessoa que por alguma condição específica tenha limitação na sua autonomia como\npassageiro.\nArt. 4º As comunicações entre operadores aeroportuários, operadores aéreos e seus \nprepostos devem empregar os códigos constantes no Anexo I desta Resolução.\nArt. 5º Os operadores aeroportuários, operadores aéreos e seus prepostos devem \nadotar as medidas necessárias para garantir a integridade física e moral do PNAE.\nArt. 6º O PNAE tem direito aos mesmos serviços que são prestados aos usuários em \ngeral, porém em condições de atendimento prioritário, em todas as fases de sua \nviagem, inclusive com precedência aos passageiros frequentes, durante a vigência \ndo contrato de transporte aéreo, observadas as suas necessidades especiais de \natendimento, incluindo o acesso às informações e às instruções, às instalações \naeroportuárias, às aeronaves e aos veículos à disposição dos demais passageiros \ndo transporte aéreo.\n§ 1º Pode haver restrições aos serviços prestados quando não houver condições \npara garantir a saúde e a segurança do PNAE ou dos demais passageiros, com \nbase nas condições previstas em atos normativos da ANAC, no manual geral de \noperações ou nas especificações operativas do operador aéreo.\n§ 2º O operador aéreo deve divulgar as condições gerais e restrições ao transporte \ndo PNAE e de suas ajudas técnicas e equipamentos médicos.\n\nArt. 7º É assegurado ao PNAE dispensar a assistência especial a que tenha direito, \nressalvado o disposto no § 2º do art. 2º.\nArt. 8º A prestação de assistência especial de que trata esta Resolução não deve \nacarretar qualquer ônus ao PNAE.\n§ 1º Excetuam-se do previsto no caput as assistências previstas nos incisos I e II do \nart. 10.\n§ 2º O disposto no caput não impede a cobrança:\nI - pelos assentos adicionais necessários à acomodação do PNAE, de suas ajudas \ntécnicas ou de equipamentos médicos, cuja ocupação por outro passageiro esteja \nimpedida; e\nII - pelo transporte de bagagem acima do limite da franquia, observado o disposto no \nart. 23.\n§ 3º Na cobrança pelos serviços mencionados no § 2º deste artigo, o operador aéreo \ndeve:\nI - cobrar por cada assento adicional necessário ao atendimento, um valor igual ou \ninferior a 20% (vinte por cento) do valor do bilhete aéreo adquirido pelo PNAE; e\nII - oferecer desconto de, no mínimo, 80% (oitenta por cento) no valor cobrado pelo \nexcesso de bagagem, exclusivamente para o transporte de ajudas técnicas ou \nequipamentos médicos indispensáveis utilizados pelo PNAE.\nCAPÍTULO II\nPROCEDIMENTOS PRÉVIOS À VIAGEM\nArt. 9º O operador aéreo, no momento da contratação do serviço de transporte \naéreo, deve questionar ao PNAE sobre a necessidade de acompanhante, ajudas \ntécnicas, recursos de comunicação e outras assistências, independentemente do \ncanal de comercialização utilizado.\n\n§ 1º O PNAE deve informar ao operador aéreo as assistências especiais \nnecessárias:\nI - no momento da contratação do serviço de transporte aéreo, em resposta ao \nquestionamento do operador aéreo;\nII - com antecedência mínima de 72 (setenta e duas) horas do horário previsto de \npartida do voo para o PNAE que necessita de acompanhante, nos termos do art. 27, \nou da apresentação de documentos médicos, nos termos do art. 10; ou\nIII - com antecedência mínima de 48 (quarenta e oito) horas do horário previsto de \npartida do voo para o PNAE que necessita de outros tipos de assistência não \nmencionados no inciso II deste parágrafo.\n§ 2º A ausência das informações sobre assistências especiais dentro dos prazos \nespecificados neste artigo não deve inviabilizar o transporte do PNAE quando \nhouver concordância do passageiro em ser transportado com as assistências que \nestiverem disponíveis, observado, ainda, o disposto no § 2º do art. 2º.\nArt. 10. Para fins de avaliação das condições a que se refere o § 1º do art. 6º, é \nfacultado ao operador aéreo exigir a apresentação de Formulário de Informações \nMédicas (MEDIF) ou outro documento médico com informações sobre as condições \nde saúde do PNAE que:\nI - necessite viajar em maca ou incubadora;\nII - necessite utilizar oxigênio ou outro equipamento médico; ou\nIII - apresente condições de saúde que possa resultar em risco para si ou para os \ndemais passageiros ou necessidade de atenção médica extraordinária no caso de \nrealização de viagem aérea.\n§ 1º O documento médico e o MEDIF devem ser avaliados pelo serviço médico do \noperador aéreo, especializado em medicina de aviação, com prazo para resposta de \n48 (quarenta e oito) horas.\n§ 2º Para o transporte de passageiros nas condições mencionadas nos incisos I e II\n\ndeste artigo, pode ser exigida certificação, conforme regulamentação específica.\n§ 3º O operador aéreo deve adotar as medidas que possibilitem a isenção da \nexigência de apresentação do documento médico ou do MEDIF quando as \ncondições que caracterizam a pessoa como PNAE forem de caráter permanente e \nestável e os documentos já tiverem sido apresentados ao operador aéreo.\nArt. 11. A recusa da prestação do serviço de transporte aéreo ao PNAE deve ser \njustificada por escrito no prazo de 10 (dez) dias, exclusivamente com base nas \ncondições previstas no § 1º do art. 6º.\nParágrafo único. O eventual desconforto ou inconveniente causado a outros \npassageiros ou tripulantes não constituem justificativa para recusa da prestação do \nserviço de transporte aéreo.\nArt. 12. O operador aéreo não pode limitar a quantidade de PNAE a bordo.\nArt. 13. O operador aéreo deve prover ao PNAE informações a respeito dos \nprocedimentos a serem adotados em todas as fases do transporte aéreo.\nParágrafo único. O PNAE deve informar, nos termos do art. 9º, os recursos de \ncomunicação de que necessita.\nCAPÍTULO III\nASSISTÊNCIA DURANTE A VIAGEM\nSeção I\nDisposições Gerais\nArt. 14. O operador aéreo deve prestar assistência ao PNAE nas seguintes \natividades:\nI - check-in e despacho de bagagem;\nII - deslocamento do balcão de check-in até a aeronave, passando pelos controles\n\nde fronteira e de segurança;\nIII - embarque e desembarque da aeronave;\nIV - acomodação no assento, incluindo o deslocamento dentro da aeronave;\nV - acomodação da bagagem de mão na aeronave;\nVI - deslocamento desde a aeronave até a área de restituição de bagagem;\nVII - recolhimento da bagagem despachada e acompanhamento nos controles de \nfronteira;\nVIII - saída da área de desembarque e acesso à área pública;\nIX - condução às instalações sanitárias;\nX - prestação de assistência a PNAE usuário de cão-guia ou cão-guia de \nacompanhamento;\nXI - transferência ou conexão entre voos; e\nXII - realização de demonstração individual ao PNAE dos procedimentos de \nemergência, quando solicitado.\nParágrafo único. Cabe ao operador aéreo o provimento das ajudas técnicas \nnecessárias para a execução da assistência prevista neste artigo, com exceção do \nprevisto no § 1º do art. 20 desta Resolução.\nArt. 15. A assistência especial durante a viagem deve começar a ser disponibilizada \npelo operador aéreo ao PNAE no momento da apresentação para o check-in.\nParágrafo único. Caso o PNAE realize o check-in por outro meio que não o \natendimento presencial, este deve, na chegada ao aeroporto, identificar-se a um \nrepresentante do operador aéreo. \nArt. 16. O PNAE deve se apresentar para o check-in com a mesma antecedência \ndos demais passageiros.\nParágrafo único. Para os casos previstos nos incisos I e II do art. 10, o operador \naéreo pode estabelecer prazos de apresentação diferenciados, devendo informar ao \npassageiro a antecedência necessária.\nArt. 17. O operador aéreo deve realizar o embarque do PNAE prioritariamente em\n\nrelação a todos os demais passageiros.\nArt. 18. O desembarque do PNAE deve ser realizado logo após o desembarque dos \ndemais passageiros, exceto quando o tempo disponível para a conexão ou outra \ncircunstância justifiquem a priorização.\nArt. 19. A responsabilidade pela assistência ao PNAE, nos termos do art. 14, em \nvoos de conexão, permanece com o operador aéreo que realizou a etapa de \nchegada até que haja a apresentação ao operador da etapa de partida.\nArt. 20. O embarque e o desembarque do PNAE que dependa de assistência do tipo \nSTCR, WCHS ou WCHC devem ser realizados preferencialmente por pontes de \nembarque, podendo também ser realizados por equipamento de ascenso e \ndescenso ou rampa.\n§ 1º O equipamento de ascenso e descenso ou rampa previstos no caput devem ser \ndisponibilizados e operados pelo operador aeroportuário, podendo ser cobrado \npreço específico dos operadores aéreos.\n§ 2º É facultado ao operador aéreo disponibilizar e operar seu próprio equipamento \nde ascenso e descenso ou rampa.\n§ 3º Os operadores aéreo e aeroportuário estão autorizados a celebrar contratos, \nacordos ou outros instrumentos jurídicos com outros operadores ou com empresas \nde serviços auxiliares ao transporte aéreo para disponibilização e operação dos \nequipamentos de ascenso e descenso ou rampa previstos nos §§ 1º e 2º deste \nartigo.\n§ 4º Excetua-se do previsto no caput o embarque ou desembarque de PNAE em \naeronaves cuja altura máxima da parte inferior do vão da porta de acesso à cabine \nde passageiros em relação ao solo não exceda 1,60 m (um metro e sessenta \ncentímetros).\n§ 5º Nos casos especificados no § 4º deste artigo, o embarque ou desembarque do\n\nPNAE podem ser realizados por outros meios, desde que garantidas suas \nsegurança e dignidade, sendo vedado carregar manualmente o passageiro, exceto \nnas situações que exijam a evacuação de emergência da aeronave.\n§ 6º Para fins do disposto no § 5º deste artigo, carregar manualmente o passageiro \nsignifica sustentá-lo, segurando diretamente em partes de seu corpo, com o efeito \nde elevá-lo ou abaixá-lo da aeronave ao nível necessário para embarcar ou \ndesembarcar.\n§ 7º Cabe ao operador aéreo prover os meios para o embarque ou desembarque do \nPNAE nos casos especificados nos §§ 4º e 5º deste artigo.\nArt. 21. O operador aéreo deve prestar ao operador aeroportuário, tempestivamente, \nas informações necessárias para o atendimento do PNAE no aeroporto, em \nparticular para fins de alocação de pontes de embarque para as aeronaves que \nestejam transportando PNAE que dependa das assistências previstas no caput do \nart. 20.\n§ 1º O operador aeroportuário deve estabelecer os procedimentos e prazos para a \nprestação das informações mencionadas no caput. \n§ 2º O operador aeroportuário deve manter disponíveis ao público as informações \nacerca dos meios que podem ser empregados em cada aeroporto para o embarque \ne desembarque do PNAE que dependa das assistências previstas no art. 20.\nSeção II\nAjudas Técnicas e Equipamentos Médicos\nArt. 22. As ajudas técnicas utilizadas pelo PNAE para auxílio na sua locomoção e os \nequipamentos médicos podem ser utilizados na área restrita de segurança e levados \naté a porta da aeronave, desde que submetidos à verificação no canal de inspeção \nde segurança do aeroporto.\nArt. 23. O operador aéreo deve transportar gratuitamente a ajuda técnica empregada\n\npara a locomoção do PNAE, limitada a 1 (uma) peça:\nI - na cabine da aeronave, quando houver espaço adequado; ou\nII - no compartimento de bagagem da aeronave, devendo ser disponibilizada ao \nPNAE no momento do desembarque da aeronave.\nArt. 24. Quando necessário, o equipamento médico a ser utilizado durante o voo \ndeve ser transportado na cabine.\nParágrafo único. O PNAE pode utilizar equipamento médico de sua propriedade, \nobservado o disposto no § 2º do art. 2º.\nArt. 25. As ajudas técnicas e os equipamentos médicos do PNAE, quando \ndespachados, devem ser considerados itens frágeis e prioritários, devendo ser \ntransportados no mesmo voo que o PNAE.\n§ 1º A ajuda técnica ou o equipamento médico devem ser declarados, identificados e \napresentados ao operador aéreo, o qual deve entregar ao PNAE comprovante de \nrecebimento.\n§ 2º No caso de extravio ou avaria de ajudas técnicas ou equipamentos médicos, o \noperador aéreo deve providenciar, no desembarque, a substituição imediata por item \nequivalente.\n§ 3º A perda ou a inutilização são constatadas quando a ajuda técnica ou o \nequipamento médico não tenham sido restituídos ao PNAE nas mesmas condições \nem que foram apresentados ao operador aéreo após 48 (quarenta e oito) horas do \ndesembarque.\n§ 4º Ao constatar a perda ou a inutilização, o operador aéreo deve efetuar o \npagamento de indenização ao PNAE no valor de mercado da ajuda técnica ou do \nequipamento médico perdido ou inutilizado, no prazo de 14 (quatorze) dias.\n§ 5º A ajuda técnica ou o equipamento médico disponibilizados pelo operador aéreo\n\nnos termos do § 2º deste artigo devem permanecer à disposição do PNAE até que \neste efetue a aquisição ou substituição da ajuda técnica ou do equipamento médico, \nlimitado ao prazo de 15 (quinze) dias após o pagamento da indenização.\n§ 6º Outras formas de compensação ao PNAE poderão ser estabelecidas por acordo \nespecífico entre as partes, devendo o operador aéreo neste caso informar \npreviamente ao PNAE sobre seus direitos previstos nos §§ 2º a 5º deste artigo.\nArt. 26. O transporte de ajudas técnicas, equipamentos médicos ou quaisquer outros \nque envolvam artigos classificados como perigosos para o transporte aéreo deve ser \nexecutado em conformidade com os requisitos técnicos da seção 175.11 do \nRegulamento Brasileiro da Aviação Civil nº 175 (RBAC nº 175), intitulado \"Transporte\nde Artigos Perigosos em Aeronaves Civis\".\nSeção III\nAcompanhante\nArt. 27. O PNAE com deficiência ou mobilidade reduzida deve ser acompanhado \nsempre que:\nI - viaje em maca ou incubadora;\nII - em virtude de impedimento de natureza mental ou intelectual, não possa \ncompreender as instruções de segurança de voo; ou\nIII - não possa atender às suas necessidades fisiológicas sem assistência.\n§ 1º Nos casos previstos nos incisos I a III deste artigo, o operador aéreo deve \nprover acompanhante, sem cobrança adicional, ou exigir a presença do \nacompanhante de escolha do PNAE e cobrar pelo assento do acompanhante valor \nigual ou inferior a 20% (vinte por cento) do valor do bilhete aéreo adquirido pelo \nPNAE.\n§ 2º O operador aéreo deverá fornecer resposta por escrito, no prazo de 48 \n(quarenta e oito) horas, às solicitações de acompanhante previstas neste artigo.\n\nArt. 28. O acompanhante deve ser maior de 18 (dezoito) anos e possuir condições \nde prestar auxílio nas assistências necessárias ao PNAE, inclusive as previstas no \nart. 14.\nParágrafo único. O acompanhante deve viajar na mesma classe e em assento \nadjacente ao do PNAE que esteja assistindo.\nSeção IV\nCão-Guia ou Cão-Guia de Acompanhamento\nArt. 29. O PNAE usuário de cão-guia ou cão-guia de acompanhamento pode \ningressar e permanecer com o animal no edifício terminal de passageiros e na \ncabine da aeronave, mediante apresentação de identificação do cão-guia e \ncomprovação de treinamento do usuário.\n§ 1º O cão-guia ou o cão-guia de acompanhamento devem ser transportados \ngratuitamente no chão da cabine da aeronave, em local adjacente ao de seu dono e \nsob seu controle, desde que equipado com arreio, dispensado o uso de focinheira.\n§ 2º O cão-guia ou o cão-guia de acompanhamento devem ser acomodados de \nmodo a não obstruir, total ou parcialmente, o corredor da aeronave.\n§ 3º O cão-guia ou o cão-guia de acompanhamento em fase de treinamento devem \nser admitidos na forma do caput quando em companhia de treinador, instrutor ou \nacompanhante habilitado.\n§ 4º O operador aéreo não é obrigado a oferecer alimentação ao cão-guia ou ao \ncão-guia de acompanhamento, sendo esta responsabilidade do passageiro.\nArt. 30. Para o transporte de cão-guia ou cão-guia de acompanhamento em \naeronave, devem ser cumpridas as exigências das autoridades sanitárias nacionais \ne do país de destino, quando for o caso.\nSeção V\n\nDesignação de Assentos e Mecanismos de Contenção\nArt. 31. O operador aéreo brasileiro deve disponibilizar:\nI - sistema de contenção para criança de colo ou permitir que o responsável pela \ncriança o forneça, desde que em conformidade com os requisitos técnicos do \nparágrafo 121.311(b) do RBAC nº 121, intitulado \"Requisitos Operacionais: \nOperações Domésticas, de Bandeira e Suplementares\";\nII - assentos especiais, junto ao corredor, localizados na dianteira e traseira da \naeronave, o mais próximo possível das saídas, dotados de descansos de braço \nmóveis, dispostos em quantidade mínima conforme Anexo II desta Resolução, sendo \nvedada sua localização nas saídas de emergência; e\nIII - mecanismo de retenção adicional ao PNAE que apresente limitação que o \nimpeça de permanecer ereto no encosto da aeronave.\n§ 1º O PNAE pode utilizar mecanismo de retenção adicional de sua propriedade, \ndevendo, neste caso, protocolar solicitação de autorização à ANAC com \nantecedência mínima de 20 (vinte) dias da data do embarque.\n§ 2º Uma vez que um determinado mecanismo de retenção adicional tenha sido \nautorizado pela ANAC, o PNAE fica dispensado de solicitar a autorização para sua \nutilização em outras viagens, bastando apresentar ao operador aéreo, no momento \ndo embarque, a autorização correspondente, desde que ela esteja dentro da sua \nvalidade, se aplicável.\nArt. 32. Caso o PNAE apresente limitação que exija manter a posição de seu \nassento com encosto na posição reclinada em todas as fases do voo, inclusive \npouso e decolagem, fica impedida a ocupação do assento localizado imediatamente \natrás e dos assentos que tenham acesso ao(s) corredor(es) da aeronave obstruídos \npelo assento com encosto na posição reclinada.\nArt. 33. O PNAE que dependa de assistência do tipo WCHR, WCHS ou WCHC, o \nPNAE acompanhado de cão-guia ou cão-guia de acompanhamento e o PNAE cuja \narticulação do joelho não permita a manutenção da perna flexionada devem ser\n\nalocados pelo operador aéreo em fileiras com espaços extras ou assentos dotados \nde dispositivos específicos, se disponíveis, para atender às suas necessidades, em \nlocal compatível com a classe escolhida e o bilhete aéreo adquirido.\nParágrafo único. O PNAE que dependa de assistência do tipo WCHC deve ocupar \ncom precedência aos demais passageiros os assentos junto ao corredor localizados \nem fileiras próximas às portas principais de embarque e desembarque da aeronave \ne dos lavatórios.\nArt. 34. O operador aéreo não pode acomodar o PNAE em um assento adjacente a \numa saída de emergência ou de maneira que promova obstrução total ou parcial do \ncorredor da aeronave.\nCAPÍTULO IV\nCONTROLE DE QUALIDADE DOS SERVIÇOS DE ASSISTÊNCIA ESPECIAL\nArt. 35. Os operadores aéreos e aeroportuários devem estabelecer programa de \ntreinamento para suas equipes de terra e de bordo que realizem atendimento a \npassageiros e para o responsável por acessibilidade previsto no art. 39, com o \nobjetivo de capacitá-los para o adequado atendimento ao PNAE, devendo \ndisponibilizar a documentação comprobatória quando solicitado pela ANAC.\nParágrafo único. O programa de treinamento mencionado no caput deverá observar \no disposto no Anexo III desta Resolução.\nArt. 36. Os operadores aéreos e aeroportuários devem implementar sistema de \ncontrole de qualidade de serviço prestado a PNAE, com base nos atendimentos \nrealizados.\nArt. 37. Os operadores aéreos e aeroportuários devem realizar e manter, por 2 (dois) \nanos, os registros dos atendimentos a PNAE, para acompanhamento e controle \nestatístico, devendo ser cadastradas, conforme cada caso, as seguintes \ninformações:\n\nI - para cada serviço de transporte aéreo de PNAE realizado:\na) data de realização;\nb) aeroportos de origem, destino e conexão;\nc) tipo(s) da(s) aeronave(s) que realizou(aram) o transporte;\nd) tipo(s) de atendimento(s) prestado(s), de acordo com os códigos do Anexo I desta \nResolução;\ne) ajuda(s) técnica(s), equipamento(s) médico(s) ou demais equipamentos \ndisponibilizado(s);\nf) realização ou não de comunicação prévia, nos termos do art. 9º ou do art. 21; e\ng) presença ou não de acompanhante e de cão-guia ou cão-guia de \nacompanhamento; e\nII - para cada serviço de transporte aéreo de PNAE solicitado e não realizado:\na) data da solicitação do serviço; e\nb) motivo da recusa ou falha na prestação do serviço.\nArt. 38. Os operadores aéreos e aeroportuários devem realizar e manter, por 2 (dois) \nanos, o registro sobre troca de informações entre operadores e com o PNAE, \nincluindo os momentos de recebimento e transmissão de cada informação.\nArt. 39. Os operadores aéreos e os operadores de aeroportos onde operem voos \nregulares devem manter, em período integral de suas operações, funcionário \nresponsável por acessibilidade a ser consultado para solução de eventuais \nocorrências relacionadas ao atendimento ao PNAE.\n§ 1º O responsável por acessibilidade deve estar disponível para contato de forma \npresencial ou por outros meios que permitam o atendimento imediato.\n§ 2º A orientação do responsável por acessibilidade não pode contrariar uma decisão \nbaseada em segurança operacional adotada pelo piloto em comando.\nCAPÍTULO V\n\nDISPOSIÇÕES FINAIS\nArt. 40. A ANAC pode solicitar, a qualquer tempo, as informações relacionadas aos \narts. 35 a 38.\nArt. 41. O Anexo III da Resolução nº 25, de 25 de agosto de 2008, passa a vigorar \ncom as seguintes alterações:\nI - na tabela IV - FACILITAÇÃO DO TRANSPORTE AÉREO - Empresa Aérea:\na) os itens 1, 5, 6, 9, 13 e 14 passam a vigorar com a redação dada no Anexo IV \ndesta Resolução;\nb) ficam acrescidos os itens 16 a 27, na forma do Anexo IV desta Resolução; e\nc) ficam revogados os itens 4, 7, 8, 10, 11, 12 e 15;\nII - na tabela IV - FACILITAÇÃO DO TRANSPORTE AÉREO - Administração \nAeroportuária:\na) os itens 7 e 15 passam a vigorar com a redação dada no Anexo IV desta \nResolução;\nb) ficam acrescidos os itens 18 a 23, na forma do Anexo IV desta Resolução; e\nc) ficam revogados os itens 1, 5, 6, 8, 13, 14 e 16;\nIII - no cabeçalho da tabela do Anexo III, fica acrescido o texto \"CÓDIGO \nBRASILEIRO DA AERONÁUTICA - ART. 1º, §3º, C/C ARTS. 12 E 289\".\nArt. 42. Os equipamentos referidos no art. 20 deverão ser disponibilizados pelo \noperador aeroportuário, nos termos do seu § 1º, obedecendo ao seguinte \ncronograma:\nI - até dezembro de 2013: aeroportos que movimentaram 2.000.000 (dois milhões) \nde passageiros ou mais por ano;\nII - até dezembro de 2014: aeroportos que movimentaram mais de 500.000 \n(quinhentos mil) e menos de 2.000.000 (dois milhões) de passageiros por ano; e\n\nIII - até dezembro de 2015: aeroportos que movimentaram 500.000 (quinhentos mil) \npassageiros ou menos por ano.\n§ 1º A quantidade de passageiros movimentados será calculada pela soma dos \nembarques, desembarques e conexões verificados no ano imediatamente anterior.\n§ 2º Até o vencimento dos prazos mencionados neste artigo, permanece com o \noperador aéreo a responsabilidade pela disponibilização dos equipamentos referidos \nno § 1º do art. 20 desta Resolução.\nArt. 43. Os Anexos desta Resolução encontram-se publicados no Boletim de Pessoal \ne\n \nServiço\n \n-\n \nBPS\n \ndesta\n \nAgência\n \n(endereço\n \neletrônico \n\ncomputadores.\nArt. 44. Esta Resolução entra em vigor 180 (cento e oitenta) dias após sua \npublicação\nArt. 45. Fica revogada a Resolução nº 9, de 5 de junho de 2007, publicada no Diário \nOficial da União de 14 de junho de 2007, Seção 1, páginas 18 e 19.\nMARCELO PACHECO DOS GUARANYS\nDiretor-Presidente",
+  "pages": [
+    {
+      "page": 1,
+      "text": "RESOLUÇÃO No- 280, DE 11 DE JULHO DE 2013\nDispõe sobre os procedimentos \nrelativos\n \nà\n \nacessibilidade\n \nde \npassageiros com necessidade de \nassistência especial ao transporte \naéreo e dá outras providências.\nA DIRETORIA DA AGÊNCIA NACIONAL DE AVIAÇÃOCIVIL - ANAC, \nno exercício das competências que lhe foram outorgadas pelos arts. 8º, incisos IV e \nX, e 11 da Lei nº 11.182, de 27 de setembro de 2005, tendo em vista o disposto nas \nLeis nos 10.048, de 8 de novembro de 2000, e 10.098, de 19 de dezembro de 2000, \ne nos Decretos nos 5.296, de 2 de dezembro de 2004, e 6.949, de 25 de agosto de \n2009, e considerando o que consta do processo nº 60800.174362/2011-11, \ndeliberado e aprovado na Reunião Deliberativa da Diretoria realizada em 11 de julho \nde 2013, resolve:\nArt. 1º Estabelecer, nos termos desta Resolução, os procedimentos relativos à \nacessibilidade de passageiro com necessidade de assistência especial (PNAE) ao \ntransporte aéreo público.\nArt. 2º Esta Resolução aplica-se aos passageiros, operadores aeroportuários, \noperadores aéreos e seus prepostos, nos serviços de transporte aéreo público de \npassageiros doméstico ou internacional, regular ou não regular, exceto serviços de \ntáxi aéreo.\n§ 1º O disposto nesta Resolução não se aplica aos procedimentos de embarque e \ndesembarque realizados fora do território nacional e aos procedimentos prévios à \nviagem e durante o voo de uma etapa com partida fora do território nacional.\n§ 2º O disposto nesta Resolução não deve implicar prejuízo à legislação nacional ou \nestrangeira aplicável referente à segurança da aviação civil contra atos de \ninterferência ilícita, à segurança operacional, ou à facilitação do transporte aéreo.",
+      "char_count": 1698
+    },
+    {
+      "page": 2,
+      "text": "§ 3º O disposto no Anexo II desta Resolução aplica-se somente às aeronaves \nregistradas no Brasil.\nCAPÍTULO I\nDISPOSIÇÕES GERAIS\nArt. 3º Para efeito desta Resolução, entende-se por PNAE pessoa com deficiência, \npessoa com idade igual ou superior a 60 (sessenta) anos, gestante, lactante, pessoa \nacompanhada por criança de colo, pessoa com mobilidade reduzida ou qualquer \npessoa que por alguma condição específica tenha limitação na sua autonomia como\npassageiro.\nArt. 4º As comunicações entre operadores aeroportuários, operadores aéreos e seus \nprepostos devem empregar os códigos constantes no Anexo I desta Resolução.\nArt. 5º Os operadores aeroportuários, operadores aéreos e seus prepostos devem \nadotar as medidas necessárias para garantir a integridade física e moral do PNAE.\nArt. 6º O PNAE tem direito aos mesmos serviços que são prestados aos usuários em \ngeral, porém em condições de atendimento prioritário, em todas as fases de sua \nviagem, inclusive com precedência aos passageiros frequentes, durante a vigência \ndo contrato de transporte aéreo, observadas as suas necessidades especiais de \natendimento, incluindo o acesso às informações e às instruções, às instalações \naeroportuárias, às aeronaves e aos veículos à disposição dos demais passageiros \ndo transporte aéreo.\n§ 1º Pode haver restrições aos serviços prestados quando não houver condições \npara garantir a saúde e a segurança do PNAE ou dos demais passageiros, com \nbase nas condições previstas em atos normativos da ANAC, no manual geral de \noperações ou nas especificações operativas do operador aéreo.\n§ 2º O operador aéreo deve divulgar as condições gerais e restrições ao transporte \ndo PNAE e de suas ajudas técnicas e equipamentos médicos.",
+      "char_count": 1725
+    },
+    {
+      "page": 3,
+      "text": "Art. 7º É assegurado ao PNAE dispensar a assistência especial a que tenha direito, \nressalvado o disposto no § 2º do art. 2º.\nArt. 8º A prestação de assistência especial de que trata esta Resolução não deve \nacarretar qualquer ônus ao PNAE.\n§ 1º Excetuam-se do previsto no caput as assistências previstas nos incisos I e II do \nart. 10.\n§ 2º O disposto no caput não impede a cobrança:\nI - pelos assentos adicionais necessários à acomodação do PNAE, de suas ajudas \ntécnicas ou de equipamentos médicos, cuja ocupação por outro passageiro esteja \nimpedida; e\nII - pelo transporte de bagagem acima do limite da franquia, observado o disposto no \nart. 23.\n§ 3º Na cobrança pelos serviços mencionados no § 2º deste artigo, o operador aéreo \ndeve:\nI - cobrar por cada assento adicional necessário ao atendimento, um valor igual ou \ninferior a 20% (vinte por cento) do valor do bilhete aéreo adquirido pelo PNAE; e\nII - oferecer desconto de, no mínimo, 80% (oitenta por cento) no valor cobrado pelo \nexcesso de bagagem, exclusivamente para o transporte de ajudas técnicas ou \nequipamentos médicos indispensáveis utilizados pelo PNAE.\nCAPÍTULO II\nPROCEDIMENTOS PRÉVIOS À VIAGEM\nArt. 9º O operador aéreo, no momento da contratação do serviço de transporte \naéreo, deve questionar ao PNAE sobre a necessidade de acompanhante, ajudas \ntécnicas, recursos de comunicação e outras assistências, independentemente do \ncanal de comercialização utilizado.",
+      "char_count": 1438
+    },
+    {
+      "page": 4,
+      "text": "§ 1º O PNAE deve informar ao operador aéreo as assistências especiais \nnecessárias:\nI - no momento da contratação do serviço de transporte aéreo, em resposta ao \nquestionamento do operador aéreo;\nII - com antecedência mínima de 72 (setenta e duas) horas do horário previsto de \npartida do voo para o PNAE que necessita de acompanhante, nos termos do art. 27, \nou da apresentação de documentos médicos, nos termos do art. 10; ou\nIII - com antecedência mínima de 48 (quarenta e oito) horas do horário previsto de \npartida do voo para o PNAE que necessita de outros tipos de assistência não \nmencionados no inciso II deste parágrafo.\n§ 2º A ausência das informações sobre assistências especiais dentro dos prazos \nespecificados neste artigo não deve inviabilizar o transporte do PNAE quando \nhouver concordância do passageiro em ser transportado com as assistências que \nestiverem disponíveis, observado, ainda, o disposto no § 2º do art. 2º.\nArt. 10. Para fins de avaliação das condições a que se refere o § 1º do art. 6º, é \nfacultado ao operador aéreo exigir a apresentação de Formulário de Informações \nMédicas (MEDIF) ou outro documento médico com informações sobre as condições \nde saúde do PNAE que:\nI - necessite viajar em maca ou incubadora;\nII - necessite utilizar oxigênio ou outro equipamento médico; ou\nIII - apresente condições de saúde que possa resultar em risco para si ou para os \ndemais passageiros ou necessidade de atenção médica extraordinária no caso de \nrealização de viagem aérea.\n§ 1º O documento médico e o MEDIF devem ser avaliados pelo serviço médico do \noperador aéreo, especializado em medicina de aviação, com prazo para resposta de \n48 (quarenta e oito) horas.\n§ 2º Para o transporte de passageiros nas condições mencionadas nos incisos I e II",
+      "char_count": 1773
+    },
+    {
+      "page": 5,
+      "text": "deste artigo, pode ser exigida certificação, conforme regulamentação específica.\n§ 3º O operador aéreo deve adotar as medidas que possibilitem a isenção da \nexigência de apresentação do documento médico ou do MEDIF quando as \ncondições que caracterizam a pessoa como PNAE forem de caráter permanente e \nestável e os documentos já tiverem sido apresentados ao operador aéreo.\nArt. 11. A recusa da prestação do serviço de transporte aéreo ao PNAE deve ser \njustificada por escrito no prazo de 10 (dez) dias, exclusivamente com base nas \ncondições previstas no § 1º do art. 6º.\nParágrafo único. O eventual desconforto ou inconveniente causado a outros \npassageiros ou tripulantes não constituem justificativa para recusa da prestação do \nserviço de transporte aéreo.\nArt. 12. O operador aéreo não pode limitar a quantidade de PNAE a bordo.\nArt. 13. O operador aéreo deve prover ao PNAE informações a respeito dos \nprocedimentos a serem adotados em todas as fases do transporte aéreo.\nParágrafo único. O PNAE deve informar, nos termos do art. 9º, os recursos de \ncomunicação de que necessita.\nCAPÍTULO III\nASSISTÊNCIA DURANTE A VIAGEM\nSeção I\nDisposições Gerais\nArt. 14. O operador aéreo deve prestar assistência ao PNAE nas seguintes \natividades:\nI - check-in e despacho de bagagem;\nII - deslocamento do balcão de check-in até a aeronave, passando pelos controles",
+      "char_count": 1360
+    },
+    {
+      "page": 6,
+      "text": "de fronteira e de segurança;\nIII - embarque e desembarque da aeronave;\nIV - acomodação no assento, incluindo o deslocamento dentro da aeronave;\nV - acomodação da bagagem de mão na aeronave;\nVI - deslocamento desde a aeronave até a área de restituição de bagagem;\nVII - recolhimento da bagagem despachada e acompanhamento nos controles de \nfronteira;\nVIII - saída da área de desembarque e acesso à área pública;\nIX - condução às instalações sanitárias;\nX - prestação de assistência a PNAE usuário de cão-guia ou cão-guia de \nacompanhamento;\nXI - transferência ou conexão entre voos; e\nXII - realização de demonstração individual ao PNAE dos procedimentos de \nemergência, quando solicitado.\nParágrafo único. Cabe ao operador aéreo o provimento das ajudas técnicas \nnecessárias para a execução da assistência prevista neste artigo, com exceção do \nprevisto no § 1º do art. 20 desta Resolução.\nArt. 15. A assistência especial durante a viagem deve começar a ser disponibilizada \npelo operador aéreo ao PNAE no momento da apresentação para o check-in.\nParágrafo único. Caso o PNAE realize o check-in por outro meio que não o \natendimento presencial, este deve, na chegada ao aeroporto, identificar-se a um \nrepresentante do operador aéreo. \nArt. 16. O PNAE deve se apresentar para o check-in com a mesma antecedência \ndos demais passageiros.\nParágrafo único. Para os casos previstos nos incisos I e II do art. 10, o operador \naéreo pode estabelecer prazos de apresentação diferenciados, devendo informar ao \npassageiro a antecedência necessária.\nArt. 17. O operador aéreo deve realizar o embarque do PNAE prioritariamente em",
+      "char_count": 1619
+    },
+    {
+      "page": 7,
+      "text": "relação a todos os demais passageiros.\nArt. 18. O desembarque do PNAE deve ser realizado logo após o desembarque dos \ndemais passageiros, exceto quando o tempo disponível para a conexão ou outra \ncircunstância justifiquem a priorização.\nArt. 19. A responsabilidade pela assistência ao PNAE, nos termos do art. 14, em \nvoos de conexão, permanece com o operador aéreo que realizou a etapa de \nchegada até que haja a apresentação ao operador da etapa de partida.\nArt. 20. O embarque e o desembarque do PNAE que dependa de assistência do tipo \nSTCR, WCHS ou WCHC devem ser realizados preferencialmente por pontes de \nembarque, podendo também ser realizados por equipamento de ascenso e \ndescenso ou rampa.\n§ 1º O equipamento de ascenso e descenso ou rampa previstos no caput devem ser \ndisponibilizados e operados pelo operador aeroportuário, podendo ser cobrado \npreço específico dos operadores aéreos.\n§ 2º É facultado ao operador aéreo disponibilizar e operar seu próprio equipamento \nde ascenso e descenso ou rampa.\n§ 3º Os operadores aéreo e aeroportuário estão autorizados a celebrar contratos, \nacordos ou outros instrumentos jurídicos com outros operadores ou com empresas \nde serviços auxiliares ao transporte aéreo para disponibilização e operação dos \nequipamentos de ascenso e descenso ou rampa previstos nos §§ 1º e 2º deste \nartigo.\n§ 4º Excetua-se do previsto no caput o embarque ou desembarque de PNAE em \naeronaves cuja altura máxima da parte inferior do vão da porta de acesso à cabine \nde passageiros em relação ao solo não exceda 1,60 m (um metro e sessenta \ncentímetros).\n§ 5º Nos casos especificados no § 4º deste artigo, o embarque ou desembarque do",
+      "char_count": 1668
+    },
+    {
+      "page": 8,
+      "text": "PNAE podem ser realizados por outros meios, desde que garantidas suas \nsegurança e dignidade, sendo vedado carregar manualmente o passageiro, exceto \nnas situações que exijam a evacuação de emergência da aeronave.\n§ 6º Para fins do disposto no § 5º deste artigo, carregar manualmente o passageiro \nsignifica sustentá-lo, segurando diretamente em partes de seu corpo, com o efeito \nde elevá-lo ou abaixá-lo da aeronave ao nível necessário para embarcar ou \ndesembarcar.\n§ 7º Cabe ao operador aéreo prover os meios para o embarque ou desembarque do \nPNAE nos casos especificados nos §§ 4º e 5º deste artigo.\nArt. 21. O operador aéreo deve prestar ao operador aeroportuário, tempestivamente, \nas informações necessárias para o atendimento do PNAE no aeroporto, em \nparticular para fins de alocação de pontes de embarque para as aeronaves que \nestejam transportando PNAE que dependa das assistências previstas no caput do \nart. 20.\n§ 1º O operador aeroportuário deve estabelecer os procedimentos e prazos para a \nprestação das informações mencionadas no caput. \n§ 2º O operador aeroportuário deve manter disponíveis ao público as informações \nacerca dos meios que podem ser empregados em cada aeroporto para o embarque \ne desembarque do PNAE que dependa das assistências previstas no art. 20.\nSeção II\nAjudas Técnicas e Equipamentos Médicos\nArt. 22. As ajudas técnicas utilizadas pelo PNAE para auxílio na sua locomoção e os \nequipamentos médicos podem ser utilizados na área restrita de segurança e levados \naté a porta da aeronave, desde que submetidos à verificação no canal de inspeção \nde segurança do aeroporto.\nArt. 23. O operador aéreo deve transportar gratuitamente a ajuda técnica empregada",
+      "char_count": 1696
+    },
+    {
+      "page": 9,
+      "text": "para a locomoção do PNAE, limitada a 1 (uma) peça:\nI - na cabine da aeronave, quando houver espaço adequado; ou\nII - no compartimento de bagagem da aeronave, devendo ser disponibilizada ao \nPNAE no momento do desembarque da aeronave.\nArt. 24. Quando necessário, o equipamento médico a ser utilizado durante o voo \ndeve ser transportado na cabine.\nParágrafo único. O PNAE pode utilizar equipamento médico de sua propriedade, \nobservado o disposto no § 2º do art. 2º.\nArt. 25. As ajudas técnicas e os equipamentos médicos do PNAE, quando \ndespachados, devem ser considerados itens frágeis e prioritários, devendo ser \ntransportados no mesmo voo que o PNAE.\n§ 1º A ajuda técnica ou o equipamento médico devem ser declarados, identificados e \napresentados ao operador aéreo, o qual deve entregar ao PNAE comprovante de \nrecebimento.\n§ 2º No caso de extravio ou avaria de ajudas técnicas ou equipamentos médicos, o \noperador aéreo deve providenciar, no desembarque, a substituição imediata por item \nequivalente.\n§ 3º A perda ou a inutilização são constatadas quando a ajuda técnica ou o \nequipamento médico não tenham sido restituídos ao PNAE nas mesmas condições \nem que foram apresentados ao operador aéreo após 48 (quarenta e oito) horas do \ndesembarque.\n§ 4º Ao constatar a perda ou a inutilização, o operador aéreo deve efetuar o \npagamento de indenização ao PNAE no valor de mercado da ajuda técnica ou do \nequipamento médico perdido ou inutilizado, no prazo de 14 (quatorze) dias.\n§ 5º A ajuda técnica ou o equipamento médico disponibilizados pelo operador aéreo",
+      "char_count": 1565
+    },
+    {
+      "page": 10,
+      "text": "nos termos do § 2º deste artigo devem permanecer à disposição do PNAE até que \neste efetue a aquisição ou substituição da ajuda técnica ou do equipamento médico, \nlimitado ao prazo de 15 (quinze) dias após o pagamento da indenização.\n§ 6º Outras formas de compensação ao PNAE poderão ser estabelecidas por acordo \nespecífico entre as partes, devendo o operador aéreo neste caso informar \npreviamente ao PNAE sobre seus direitos previstos nos §§ 2º a 5º deste artigo.\nArt. 26. O transporte de ajudas técnicas, equipamentos médicos ou quaisquer outros \nque envolvam artigos classificados como perigosos para o transporte aéreo deve ser \nexecutado em conformidade com os requisitos técnicos da seção 175.11 do \nRegulamento Brasileiro da Aviação Civil nº 175 (RBAC nº 175), intitulado \"Transporte\nde Artigos Perigosos em Aeronaves Civis\".\nSeção III\nAcompanhante\nArt. 27. O PNAE com deficiência ou mobilidade reduzida deve ser acompanhado \nsempre que:\nI - viaje em maca ou incubadora;\nII - em virtude de impedimento de natureza mental ou intelectual, não possa \ncompreender as instruções de segurança de voo; ou\nIII - não possa atender às suas necessidades fisiológicas sem assistência.\n§ 1º Nos casos previstos nos incisos I a III deste artigo, o operador aéreo deve \nprover acompanhante, sem cobrança adicional, ou exigir a presença do \nacompanhante de escolha do PNAE e cobrar pelo assento do acompanhante valor \nigual ou inferior a 20% (vinte por cento) do valor do bilhete aéreo adquirido pelo \nPNAE.\n§ 2º O operador aéreo deverá fornecer resposta por escrito, no prazo de 48 \n(quarenta e oito) horas, às solicitações de acompanhante previstas neste artigo.",
+      "char_count": 1657
+    },
+    {
+      "page": 11,
+      "text": "Art. 28. O acompanhante deve ser maior de 18 (dezoito) anos e possuir condições \nde prestar auxílio nas assistências necessárias ao PNAE, inclusive as previstas no \nart. 14.\nParágrafo único. O acompanhante deve viajar na mesma classe e em assento \nadjacente ao do PNAE que esteja assistindo.\nSeção IV\nCão-Guia ou Cão-Guia de Acompanhamento\nArt. 29. O PNAE usuário de cão-guia ou cão-guia de acompanhamento pode \ningressar e permanecer com o animal no edifício terminal de passageiros e na \ncabine da aeronave, mediante apresentação de identificação do cão-guia e \ncomprovação de treinamento do usuário.\n§ 1º O cão-guia ou o cão-guia de acompanhamento devem ser transportados \ngratuitamente no chão da cabine da aeronave, em local adjacente ao de seu dono e \nsob seu controle, desde que equipado com arreio, dispensado o uso de focinheira.\n§ 2º O cão-guia ou o cão-guia de acompanhamento devem ser acomodados de \nmodo a não obstruir, total ou parcialmente, o corredor da aeronave.\n§ 3º O cão-guia ou o cão-guia de acompanhamento em fase de treinamento devem \nser admitidos na forma do caput quando em companhia de treinador, instrutor ou \nacompanhante habilitado.\n§ 4º O operador aéreo não é obrigado a oferecer alimentação ao cão-guia ou ao \ncão-guia de acompanhamento, sendo esta responsabilidade do passageiro.\nArt. 30. Para o transporte de cão-guia ou cão-guia de acompanhamento em \naeronave, devem ser cumpridas as exigências das autoridades sanitárias nacionais \ne do país de destino, quando for o caso.\nSeção V",
+      "char_count": 1516
+    },
+    {
+      "page": 12,
+      "text": "Designação de Assentos e Mecanismos de Contenção\nArt. 31. O operador aéreo brasileiro deve disponibilizar:\nI - sistema de contenção para criança de colo ou permitir que o responsável pela \ncriança o forneça, desde que em conformidade com os requisitos técnicos do \nparágrafo 121.311(b) do RBAC nº 121, intitulado \"Requisitos Operacionais: \nOperações Domésticas, de Bandeira e Suplementares\";\nII - assentos especiais, junto ao corredor, localizados na dianteira e traseira da \naeronave, o mais próximo possível das saídas, dotados de descansos de braço \nmóveis, dispostos em quantidade mínima conforme Anexo II desta Resolução, sendo \nvedada sua localização nas saídas de emergência; e\nIII - mecanismo de retenção adicional ao PNAE que apresente limitação que o \nimpeça de permanecer ereto no encosto da aeronave.\n§ 1º O PNAE pode utilizar mecanismo de retenção adicional de sua propriedade, \ndevendo, neste caso, protocolar solicitação de autorização à ANAC com \nantecedência mínima de 20 (vinte) dias da data do embarque.\n§ 2º Uma vez que um determinado mecanismo de retenção adicional tenha sido \nautorizado pela ANAC, o PNAE fica dispensado de solicitar a autorização para sua \nutilização em outras viagens, bastando apresentar ao operador aéreo, no momento \ndo embarque, a autorização correspondente, desde que ela esteja dentro da sua \nvalidade, se aplicável.\nArt. 32. Caso o PNAE apresente limitação que exija manter a posição de seu \nassento com encosto na posição reclinada em todas as fases do voo, inclusive \npouso e decolagem, fica impedida a ocupação do assento localizado imediatamente \natrás e dos assentos que tenham acesso ao(s) corredor(es) da aeronave obstruídos \npelo assento com encosto na posição reclinada.\nArt. 33. O PNAE que dependa de assistência do tipo WCHR, WCHS ou WCHC, o \nPNAE acompanhado de cão-guia ou cão-guia de acompanhamento e o PNAE cuja \narticulação do joelho não permita a manutenção da perna flexionada devem ser",
+      "char_count": 1953
+    },
+    {
+      "page": 13,
+      "text": "alocados pelo operador aéreo em fileiras com espaços extras ou assentos dotados \nde dispositivos específicos, se disponíveis, para atender às suas necessidades, em \nlocal compatível com a classe escolhida e o bilhete aéreo adquirido.\nParágrafo único. O PNAE que dependa de assistência do tipo WCHC deve ocupar \ncom precedência aos demais passageiros os assentos junto ao corredor localizados \nem fileiras próximas às portas principais de embarque e desembarque da aeronave \ne dos lavatórios.\nArt. 34. O operador aéreo não pode acomodar o PNAE em um assento adjacente a \numa saída de emergência ou de maneira que promova obstrução total ou parcial do \ncorredor da aeronave.\nCAPÍTULO IV\nCONTROLE DE QUALIDADE DOS SERVIÇOS DE ASSISTÊNCIA ESPECIAL\nArt. 35. Os operadores aéreos e aeroportuários devem estabelecer programa de \ntreinamento para suas equipes de terra e de bordo que realizem atendimento a \npassageiros e para o responsável por acessibilidade previsto no art. 39, com o \nobjetivo de capacitá-los para o adequado atendimento ao PNAE, devendo \ndisponibilizar a documentação comprobatória quando solicitado pela ANAC.\nParágrafo único. O programa de treinamento mencionado no caput deverá observar \no disposto no Anexo III desta Resolução.\nArt. 36. Os operadores aéreos e aeroportuários devem implementar sistema de \ncontrole de qualidade de serviço prestado a PNAE, com base nos atendimentos \nrealizados.\nArt. 37. Os operadores aéreos e aeroportuários devem realizar e manter, por 2 (dois) \nanos, os registros dos atendimentos a PNAE, para acompanhamento e controle \nestatístico, devendo ser cadastradas, conforme cada caso, as seguintes \ninformações:",
+      "char_count": 1657
+    },
+    {
+      "page": 14,
+      "text": "I - para cada serviço de transporte aéreo de PNAE realizado:\na) data de realização;\nb) aeroportos de origem, destino e conexão;\nc) tipo(s) da(s) aeronave(s) que realizou(aram) o transporte;\nd) tipo(s) de atendimento(s) prestado(s), de acordo com os códigos do Anexo I desta \nResolução;\ne) ajuda(s) técnica(s), equipamento(s) médico(s) ou demais equipamentos \ndisponibilizado(s);\nf) realização ou não de comunicação prévia, nos termos do art. 9º ou do art. 21; e\ng) presença ou não de acompanhante e de cão-guia ou cão-guia de \nacompanhamento; e\nII - para cada serviço de transporte aéreo de PNAE solicitado e não realizado:\na) data da solicitação do serviço; e\nb) motivo da recusa ou falha na prestação do serviço.\nArt. 38. Os operadores aéreos e aeroportuários devem realizar e manter, por 2 (dois) \nanos, o registro sobre troca de informações entre operadores e com o PNAE, \nincluindo os momentos de recebimento e transmissão de cada informação.\nArt. 39. Os operadores aéreos e os operadores de aeroportos onde operem voos \nregulares devem manter, em período integral de suas operações, funcionário \nresponsável por acessibilidade a ser consultado para solução de eventuais \nocorrências relacionadas ao atendimento ao PNAE.\n§ 1º O responsável por acessibilidade deve estar disponível para contato de forma \npresencial ou por outros meios que permitam o atendimento imediato.\n§ 2º A orientação do responsável por acessibilidade não pode contrariar uma decisão \nbaseada em segurança operacional adotada pelo piloto em comando.\nCAPÍTULO V",
+      "char_count": 1537
+    },
+    {
+      "page": 15,
+      "text": "DISPOSIÇÕES FINAIS\nArt. 40. A ANAC pode solicitar, a qualquer tempo, as informações relacionadas aos \narts. 35 a 38.\nArt. 41. O Anexo III da Resolução nº 25, de 25 de agosto de 2008, passa a vigorar \ncom as seguintes alterações:\nI - na tabela IV - FACILITAÇÃO DO TRANSPORTE AÉREO - Empresa Aérea:\na) os itens 1, 5, 6, 9, 13 e 14 passam a vigorar com a redação dada no Anexo IV \ndesta Resolução;\nb) ficam acrescidos os itens 16 a 27, na forma do Anexo IV desta Resolução; e\nc) ficam revogados os itens 4, 7, 8, 10, 11, 12 e 15;\nII - na tabela IV - FACILITAÇÃO DO TRANSPORTE AÉREO - Administração \nAeroportuária:\na) os itens 7 e 15 passam a vigorar com a redação dada no Anexo IV desta \nResolução;\nb) ficam acrescidos os itens 18 a 23, na forma do Anexo IV desta Resolução; e\nc) ficam revogados os itens 1, 5, 6, 8, 13, 14 e 16;\nIII - no cabeçalho da tabela do Anexo III, fica acrescido o texto \"CÓDIGO \nBRASILEIRO DA AERONÁUTICA - ART. 1º, §3º, C/C ARTS. 12 E 289\".\nArt. 42. Os equipamentos referidos no art. 20 deverão ser disponibilizados pelo \noperador aeroportuário, nos termos do seu § 1º, obedecendo ao seguinte \ncronograma:\nI - até dezembro de 2013: aeroportos que movimentaram 2.000.000 (dois milhões) \nde passageiros ou mais por ano;\nII - até dezembro de 2014: aeroportos que movimentaram mais de 500.000 \n(quinhentos mil) e menos de 2.000.000 (dois milhões) de passageiros por ano; e",
+      "char_count": 1392
+    },
+    {
+      "page": 16,
+      "text": "III - até dezembro de 2015: aeroportos que movimentaram 500.000 (quinhentos mil) \npassageiros ou menos por ano.\n§ 1º A quantidade de passageiros movimentados será calculada pela soma dos \nembarques, desembarques e conexões verificados no ano imediatamente anterior.\n§ 2º Até o vencimento dos prazos mencionados neste artigo, permanece com o \noperador aéreo a responsabilidade pela disponibilização dos equipamentos referidos \nno § 1º do art. 20 desta Resolução.\nArt. 43. Os Anexos desta Resolução encontram-se publicados no Boletim de Pessoal \ne\n \nServiço\n \n-\n \nBPS\n \ndesta\n \nAgência\n \n(endereço\n \neletrônico \n\ncomputadores.\nArt. 44. Esta Resolução entra em vigor 180 (cento e oitenta) dias após sua \npublicação\nArt. 45. Fica revogada a Resolução nº 9, de 5 de junho de 2007, publicada no Diário \nOficial da União de 14 de junho de 2007, Seção 1, páginas 18 e 19.\nMARCELO PACHECO DOS GUARANYS\nDiretor-Presidente",
+      "char_count": 911
+    }
+  ],
+  "tables": []
+}
